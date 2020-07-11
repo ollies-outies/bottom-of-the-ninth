@@ -1,81 +1,61 @@
-﻿define c = ("Casey")
-define w = ("Whippy")
+﻿
+define c = Character("Casey")
 
 
 label start:
 
-    scene bg park
-    show whippy_card
+    scene bg smoke
 
-    "Jordan Redslide. ''Whippy'', to friends and admirers."
-    "This little birdy has a big secret. Namely, the kid's god an arcane reserve the size of the ocean."
-    "Issue is, he's also got no spell control in the slightest. He's a constantly charging dynamo, with no real place to discharge."
-    "And eventually, the dam as got to burst."
-    "This sometimes comes out as arcane bursts, explosions of pure force, which, while spectactular, are not regulation, and did get him kicked off the Rasko Stonemasons."
-    "Or now, due to runes etched into his uniform, pure strength."
-    "He's a powerhouse in the truest sense of the word..."
+    # This shows a character sprite. A placeholder is used, but you can
+    # replace it by adding a file named "eileen happy.png" to the images
+    # directory.
     
-    show whippy_panic
+    "It was the 5th anniversary."
+
+    show casey
     
-    "He's just also a bit... unpredictable."
-    "I ran into him, after he had, seemingly singlehandedly, leveled a food stall."
-    "Or, what used to be one, at the very least."
-    "I say it was him, not because I saw him do it, but because he was standing over it, biting his feathers, panicing."
-    "Plus, my first words that I heard him say were..."
-    w "Oh gods, not another one!"
-    "I'm no private dick, but you don't have to be one to put two and two together."
-    c "You alright, son?"
-    "He turned so quick, I swore I heard something crack. There was a panic in his eyes that I had never seen before."
-    "He was spiraling quick. I needed to put him at ease somehow."
+    " "
+    "It's been a hard few years since then, but I'd imagine, it was harder for him."
+    
+    "The years hadn't dulled the pain, but it had offered insight. Insight into what people were put here to do."
+    "For some, they get busy living. For others, they caught dying."
+    "How horrible, to be somewhere inbetween."
 
-    menu: 
-            "So I told him..."
+    c " "
+    c "I realize that you probably can't hear this, V, but... this is for me."
+    c "I'm sorry."
+    
+    "My name is Casey Conway Fisk. I'm a ex-professional ball player, living out in the boonies, in a little town called Katabas."
+    "And I've got a story to tell."
+ 
+    scene bg katabisstadium
 
-            "You're that demolishion crew I ordered, right?": 
-             jump whippy_A1
+    "The name of the game was, and still is, Wizardball."
+    "Everyone in the Trikingdom Area knows about it. Even some of the fools in the underworld know about it."
+    "It's fast, unique, and has enough leniancy in the rules that anything and anyone can work."
+    "Course, the few rules they have can't be broken, under any circumstances. Otherwise..."
+    "Well, otherwise your sponsor's stop calling you, and you're forced to skip town, lay low for a while."
+    "I was the biggest star the field's ever seen, ya know. The mighty C.C., up on the mound. Had my face on quite a number of breakfast foods."
+    "But of course, the bigger you are, yada yada."
+    "Maybe it's that desire to be big and important again, or maybe it's the nagging feeling in my heart, since I was asked to leave."
+    "I still love the game, simply put. I love everything about it, from the feeling of dirt pulling at your feet, to the roar of the crowd, as someone lands a Fireball."
+    "And as much as I tried, I couldn't live without it."
+    "See, in those 5 years, I'd realized something. Something stronger than any one of us, something bigger."
+    "Fate."
+    "Fate's what brought me to the game in the first place. Fate's what put V in the wrong place, at the wrong time. Fate's the player, and we're all just pawns."
+    "So... Why fight it?"
+    "Fate'll bring what fate'll bring. All we can do is play with what's been given."
+    # show cardpack
+    "And, in this case, it's a pack of Coven brand ''Minor League's Up & Coming Rookie'' cards."
+    "Complete, of course, with a stick of Gerblin Green Chewing Gum, which was as stale as a rock."
+    "See, I couldn't play in the Major leagues. Board wouldn't let me. Still won't, in fact."
+    "But I could gather a team."
+    "Hand picked, by none other than the swaing hand of fate, I could amass a group of players that were never given the chance to go big, and finally let 'em."
+    "I was done worrying about the fall. I was done letting what could happen prevent me from focusing on what has happened."
+    "Let's see what fate had up first." 
 
-            "Hey, it's okay. It's okay. Breathe. Breathe.": 
-             jump whippy_A2
+    scene bg market
 
+    "I walked into the center of Katabas, the bustling market area, and pulled the first card from the pack."
 
-    label whippy_A1:
-    "He looked at me, more confused than panicked."
-    c "To destroy my old stall, right? I talked to someone yesterday, but the reception was kinda hazy. I thought they said there'd be at least a ''third man'' coming to help."
-    c "I realize what she ment now. It's incredible, that you were able to do this by yourself!"
-    c "And here I was, worried I'd have to split the money three ways."
-    "I gave a chuckle. I hadn't lied that hard since grade school, but it was working. Whippy was calming down."
-    c "Here, why don't you wait over there? I've some quick paperwork, to finish up the ol' girl."
-    "I point to a nearby bench, under a tree. Whippy hesitates, then nods and walks over."
-    "I quickly pull out my pen and paper and write a hastily written ''I O U x 1. STALL. SORRY, C.C.'' and place it on the rubble, before turning back to Whippy."
-    jump whippy_A3
-
-    label whippy_A2:
-    "He, stiffling tears, tried to say,"
-    w "I d-didn't... m-mean t-..."
-    c "Course not, course not! You're fine. No one was hurt, no one was hurt, it was just stuff."
-    c "Stuff can get replaced. Take some deep breaths. Are you okay? "
-    "He seemed surprised at the question, but complied. Breathing in, holding for a few seconds, breathing out."
-    w "Yeah, I'm... I'm fine."
-    c "Here, sit down. We're gonna get through this." 
-    "I gestured to a bench, nearby, where he walked over and cautuously took a seat."
-    jump whippy_A3
-
-
-    label whippy_A3:
-    "I sat down next to him."
-    c "You have a gift, kiddo. Like it or not, fate's given you this crazy power, and the best thing you can do is try to use it for good."
-    "I offerd him my hand."
-    c "I'm starting a pro Wizardball team, here in town. If you'd like, I'd love to have you with us."
-    w "You sure you want m-me? After everything?"
-    c "What, after showing me your skills, or after being a great player?" 
-    "He looked at me, slightly dumbfounded, and gingerly took my hand. I smiled, cocky glint in my eye."
-    c "Go ahead, I can take it."
-    "He gave a glint back, and shook my hand, fully and wholeheartedly." 
-    "I damn near dislocated my arm."
-    c "Meet us at Hell Valley Stadium, in a few days." 
-    "He nodded, almost excited." 
-    w "I'll see you there!"
-   
-
-
-return
+    return
