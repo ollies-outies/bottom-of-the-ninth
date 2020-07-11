@@ -1,94 +1,81 @@
 ﻿define c = ("Casey")
-define r = ("Father Robin")
+define w = ("Whippy")
+
 
 label start:
 
     scene bg park
-    show robin_card
+    show whippy_card
 
-    "Robin Fairweather. A mountain of a man, with a such a deep knowledge of the internal workings of spellcasting that he could put Merlin to shame."
-    "Robin played for the Keetsity Roundabouts, primarily, where he served as one of their defensive aggressors."
-    "But ball was never Robin's passion, you see."
-    "In between the cheering and uproars, Robin heard a higher calling: that of some deity, calling him to care for the weak."
-    "And so, he left the game. No one faulted him for it. It was a shame, but it was what he needed to do."
-    "He started up an orphanage, here in Katabas. Lived a quaint and quiet life for some time. Raised cattle. A flock, some might call it."
-    "But in between visits to the town square, and running market stalls to sell various beadworks and blessings..."
-    show robin_Neutral
-    "I could recognize a man struggling to survive."
+    "Jordan Redslide. ''Whippy'', to friends and admirers."
+    "This little birdy has a big secret. Namely, the kid's god an arcane reserve the size of the ocean."
+    "Issue is, he's also got no spell control in the slightest. He's a constantly charging dynamo, with no real place to discharge."
+    "And eventually, the dam as got to burst."
+    "This sometimes comes out as arcane bursts, explosions of pure force, which, while spectactular, are not regulation, and did get him kicked off the Rasko Stonemasons."
+    "Or now, due to runes etched into his uniform, pure strength."
+    "He's a powerhouse in the truest sense of the word..."
     
-   
- 
-    "He'd never admit it, of course. Faithful men never like admitting that the path they're on is the wrong one."
-    "And that's partially because it wasn't."
-    "Fate'd lead him here, but it was man's inhumanity to man that shafted him in the end."
-    r "Beads for sale. Individualized prayer beads. Each, hand blessed. Certain to bring fortune."
-    "His shill wasn't loud, but it was insistent. He wasn't trying to catch attention. He was talking as if someone was already listening, and already interested."
-    "Down the row, there were several children at various stands, selling Holy Water and Lemon, or various pamphlets of scripture."
-    "I could tell that this cost more than it would've brought in, for certain. It would have been that way, even without people actively avoiding them, and dodging their glances."
-    "I, however, caught his glance wholeheartedly."
+    show whippy_panic
+    
+    "He's just also a bit... unpredictable."
+    "I ran into him, after he had, seemingly singlehandedly, leveled a food stall."
+    "Or, what used to be one, at the very least."
+    "I say it was him, not because I saw him do it, but because he was standing over it, biting his feathers, panicing."
+    "Plus, my first words that I heard him say were..."
+    w "Oh gods, not another one!"
+    "I'm no private dick, but you don't have to be one to put two and two together."
+    c "You alright, son?"
+    "He turned so quick, I swore I heard something crack. There was a panic in his eyes that I had never seen before."
+    "He was spiraling quick. I needed to put him at ease somehow."
 
     menu: 
-            c "Hey pal..."
+            "So I told him..."
 
-            "Are these beads really blessed?": 
-             jump robin_A1
+            "You're that demolishion crew I ordered, right?": 
+             jump whippy_A1
 
-            "Is this the best field trip you could offer?": 
-             jump robin_A2
-
-
-    label robin_A1:
-    "He looked up, a knowing glint in his eye."
-    r "Each individual one. I would know, I've done it myself."
-    "I held one of the charms, a masterpiece in its own right."
-    c "You made each bead?" 
-    r "... I blessed each bead."
-    c "But the beads themselves?"
-    r "More than likely made by hand, by someone, somewhere else."
-    c "Ah. A classic."
-    "I gave a quick glance down the way, to the rest of the stalls. The kids running them looked ragged, but happy."
-    c "It's a good thing you're doing, Robin. These kids needed something like this."
-    r "It is... what is right. It's unfortunate, that they've been forced to do something like this to simply survive, but I want what's best for them."
-    "I looked at Robin, his eyes focused on his flock. He was more ragged than ever. What was once a tall mountain of a man was mined thin, through hardships and strife."
-    c "Yeah, I get where you're coming from."
-    "I put the beads down."
-    c "That's why I wanted to find you, actually."
-    jump robin_A3
-
-    label robin_A2:
-    "He looked up, with concern, more than anger, in his glare."
-    r "It's... not much, but... I think that it cultivates strength."
-    r "Each child is given their own chance to flourish, if just for a moment."
-    r "Some choose to band together. Others try to strike it on their own."
-    r "It's something... defining."
-    c "Builds character?"
-    "He nods."
-    r "Something like that."
-    "He intently focuses on the children. The ones selling holy lemonade decided to close up shop. They brought cups full of the stuff to the other kids."
-    c "Teamwork, even at a young age. Incredible, huh Robin?"
-    "He nods again, slower this time."
-    c "Robin, I wanted to ask you something."
-    jump robin_A3
+            "Hey, it's okay. It's okay. Breathe. Breathe.": 
+             jump whippy_A2
 
 
-    label robin_A3:
-    c "I'm starting a team. Based here, in Katabas. You wouldn't have to leave your flock, and the extra income might help them."
-    "I put a hand on his shoulder."
-    c "It might help you."
-    r "... I'm retired, Casey."
-    c "I know, Robin. I'm sorry for asking you like this. But fate brought me to you."
-    "His eyes perked up."
-    r "What do you know about fate, Casey Conrad?"
-    c "More than you'd think, and less than I'd like."
-    r "... Hm."
-    "He sits in silence, and considers his thoughts for a moment."
-    c "...  The first game is in a few days. Hell Valley Stadium."
-    c "I understand if you can't but... I'd love to see you there."
-    "I let go, picking up a charm as I did."
-    c "If not for me, or you... then for them."
-    "I paid the asking price, twice over. If this was gonna work, I wouldn't mind something swaying fate more in my favor."
-    "Both for the team, and for landing Robin."
+    label whippy_A1:
+    "He looked at me, more confused than panicked."
+    c "To destroy my old stall, right? I talked to someone yesterday, but the reception was kinda hazy. I thought they said there'd be at least a ''third man'' coming to help."
+    c "I realize what she ment now. It's incredible, that you were able to do this by yourself!"
+    c "And here I was, worried I'd have to split the money three ways."
+    "I gave a chuckle. I hadn't lied that hard since grade school, but it was working. Whippy was calming down."
+    c "Here, why don't you wait over there? I've some quick paperwork, to finish up the ol' girl."
+    "I point to a nearby bench, under a tree. Whippy hesitates, then nods and walks over."
+    "I quickly pull out my pen and paper and write a hastily written ''I O U x 1. STALL. SORRY, C.C.'' and place it on the rubble, before turning back to Whippy."
+    jump whippy_A3
+
+    label whippy_A2:
+    "He, stiffling tears, tried to say,"
+    w "I d-didn't... m-mean t-..."
+    c "Course not, course not! You're fine. No one was hurt, no one was hurt, it was just stuff."
+    c "Stuff can get replaced. Take some deep breaths. Are you okay? "
+    "He seemed surprised at the question, but complied. Breathing in, holding for a few seconds, breathing out."
+    w "Yeah, I'm... I'm fine."
+    c "Here, sit down. We're gonna get through this." 
+    "I gestured to a bench, nearby, where he walked over and cautuously took a seat."
+    jump whippy_A3
+
+
+    label whippy_A3:
+    "I sat down next to him."
+    c "You have a gift, kiddo. Like it or not, fate's given you this crazy power, and the best thing you can do is try to use it for good."
+    "I offerd him my hand."
+    c "I'm starting a pro Wizardball team, here in town. If you'd like, I'd love to have you with us."
+    w "You sure you want m-me? After everything?"
+    c "What, after showing me your skills, or after being a great player?" 
+    "He looked at me, slightly dumbfounded, and gingerly took my hand. I smiled, cocky glint in my eye."
+    c "Go ahead, I can take it."
+    "He gave a glint back, and shook my hand, fully and wholeheartedly." 
+    "I damn near dislocated my arm."
+    c "Meet us at Hell Valley Stadium, in a few days." 
+    "He nodded, almost excited." 
+    w "I'll see you there!"
+   
+
 
 return
-   
-    
