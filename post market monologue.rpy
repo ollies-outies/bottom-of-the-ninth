@@ -42,7 +42,7 @@ label start:
     "But they can't fix death."
     "After downing the pot, I turned to Victor. My teammate, Victor, who I had been through over twenty years of hardships with..."
     "And instead of a Fire Ball for a pass..."
-    "A Finger of Death came out." 
+    "An Arc of Death came out." 
     "No medics. No Greater Healing Touches."
     "Just the cold, departed body of my friend, and a game stuck in stalemate."
     "It was on this field. This same one."
