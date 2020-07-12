@@ -18,7 +18,7 @@ $ Might += 1
 $ Movement += 3
 
     scene bg market
-    show O&S_Card
+    show cardock&shaw
 
     "Ock and Shaw. Siblings, of the highest caliber."
     "See, back in Aught Six, there was a massive hullabaloo about a Gorgon in the Major League."
@@ -29,10 +29,11 @@ $ Movement += 3
     "Shaw, the running man, would control movement, while Ock, the arms, would be the one in charge of spell slinging and ball catching."
     "This was a terrifyingly effective strategy, when they worked together."
 
-    # show Ock angry
-    # show Shaw angry
+    hide cardock&shaw
+    show ock&shaw_off
+  
 
-    "But back then, it was quite difficult to actually see."
+    "But back then, that was quite difficult to actually see."
     o "No, YOU listen! I gave you HALF our funds, told you to spend it on FOOD, and what do you come back with?"
     s "You didn't specify what kind! You said FOOD, and I bought us food!"
     o "You bought us a CARRIAGE, a LITERAL HORSE DRAWN CARRIAGE, OF EXCLUSIVELY EGGS."
@@ -56,15 +57,13 @@ menu:
 
            
 label oands_A1:
-    #Show shaw surprise
-    #Show ock surprise
+  
     "They acted stunned, taken aback, and slightly insulted."
     "Of course, I'd known who they were from the second I saw them, but I figured I'd play dumb to get 'em talking."
     o "Well, you probably don't recognize us apart."
     s "Of course, if we were in formation, you'd recognize us from a mile away."
     c "Oh? And what ''formation'' would that be?"
-    #show shaw smile
-    #show ock smile
+   
     "The two shared a smile, that was wider than they were tall."
     o "Well, imagine if I were... about  three feet taller."
     s "Long coat, pinstripes, number 15...? Ringing any bells?"
@@ -92,14 +91,14 @@ label oands_A1:
     jump oands_A3 
 
 label oands_A2:
-    #show shaw happy
-    #show ock happy
+  
     "A mischievous glint appeared in both of their eyes, almost instantly." 
     "I've been around magic my entire life. My mother was a sorcerer, and my father worked with artifacts. I spent the majority of my adult life studying and practicing different strategies for a sport that literally has ''wizard'' in its title."
     "I have never seen something as magical as two twins forming a coherent plan to scam someone into the ground, exclusively in glances and nods over the course of maybe two seconds."
     s "Well, as luck would have it, we're actually a pair of traveling egg vendors!"
     o "Just come into town today, to sell our freshly gathered, free-range egg collection."
     s "Collected from all over the world, from coast to coast, and preserved perfectly in pristine condition, in our Carriage-Du-Omelette."
+    
     a "Care to take a look, friend?"
     "I closed my eyes, and gave a slight laugh. The kind a grandparent might have."
     c "There's no need to look, I trust your kind faces, and wonderful synchronization. I'm thinking about taking the whole lot, for... Oh, I don't know, how much do houses sell for, nowadays?"
@@ -112,8 +111,7 @@ label oands_A2:
     a "Just tell us where to go!"
     "I stifled a laugh, as my grin finally got as wide as theirs."
     c "Hell Valley Stadium. And bring your gear, too. We're gonna be taking down the Tophets with a few other jokers."
-    #show shaw surprised
-    #show ock surprised
+   
     o "..."
     s "..."
     a "What?"
@@ -129,7 +127,8 @@ label oands_A3:
     "I hate to admit it, but I had a hankering for eggs."
     "I thought about fate, how something greater than us, uncontrolable, seemingly controls our every whim, of an infinte question, and a few fairly stand out answers."
     "But in that moment, only one answer stood out, more than any others."
-    #show oands
+    hide ock&shaw_off
+    show ock&shaw
     " "
     a "We're in."
 
