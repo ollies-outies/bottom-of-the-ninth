@@ -76,3 +76,4 @@ scene Market
     sc “Fuck it. Sign me up!”
 
 hide scylla
+return
