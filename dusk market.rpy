@@ -49,5 +49,5 @@ after_menu:
 
     du “N’yi wanna do it! Get me on your team!”
     
-    hide du
+    hide dusk
     return
