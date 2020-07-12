@@ -8,8 +8,8 @@ $ Magic += 2
 $ Might += 3
 $ Movement += 1
 
-    scene bg park
-    show robin_card
+    scene bg market
+    show cardrobin
 
     "Robin Fairweather. A mountain of a man, with a deeper knowledge of the internal workings of spellcasting that could put Merlin to shame."
     "Robin played for the Keetsity Roundabouts, primarily, where he served as one of their defensive agressors."
@@ -18,7 +18,8 @@ $ Movement += 1
     "And so, he left the game. No one faulted him for it. It was a shame, but it was what he needed to do."
     "He started up an orphanage, here in Katabas. Lived a quaint and quiet life for some time. Raised cattle. A flock, some might call it."
     "But inbetween visits to the town square, and running market stalls to sell various beadworks and blessings..."
-    show robin_Neutral
+    show robin
+    hide cardrobin
     "I could recognize a man struggling to survive."
     
    
@@ -91,8 +92,10 @@ $ Movement += 1
     c "I understand if you can't but... I'd love to see you there."
     "I let go, picking up a charm as I do."
     c "If not for me, or you... then for them."
+    hide robin
     "I paid the asking price, twice over. If this was gonna work, I wouldn't mind something swaying fate more in my favor."
     "Both, for the team, and for landing Robin."
+    "Next up..."
 
 return
    
