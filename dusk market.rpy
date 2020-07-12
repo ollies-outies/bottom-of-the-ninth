@@ -48,3 +48,6 @@ after_menu:
     du “N’you know what?! N’yive done some thinking and…”
 
     du “N’yi wanna do it! Get me on your team!”
+    
+    hide du
+    return
