@@ -82,5 +82,9 @@ $ Movement += 1
     c "Meet us at Hell Valley Stadium in a few days." 
     "He nodded, almost excited." 
     w "I'll see you there!"
+    
+    hide whippy
+    
+    "Lets see, after Whippy..."
    
 return
