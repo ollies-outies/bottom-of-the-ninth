@@ -4,9 +4,9 @@ Show cardcileren
     
     cc “Could it be? It had to be…”
 
-    cc “It was the one and only Cileren Naezeros, the college wizardball star.”
+    cc “It was the one and only Cileren Naezeros, the college Wizardball star.”
 
-    cc “She was born into the upper-upper crust, and because of that her parents could afford the best wizardball tutors out there.”
+    cc “She was born into the upper-upper crust, and because of that her parents could afford the best Wizardball tutors out there.”
 
     cc “Her skills shined brightly in the college circuit, like a lightbulb…”
 
@@ -26,13 +26,13 @@ hide cardcileren
 
 Show cileran
 
-    cc “Say, I don’t mean to Intrude, but are you Cileren Naezieros?”
+    cc “Say, I don’t mean to intrude, but are you Cileren Naezieros?”
 
-    l “Why do you wanna know dudester? You a narc?”
+    l “Why do you wanna know, dudester? You a narc?”
 
     cc “God no. I promise, I just have an offer I’d like to make.”
 
-    l “Not a narc huh? Wanna toke up to prove it? I may or may not just be looking for someone to talk to right now.”
+    l “Not a narc, huh? Wanna toke up to prove it? I may or may not just be looking for someone to talk to right now.”
 
 menu:
 
@@ -40,9 +40,9 @@ menu:
     “I felt a cough coming on as I held in the drag but managed to supress it.”
 
     “I don’t smoke…”:
-    l “Thats chill dude! Peer pressure is lame-ass, you do you.
+    l “Thats chill dude! Peer pressure is lame-ass, you do you."
 
-    cc “Thanks. Hey I’m curious. What exactly are you hanging around this field for? I thought you quit playing.”
+    cc “Thanks. Hey, I’m curious. What exactly are you hanging around this field for? I thought you quit playing.”
 
     l “Alrighty Brosephina, You ready for some real home grown moody existential hours shit?”
 
@@ -52,7 +52,7 @@ menu:
 
     cc “Damn. That's actually way heavier a revelation than I expected from this chat.”
 
-    l “Yeah. Parties may smack-mega-hard in the best way possible, but it can all get so…
+    l “Yeah. Parties may smack-mega-hard in the best way possible, but it can all get so…"
 
     l “Exhausting.”
 
@@ -60,7 +60,7 @@ menu:
 
     l “Sometimes I just need to vibe. And this place always reminds me of my days playing Wizardball. Most of my happiest memories are from this place so… I vibe here.”
 
-    cc “Do you ever wish you could go back to your wizardball days?”
+    cc “Do you ever wish you could go back to your Wizardball days?”
 
     l “Maybe a ‘lil, on the DL you know?”
 
@@ -70,7 +70,7 @@ menu:
 
     cc “Cross my heart. Welcome aboard, Cileran Naezieros.”
 
-    “Cileran gives a salute, which seemed odd, but I saluted back. I told her about the first game, and she promised to get there on time.”
+    “Cileran gave a salute, which seemed odd, but I saluted back. I told her about the first game, and she promised to get there on time.”
 
     “Concerning, mostly because time wasn’t an issue I brought up.”
 
