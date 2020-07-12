@@ -115,4 +115,4 @@ label PostParkMonologue:
 
 
 
-    return
+    jump TheStrats
