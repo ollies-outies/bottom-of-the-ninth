@@ -14,7 +14,7 @@ label PostMarket:
     "But fate still had it in for me, ya see? So I let fate guide my footfalls, for a while."
     "Let my mind wander, and had my body following after it."
     "I thought about where I was now. How this whole thing was coming together."
-    "The Comedians. That's what V always said he wanted his team to be called. I never got V, but he was a good friend."
+    "The Comedians. That's what V always said he wanted his team to be called. I never got V's mind, but I still loved hearing about it."
     "Figured I ought to pay respects, judging by what I did."
     "It still hurts to think about that day, just five years ago."
     "I was getting older, ya know. Not as spry and magic as I was in my prime."
@@ -27,10 +27,11 @@ label PostMarket:
     "See, as I got older, my tactics still would work, just not with me. I couldn't keep up."
     "That's when I met Ordog."
     
+    hide casey
     show ordog
 
     "A demon, notorious around the underworld circut. Purveyer of the best stimulants in the game."
-    "And, as fate would have it, we shared a dinner table after some victorious game."
+    "And, as fate would have it, we shared a dinner table after some victorious game. I don't even recall what for."
     "He offered me a potion. Superior Mana, he called it. Said to boost your slots, and fill your meters, satisfaction Guaranteed."
     "And like a fool, I took it."
     "See, my issue wasn't needing to refill. My capacity was just getting lower."
@@ -45,6 +46,9 @@ label PostMarket:
     "An Arc of Death came out." 
     "No medics. No Greater Healing Touches."
     "Just the cold, departed body of my friend, and a game stuck in stalemate."
+    
+    hide ordog
+    
     "It was on this field. This same one."
     
     scene bg stadium
