@@ -62,4 +62,10 @@ label PostMarket:
     
     "And in order to do that, I have to meet..." 
 
-    return
+    $ renpy.call(encounter4)
+
+    $ renpy.call(encounter5)
+
+    $ renpy.call(encounter6)
+
+    jump PostParkMonologue
