@@ -7,7 +7,7 @@
 
     cc “What was this person clunking around homefield in that bulky thing for?”
 
-    cc “The Dictionary refers to a shot in the dark as ‘A chance taken when you have no information or knowledge about the subject, and therefore cannot possibly know what the outcome will be.”
+    cc “The dictionary refers to a shot in the dark as ‘A chance taken when you have no information or knowledge about the subject, and therefore cannot possibly know what the outcome will be.”
 
     cc “Sometimes… these shots wind up paying off.”
 
@@ -24,7 +24,7 @@
 
     cc “You are the only person sitting in this entire row of chairs so… yes.”
 
-    di “Well um, you'd better get out of here as fast as you can! If you don't you’ll probably just wind up getting hurt or something *sigh*”
+    di “Well, um, you'd better get out of here as fast as you can! If you don't you’ll probably just wind up getting hurt or something *sigh*”
 
     cc “Not to be rude, but I hardly feel threatened right now.”
 
@@ -32,28 +32,28 @@
 
     cc “Really-really.”
 
-    di “Gosh I’m sorry for saying all those things earlier. I’m just in a sort of a bad mood.”
+    di “Gosh, I’m sorry for saying all those things earlier. I’m just in a sort of a bad mood.”
 
     cc “Why might that be?”
 
-    di “di “Y’see, I was born in the fifth house of empty sorrow within the vast eldritch nothingness of the cosmos!”
+    di “Y’see, I was born in the fifth house of empty sorrow within the vast eldritch nothingness of the cosmos!”
     di “Both my parents are elder-gods, which is really cool!”
 
-    di “But it means the very sight of my be-tentacled self can drive mortals to insanity, not so cool... So I picked this neat suit up off the ocean floor!
+    di “But it means the very sight of my be-tentacled self can drive mortals to insanity, not so cool... So I picked this neat suit up off the ocean floor!"
 
     di “I wear it to blend in with the mortals and hide my true form, but that’s part of the reason I feel so down in the dumps today.”
 
     cc “What happened, if you don't mind me asking?”
 
-    di “I was playing in a wizardball game back in the city, but a quarter through my helmet came off.”
+    di “I was playing in a Wizardball game back in the city, but a quarter through my helmet came off.”
 
-    di “Half the audience was transported to a non euclidean nightmare dimension, (Which was really embarrassing) And the other half made fun of me for my tentacles (Which was even more embarrassing)
+    di “Half the audience was transported to a non euclidean nightmare dimension, (which was really embarrassing) and the other half made fun of me for my tentacles (which was even more embarrassing)."
 
     cc “Wow, that sounds like it really got to you.”
 
     di “The worst part is I had just started gaining confidence in my appearance.”
 
-    di “I would look in the mirror at that writing mass of tentacles and actually feel happy. Like I had looks I could be proud of! Or-or at least be okay with. That would be enough. But then they went and tore it all down...”
+    di “I would look in the mirror at that writhing mass of tentacles and actually feel happy. Like I had looks I could be proud of! Or-or at least be okay with. That would be enough. But then they went and tore it all down...”
 
     di “Son of a gosh, people can be really mean sometimes.”
 
@@ -69,7 +69,7 @@
     “I’d talk with the people, face to face, and figure out why they felt the need to treat me that way.”:
     di “I’m not super good at talking to people though…”
 
-    “You gotta stop looking to others and their perception of what’s right or normal”:
+    “You gotta stop looking to others and their perception of what’s right or normal.”:
     di “I just feel like it's not that easy…”
 
     after_menu: 
@@ -81,11 +81,11 @@
 
     cc “I guess that’s fair. Sorry I was kinda goin’ for a whole big uplifting speech thing but it kinda fell short.”
 
-    di “That’s okay, hehe. I’m really bad at speeches too!
+    di “That’s okay, hehe. I’m really bad at speeches too!"
 
-    cc “You know what, maybe the whole Idea that we have to be feeling amazing at every moment is kinda wack. Sometimes you just feel okay, and that's absolutely fine.”
+    cc “You know what, maybe the whole idea that we have to be feeling amazing at every moment is kinda wack. Sometimes you just feel okay, and that's absolutely fine.”
 
-    di “Hey! That actually makes a lot of sense! You can have a bad day and there’s nothing at all wrong with that!.”
+    di “Hey! That actually makes a lot of sense! You can have a bad day and there’s nothing at all wrong with that!”
 
     di “It makes the happy days seem even happier-er than they did before!”
 
@@ -93,11 +93,11 @@
 
     di “I’m Y’gthangsogy’rislil”
 
-    di “But all my friends call me Diver!
+    di “But all my friends call me Diver!"
 
     cc “Wait a minute… I recognize that name! You play in the minor circuit, right?”
 
-    di “Oh yeah I do! We’ll actually I’m currently without a team.”
+    di “Oh, yeah I do! We’ll actually I’m currently without a team.”
 
     cc “You know, I’m currently looking for players.”
 
