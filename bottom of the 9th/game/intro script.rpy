@@ -28,7 +28,9 @@ label start:
     "The years hadn't dulled the pain, but they had offered insight. Insight into what people were put here to do."
     "For some, they get busy living. For others, they get caught dying."
     "How horrible, to be somewhere in between."
-
+    
+    show Casey
+    
     c " "
     c "I realize that you probably can't hear this, V, but... I mean it."
     c "I'm sorry."
@@ -67,7 +69,9 @@ label start:
     
     "I had a first game already scheduled, down in the underworld in Judecca. I had a teamname, and a lifetime worth of strategies. All I needed were the players to do it with."
     "Let's see what fate had up first." 
-
+    
+    hide casey
+    
     scene bg market
 
     "I walked into the center of Katabas, the bustling market area, and pulled the first card from the pack."
