@@ -28,7 +28,7 @@ label start:
     "My name is Casey Conway Fisk. I'm a ex-professional ball player, living out in the boonies, in a little town called Katabas."
     "And I've got a story to tell."
  
-    scene bg katabisstadium
+    scene bg stadium1
 
     "The name of the game was, and still is, Wizardball."
     "Everyone in the Trikingdom Area knows about it. Even some of the fools in the underworld know about it."
