@@ -1,4 +1,4 @@
-﻿Define du = character(“Dusk”)
+Define du = character(“Dusk”)
 Define cc = character(“Casey”)
 
 scene du-card
@@ -9,13 +9,13 @@ show du
 
     cc “Delving into the arts of necromancy at a very young age, Dusk soon became quite accustomed with all things dead, and mostly deadly.”
 
-    cc “Necromancers were few and far between in the wizardball minor league circuit, allowing dusk to make a name for their feline self out on the field.”
+    cc “Necromancers were few and far between in the Wizardball minor league circuit, allowing Dusk to make a name for their feline self out on the field.”
 
     cc “Unfortunately, skills in dealing with the dead don’t always translate into skills when dealing with the living.”
 
     cc “This was undoubtedly gonna be a tough one.”
 
-    du “N’YOUT N’YOF THE WAY NUMBSKULL”
+    du “N’YOUT N’YOF THE WAY N'YUMBSKULL”
 
     cc “I beg your pardon but-”
 
@@ -25,22 +25,22 @@ show du
 
     du “N’YI KNOW that! But what n’yif there WAS!?
 
-    du “Then N’youd be the piss-baby-spinach-brain blocking it!”
+    du “Then n’youd be the piss-baby-spinach-brain blocking it!”
 
     cc “I mean you’re technically not wrong but-”
 
-    cc “Wait what the fuck am I talking about? Hey, wanna join my wizardball team?”
+    cc “Wait what the fuck am I talking about? Hey, wanna join my Wizardball team?”
 
-    du “Why N’yin the world would N’yi do N’ya thing like THAT?!”
+    du “Why n’yin the world would N’yi do n’ya thing like THAT?!”
 
-    du “FIRSTMOST, N’yi havent played N’yin like two N’years.”
+    du “FIRSTMOST, N’yi havent played n’yin like two n’years.”
 
-    du “N’yand SECONDMOST, n’yor team n’yuniforms n’yare probably stinky!
+    du “N’yand SECONDMOST, n’yor team n’yuniforms n’yare probably stinky!"
 
 menu:
 
 “Why in the world is that something that came to mind?”:
-du “Don’t n’yask me how n’yi know these things, n’yi just do!
+du “Don’t n’yask me how N’yi know these things, N’yi just do!"
 
 “You’d be missing out on all the fame and adoration of the roaring crowd if you didn’t join.”:
 du “N’yi couldn’t give n’ya rat’s n’yass what n’ya crowd thought n’yof me.”
