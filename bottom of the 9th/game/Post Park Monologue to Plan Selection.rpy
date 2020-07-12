@@ -4,7 +4,7 @@ define q = Character("Ordog")
 
 label PostParkMonologue:
 
-    scene bg park
+    scene bg stadium
 
     show casey
 
@@ -14,6 +14,9 @@ label PostParkMonologue:
     "I put this whole farce together because I felt bad for a fuckup I made."
     "Because I lost control, for just a second, and killed a man that I considered family."
     "I'm tired. I'm old. I'm angry, and sad, and I don't know if that'll be enough."
+    
+    scene bg hellmarket
+    
     "As I walked through, eventually making my way to the Gates, those words kept ringing in my ears."
     "The Hellgates started appearing all over the Trikingdom area a few years ago. No one's quite sure why."
     "I had heard it was supposed to be a punishment for our sins. I'd also heard that the demons simply got bored, and wanted to see what topside looked like."
@@ -65,6 +68,9 @@ label PostParkMonologue:
     q "No idea what you'd want him for, but hey, I'll take easy odds."
     c "Glad we're in agreement. Good luck, ''pal''."
     q "You too, you funny human, you!"
+    
+    hide ordog
+    
     "About two blocks away from them, I lost my lunch. I had no idea what took me over when I said that. Living in Hell? That sounded like a... Well, a living Hell."
     "I guess that's where the saying came from, huh?"
     "But... there was something about seeing Vic. Lifeless is too on the nose." 
@@ -76,7 +82,7 @@ label PostParkMonologue:
     "Coach used to say if he didn't shape up, it would bite him in the ass."
     "Well consider that ass bitten." 
 
-    scene bg Demonstadium
+    scene bg hellstadium
 
     "The big day came, and I waited for my troops to fall in."
     "I had spent the day prior writing and rewriting a few thousand strategies for how to capitalize on Vic's weaknesses."
