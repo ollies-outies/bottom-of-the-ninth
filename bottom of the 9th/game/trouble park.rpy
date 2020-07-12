@@ -7,10 +7,7 @@ define t = Character("Trouble Commings")
 
 label TroublePark:
 
-$ HasTrouble = True
-$ Magic += 2
-$ Might += 3
-$ Movement += 1
+    $ HasTrouble = True
 
 
     scene bg stadium

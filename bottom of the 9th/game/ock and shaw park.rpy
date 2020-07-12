@@ -6,10 +6,7 @@ define s = Character("Shaw")
 
 label OckShawPark:
 
-$ HasOckShaw = True
-$ Magic += 2
-$ Might += 1
-$ Movement += 3
+    $ HasOckShaw = True
    
     scene bg stadium
 

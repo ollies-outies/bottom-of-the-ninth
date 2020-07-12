@@ -11,10 +11,7 @@ define w = Character("Whippy")
 label WhippyPark:
 
 
-$ HasWhippy = True
-$ Magic += 1
-$ Might += 4
-$ Movement += 1
+    $ HasWhippy = True
 
     scene bg stadium1
 

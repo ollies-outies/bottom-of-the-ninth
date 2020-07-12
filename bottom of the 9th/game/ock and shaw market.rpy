@@ -12,10 +12,7 @@ define a = Character("Ock and Shaw")
 
 label OckShawMarket:
 
-$ HasOckShaw = True
-$ Magic += 2
-$ Might += 1
-$ Movement += 3
+    $ HasOckShaw = True
 
     scene bg market
     show cardock&shaw

@@ -5,10 +5,7 @@ define w = ("Whippy")
 label WhippyMarket:
 
 
-$ HasWhippy = True
-$ Magic += 1
-$ Might += 4
-$ Movement += 1
+    $ HasWhippy = True
 
     scene bg market
     show cardwhippy

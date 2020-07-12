@@ -8,12 +8,9 @@ define r = Character("Father Robin")
 
 # The game starts here.
 
-label RobinStadium:
+label FatherRobinStadium:
 
-$ HasFatherRobin = True
-$ Magic += 3
-$ Might += 2
-$ Movement += 1
+    $ HasFatherRobin = True
 
     scene bg stadium
     show cardrobin

@@ -3,10 +3,7 @@ define r = ("Father Robin")
 
 label FatherRobinMarket:
 
-$ HasFatherRobin = True
-$ Magic += 3
-$ Might += 2
-$ Movement += 1
+    $ HasFatherRobin = True
 
     scene bg market
     show cardrobin
