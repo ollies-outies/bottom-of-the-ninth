@@ -70,3 +70,4 @@ hide dandy
     “She hands me a card, with what I can assume her line is on. First chance I get, I’ll pen her the info about the game.”
 
     “After Dandy…”
+return
