@@ -12,11 +12,21 @@ default HasWhippy = False
 default Magic = 0
 default Might = 0
 default Movement = 0
+default characterlist = ["Aldrick", "Ciliren", "Dandy", "Diver", "Dusk", "FatherRobin", "OckShaw", "Scylla", "Trouble", "Whippy"]
+
 
 define c = Character("Casey")
 
 
 label start:
+
+    $ random.shuffle(characterlist)
+    $ encounter1 = characterlist[0] + "Market"
+    $ encounter2 = characterlist[1] + "Market"
+    $ encounter3 = characterlist[2] + "Market"
+    $ encounter4 = characterlist[3] + "Park"
+    $ encounter5 = characterlist[4] + "Park"
+    $ encounter6 = characterlist[5] + "Park"
 
     scene bg smoke
     
@@ -76,4 +86,10 @@ label start:
 
     "I walked into the center of Katabas, the bustling market area, and pulled the first card from the pack."
 
-    return
+    $ renpy.call(encounter1)
+
+    $ renpy.call(encounter2)
+
+    $ renpy.call(encounter3)
+
+    jump PostMarket
