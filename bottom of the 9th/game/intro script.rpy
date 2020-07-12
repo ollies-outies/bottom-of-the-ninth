@@ -58,11 +58,12 @@ label start:
     "Fate's what brought me to the game in the first place. Fate's what put V in the wrong place, at the wrong time. Fate's the player, and we're all just pawns."
     "So... why fight it?"
     "Fate'll bring what fate'll bring. All we can do is play with what's been given."
-    # show cardpack
-    "And, in this case, it's a pack of Coven brand ''Minor League's Up & Coming Rookie'' cards."
+    "And, in this case, I've been given a pack of Coven brand ''Minor League's Up & Coming Rookie'' cards."
     "Complete, of course, with a stick of Gerblin Green Chewing Gum, which was as stale as a rock."
-    "See, I couldn't play in the Major leagues. Board wouldn't let me. Still won't, in fact."
-    "But I could gather a team, and play Coach."
+    "Each one in a pack of 6, complete with assesment values of the 3 things that matter in wizardball; Might, Magic, and Movement."
+    "Aside from the pack being a wonderful collectors item, and coming with what can arguably be described as a piece of candy, it also shows what the next big team might be. Wizardball is played in teams of six, of course."
+    "See, I couldn't play on the field. Board wouldn't let me. Still won't, in fact."
+    "But I could gather a team, and play Coach, from the backlines."
     "Hand picked, by none other than the swaying hand of fate, I could amass a group of players that were never given the chance to go big, and finally let 'em."
     "I was done worrying about the fall. I was done letting what could happen prevent me from focusing on what has happened."
     
