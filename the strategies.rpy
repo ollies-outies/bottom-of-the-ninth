@@ -3,8 +3,8 @@ define c = Character("Casey")
 define i = Character("Bratherford Hatherford")
 define v = Character("Victor")
 
-label start:
-# label TheStrats:
+
+label TheStrats:
 
 
 
