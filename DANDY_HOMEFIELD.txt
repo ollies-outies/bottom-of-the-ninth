@@ -84,3 +84,4 @@ after_menu:
     da “I might be just crazy enough to take you up on that!”
 
 Hide dandy
+return
