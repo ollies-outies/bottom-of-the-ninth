@@ -11,9 +11,9 @@ $ Magic += 2
 $ Might += 1
 $ Movement += 3
    
-    scene bg stadium1
+    scene bg stadium
 
-    show o&s_card
+    show cardock&shaw
     
     "Ock and Shaw. Two twins, but, legally, one player." 
     "See, back in aught six, there was a massive hullabaloo about a Gorgon in the Major League."
@@ -25,8 +25,8 @@ $ Movement += 3
     "They're two peas in a pod. Two sides of a coin. And so on."
     "'course, when I found em up in the bleachers, you could hardly tell."
     
-    show Ock
-    show Shaw
+    show ock&shaw_off
+    
     
     s "It's always about you, isn't it, huh? Just cause you're the face, you think you're better than me?"
     o "Think?! I don't think anything, shortie, I KNOW."
@@ -68,7 +68,8 @@ $ Movement += 3
 
     label oands_B3:
     "The two swapped headbands, then took their trademark position, the previous green Headband wearer now on the bottom."
-    show o&a
+    hied ock&shaw_off
+    show ock&shaw
     a "Thanks for that, pal. Solved this for sure."
     s "Yeah, at least until my next growth spurt."
     o "Oh! You think you're gonna get FED? After that RUDENESS?" 
@@ -83,16 +84,18 @@ $ Movement += 3
     "They surprisingly do, rather quickly."
     c "I approached you when I thought you were fighting 'cause I wanted to solve that sitch by offering you a place on the Katabas Comedians."
     "They let the offer sink in, then practically throw each other away, and strike dramatic poses."
-    show shaw
-    show ock
+    hide ock&shaw
+    show ock&shaw_off
     o "Oh, I could never work with you again! You villain, cad, bully and thief!"
     s "Well, my good fucker, you will find that you are glue, and I... I am rubber!"
     c "Okay, if you keep this up, I'm taking my offer back."
     "And just like that, back on each other's shoulders."
-    show s&o
+    hide ock&shaw_off
+    show ock&shaw
     a "We'll behave."
     c "Here's hoping. First game's in Hell Valley Stadium in a few days. Don't be late."
     "As I turned to walk away, I could faintly hear insults and shouting."
     "... I ought to call my Sister."
+    "Next up..."
 
     return
