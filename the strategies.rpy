@@ -121,10 +121,12 @@ menu:
     i "With both teams on all hands on deck, the Nuclear Option is activated, and whoever gets this next point gets the game!!"
     i "This is it, folks. Do the Tophets singlehandly win the game? Or can the Comedians deliver their final punchline?"
     i "OH, AND WITH A CLOUD OF SMOKE, THE TEAMS HAVE SLIPPED FORWARD! THIS IS NAIL BITING. AND WHEN THE DUST CLEARS..."
-    # win option
-    i "THE COMEDIANS STAND, BALL IN HAND! THE COMEDIANS WIN! THE COMEDIANS WIN!"
-    # lose option
-    i "THE TOPHETS STAND, BALL IN HAND! THE TOPHETS WIN! THE TOPHETS WIN!
+    if Might >= 10:
+        i "THE COMEDIANS STAND, BALL IN HAND! THE COMEDIANS WIN! THE COMEDIANS WIN!"
+        jump teamWin
+    else:
+        i "THE TOPHETS STAND, BALL IN HAND! THE TOPHETS WIN! THE TOPHETS WIN!"
+        jump teamLoss
 
 
     label strat2:
@@ -167,14 +169,16 @@ menu:
     i "..." 
     i "....."
     i "FOLKS, I'VE GOT THE RESULTS IN FROM THE OFFICIAL FIELDSIDE REFEREE, who, by the way, lets give a hand to for keeping up with that, FOR THE FINAL TALLY."
-    # win condition
-    i "TOPHETS 91,"
-    i "COMEDIANS 99."
-    i "COMEDIANS TAKE THE GAME! COMEDIANS WIN!"
-    # lose condition
-    i "COMEDIANS 91,"
-    i "TOPHETS 99."
-    i "TOPHETS TAKE THE GAME! TOPHETS WIN!"
+    if Movement >= 10:
+        i "TOPHETS 91,"
+        i "COMEDIANS 99."
+        i "COMEDIANS TAKE THE GAME! COMEDIANS WIN!"
+        jump teamWin
+    else:
+        i "COMEDIANS 91,"
+        i "TOPHETS 99."
+        i "TOPHETS TAKE THE GAME! TOPHETS WIN!"
+        jump teamLoss
 
     label strat3:
     c "Yeah, the Plot."
@@ -211,11 +215,13 @@ menu:
     i "IT'S... IT'S MOVING THROUGH THE AIR! LADIES AND GENTLEMEN, WHILE THIS IS A MAGIC GAME AND THINGS FLY OFTEN, VERY RARELY DO WE SEE WHAT APPEARS TO BE A BALL GAIN SENTIENCE!"
     i "IT'S STILL LEGALLY IN PLAY, AS IT'S YET TO LEAVE THE AIR! WHO WILL THIS BALL DECIDE TO SIDE WITH? HAS THE RITUAL BEEN A SUCCESS?"
     i "I'M ON THE EDGE OF MY SEAT, LADIES AND GENTS, IT IS FLYING TO A POST, AND ONCE IT'S THERE, IT WILL STAY THERE, EFFECTIVELY GENERATING INFINTE POINTS."
-    # win con
-    i "IT IS GOING... TO THE TOPHET'S POST!!! COMEDIANS WIN, A MILLION TO ONE! JUST LIKE THEIR CHANCE OF ACTUALLY PULLING THIS OFF, THEY'VE WON, A MILLION TO ONE!"
-    # lose con
-    i "IT IS GOING... TO THE GHOST!!! THE ALLIANCE HAS BEEN MADE, SPECTRAL TO SPECTRAL, AND THE COMEDIANS' POST IS ASSAULTED BY THE BALL! JUST LIKE THEIR CHANCES OF PULLING THIS OFF, THEY LOST A BILLION TO ONE!"
-    i "Oh god, I'm gonna have to get an interview with that ball after this."
+    if Magic >= 10:
+        i "IT IS GOING... TO THE TOPHET'S POST!!! COMEDIANS WIN, A MILLION TO ONE! JUST LIKE THEIR CHANCE OF ACTUALLY PULLING THIS OFF, THEY'VE WON, A MILLION TO ONE!"
+        jump teamWin
+    else:
+        i "IT IS GOING... TO THE GHOST!!! THE ALLIANCE HAS BEEN MADE, SPECTRAL TO SPECTRAL, AND THE COMEDIANS' POST IS ASSAULTED BY THE BALL! JUST LIKE THEIR CHANCES OF PULLING THIS OFF, THEY LOST A BILLION TO ONE!"
+        i "Oh god, I'm gonna have to get an interview with that ball after this."
+        jump teamLoss
 
     label strat4:
     c "Yeah, the Technique."
@@ -248,10 +254,12 @@ menu:
     i "Such a risky maneuver, and on their first game?! This is something even VETERANS are scared to do!"
     i "AND AT 0/0??!"
     i "The ball is fired to the U.C.F., who lines it up...! The Tophets are coming from every angle, charging like a pack of wild animals, but they're too late! The ball is cast, and...!"
-    #wincon
-    i "SCORES, FOR THE COMEDIANS, THE ONLY SCORE THEY'D NEED, AND JUST LIKE THAT, THEY'VE SECURED THE GAME, FOLKS! YOU HEARD IT HERE FIRST, THESE COMEDIANS WON THEIR FIRST GAME WITH A GOD DAMN SUDDEN DEATH SHOT!"
-    #losecon
-    i 'MISSES ENTIRELY!!! THE COMEDIANS LOSE, BUT WHAT A HELL OF A SHOW! WHAT A SHOW, FOLKS!"
+    if Magic >= 6 && Might >= 6 && Movement >=6:
+        i "SCORES, FOR THE COMEDIANS, THE ONLY SCORE THEY'D NEED, AND JUST LIKE THAT, THEY'VE SECURED THE GAME, FOLKS! YOU HEARD IT HERE FIRST, THESE COMEDIANS WON THEIR FIRST GAME WITH A GOD DAMN SUDDEN DEATH SHOT!"
+        jump teamWin
+    else:
+        i 'MISSES ENTIRELY!!! THE COMEDIANS LOSE, BUT WHAT A HELL OF A SHOW! WHAT A SHOW, FOLKS!"
+        jump team Loss
 
     label strat5:
     c "Yeah. The Dream."
@@ -291,8 +299,8 @@ menu:
     i "Oh, good golly Miss MOLLY. That was one of, if not THE, tightest games I've ever seen."
     i "My name's been Bratherfurd Hatherfurd, and you will HEAR me... Next time."
 
-    #if win.
-    
+ 
+label teamWin    
     scene bg smoke
     "So, after that, the Comedians became a household name in a moment."
     "We won a bunch more, and I'll be fair, we did also lose a few."
@@ -313,9 +321,9 @@ menu:
     "But I think we know this all already." 
     "Sometimes, I think it's better to just let what's been said... be said,"
     c "Happy to help."
+    jump endLoss
 
-   #if lose.
-   
+label teamLoss   
     scene bg smoke
     "It's funny, isn't it? All that, to be shafted in the end. Fate's a sucker, like that."
     "..."
@@ -337,6 +345,7 @@ menu:
     c "Alright. Here we go."
     scene bg black
     c "It was the fifth anniversary."
+label endLoss
     
 
 
