@@ -71,6 +71,7 @@ label start:
     "He thumped my head with the bottom of his fist. It hurt, but I deserved it for pulling a fast one like that."
     c "... See you there in a few days?"
     r "... See you there, C.C.." 
+    hide robin
     "My head still hurting, next was..."   
 
     return
