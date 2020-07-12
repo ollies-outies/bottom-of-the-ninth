@@ -99,3 +99,4 @@ after_menu:
     sc “Now that’s what I like to hear. Put me down for a spot!”
 
     Hide scylla
+    return
