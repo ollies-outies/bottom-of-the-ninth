@@ -42,3 +42,4 @@ after_menu:
 
     cc “Welcome to the team, Aldric.”
 hide aldric
+return
