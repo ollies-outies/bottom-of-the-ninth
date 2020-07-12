@@ -131,5 +131,7 @@ label oands_A3:
     show ock&shaw
     " "
     a "We're in."
+    
+    "Let's see... Next was..."
 
     return
