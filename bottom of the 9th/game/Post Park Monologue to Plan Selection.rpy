@@ -25,6 +25,7 @@ label PostParkMonologue:
     "The nearest Gate wasn't far, just a few towns over. I got there a few days ahead of time to scout out competition."
     "And who does the wonderful bitch that we know as Fate plop head first, crossing paths with me?"
     
+    hide casey
     show ordog
     
     "Why, none other than Ordog, the man who sold me the potion that made me kill my friend."
