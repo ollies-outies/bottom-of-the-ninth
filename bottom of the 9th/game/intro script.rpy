@@ -21,10 +21,8 @@ label start:
     scene bg smoke
     
     "It was the 5th anniversary."
-
-    show casey
     
-    " "
+   
     "It's been a hard few years since then, but I'd imagine it was harder for him."
     
     "The years hadn't dulled the pain, but they had offered insight. Insight into what people were put here to do."
