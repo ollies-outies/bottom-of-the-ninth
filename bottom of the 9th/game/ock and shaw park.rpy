@@ -6,6 +6,10 @@ define s = Character("Shaw")
 
 label OckShawPark:
 
+$ HasOckShaw = True
+$ Magic += 2
+$ Might += 1
+$ Movement += 3
    
     scene bg stadium1
 
@@ -90,10 +94,5 @@ label OckShawPark:
     c "Here's hoping. First game's in Hell Valley Stadium in a few days. Don't be late."
     "As I turned to walk away, I could faintly hear insults and shouting."
     "... I ought to call my Sister."
-
-$ HasOckShaw = True
-$ Magic += 2
-$ Might += 1
-$ Movement += 3
 
     return

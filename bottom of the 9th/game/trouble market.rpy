@@ -6,6 +6,11 @@ define T = Character("Trouble Comings")
 
 label TroubleMarket:
 
+$ HasTrouble = True
+$ Magic += 2
+$ Might += 3
+$ Movement += 1
+
     scene bg room
 
     # This shows a character sprite. A placeholder is used, but you can
@@ -102,10 +107,5 @@ label trouble_A3:
     # Remove trouble
     "He walked into the alley, grabbing the hogtied schmuck. He sent up a wave with his free hand, and I waved back"
     "Course, Trouble’s back is turned when I did, but the schmuck saw it. He waved with his hands tied, giving a jazz hand / spirit finger combo."
-
-$ HasTrouble = True
-$ Magic += 2
-$ Might += 3
-$ Movement += 1
 
     return

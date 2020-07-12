@@ -12,12 +12,12 @@ define a = Character("Ock and Shaw")
 
 label OckShawMarket:
 
+$ HasOckShaw = True
+$ Magic += 2
+$ Might += 1
+$ Movement += 3
 
     scene bg market
-
-    
-  
-
     show O&S_Card
 
     "Ock and Shaw. Siblings, of the highest caliber."
@@ -132,10 +132,5 @@ label oands_A3:
     #show oands
     " "
     a "We're in."
-
-$ HasOckShaw = True
-$ Magic += 2
-$ Might += 1
-$ Movement += 3
 
     return

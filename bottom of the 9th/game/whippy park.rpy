@@ -11,9 +11,12 @@ define w = Character("Whippy")
 label WhippyPark:
 
 
+$ HasWhippy = True
+$ Magic += 1
+$ Might += 4
+$ Movement += 1
+
     scene bg stadium1
-
-
 
     show whippycard
     "Jordan ''Whippy'' Redslide. The unsung hulk of the minor leagues. Depending on how you look at it, fate either loves or hates Whippy."
@@ -82,10 +85,5 @@ label WhippyPark:
     "Was how much I enjoyed getting back on the field."
     "Everything about it."
     "And, how much I enjoyed teaching someone a new way how to play."
-
-$ HasWhippy = True
-$ Magic += 1
-$ Might += 4
-$ Movement += 1
 
     return

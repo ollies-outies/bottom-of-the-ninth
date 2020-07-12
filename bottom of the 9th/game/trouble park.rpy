@@ -7,6 +7,12 @@ define t = Character("Trouble Commings")
 
 label TroublePark:
 
+$ HasTrouble = True
+$ Magic += 2
+$ Might += 3
+$ Movement += 1
+
+
     scene bg stadium
 
     # This shows a character sprite. A placeholder is used, but you can
@@ -130,11 +136,5 @@ label TroublePark:
     t "I'll... I'll see you there, Coach."
     "I smiled."
     c "Glad to hear it."
-
-$ HasTrouble = True
-$ Magic += 2
-$ Might += 3
-$ Movement += 1
-
 
     return

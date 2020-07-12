@@ -4,6 +4,12 @@ define w = ("Whippy")
 
 label WhippyMarket:
 
+
+$ HasWhippy = True
+$ Magic += 1
+$ Might += 4
+$ Movement += 1
+
     scene bg park
     show whippy_card
 
@@ -76,9 +82,4 @@ label WhippyMarket:
     "He nodded, almost excited." 
     w "I'll see you there!"
    
-$ HasWhippy = True
-$ Magic += 1
-$ Might += 4
-$ Movement += 1
-
 return

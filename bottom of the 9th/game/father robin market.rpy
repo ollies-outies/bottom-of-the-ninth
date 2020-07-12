@@ -3,6 +3,11 @@ define r = ("Father Robin")
 
 label FatherRobinMarket:
 
+$ HasTrouble = True
+$ Magic += 2
+$ Might += 3
+$ Movement += 1
+
     scene bg park
     show robin_card
 
@@ -88,12 +93,6 @@ label FatherRobinMarket:
     c "If not for me, or you... then for them."
     "I paid the asking price, twice over. If this was gonna work, I wouldn't mind something swaying fate more in my favor."
     "Both, for the team, and for landing Robin."
-
-
-$ HasFatherRobin = true
-$ Magic += 3
-$ Might += 2
-$ Movement += 1
 
 return
    
