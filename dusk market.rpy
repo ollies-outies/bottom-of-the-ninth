@@ -1,78 +1,50 @@
-﻿Define s = character(“Scylla”)
+﻿Define du = character(“Dusk”)
 Define cc = character(“Casey”)
 
-Show cardscylla
-    cc “One of the factors that differentiates wizardball from your average everyday bloodsport is the chaos… the fluidity of it all.”
 
-    cc “And no one quite brings that chaos and fluidity like the player known simply as Scylla.”
+Show carddusk
 
-    cc “No one truly knows just exactly how she broke into playing on the minor league circuit. Story goes she just showed up to the try outs in front of everyone and wrote her name in on the team wall as if she had already been accepted.”
+    cc “They say curiosity killed the cat, but when it came to Dusk Darkness, curiosity made them more powerful than they ever could’ve imagined.”
 
-    cc “The manager was, quite obviously confused and frustrated by this act, and so to prove herself, she challenged the entire team to a match of wizardball, against only her.”
+    cc “Delving into the arts of necromancy at a very young age, Dusk soon became quite accustomed with all things dead, and mostly deadly.”
 
-    cc “She beat them 9-0 and to make a long story short, the manager was far less skeptical from that moment forward.”
+    cc “Necromancers were few and far between in the wizardball minor league circuit, allowing dusk to make a name for their feline self out on the field.”
 
-    cc “Sadly, as with all great careers, something had to get in the way.”
+    cc “Unfortunately, skills in dealing with the dead don’t always translate into skills when dealing with the living.”
 
-    cc “Scylla would go on week long drinking binges after matches, and once she started missing games because of it, she was let go from the team.”
+    cc “This was undoubtedly gonna be a tough one.”
 
-    cc “I found her at the marketplace, currently in the process of being yelled at by the open air bar owner for running up quite the tab.”
+Hide carddusk
 
-Hide cardscylla
+Show dusk
 
-Show scylla
-scene Market
+Scene market
 
-    sc “Hey you!”
 
-    sc “Hate to impose on you but the asshole bartender over there has put me into a bit of a predicament.”
+    du “HEY! PUNKOSAURUS!”
 
-    sc “The good ol’ I may have not paid the exact amount of money I was supposed to, (Even though money is absolutely a social construct) and he is very pissed at me because of it.
+    du “N’you staring n’yat me or somethin’?!?”
 
-    sc “Mind helping me out with a lil cash?”
+    cc “My apologies, I simply recognized you. You’re a wizardball player, right? Used to play for the Danderville Scruff-Necks?”
 
-    cc “If I do would you mind talking for just a minute of your time afterwards?”
+    du “Maybe n’yi did! Maybe n’yi didn’t! what’s it to n’you!?”
 
-    sc “You’ve got a deal. I’m just grateful you paid. Absolute lifesaver!”
+    menu:
 
-    cc “Well, I’m not nearly as much a lifesaver as I heard you used to be a gamesaver back in your wizardball days.”
+“I’ll give you some salmon if you hear me out.”:
+du “N’you tryna patronise me just cause N’yi’m fuzzy?! N’yi’ll have n’you know n’yim n’yalergic to salmon!”
+cc “I didn’t get a single word of that. Anyways, don’t you miss being able to pummel your enemies into the dust?”
 
-    sc “Oh, a fan of mine?”
+cc “I’m starting a wizardball team, you in? or are you out?”
+du “Well... what would be N’yin it for me?”
+cc “You’ll get to cause severe bodily harm to an enemy team member.”
 
-    sc “Autographs are 15 dubloons per signing. With a 5 dubloon gratuity charge.”
+after_menu:
 
-    sc “(I may not be a seafaring pirate anymore but I’m a pirate nonetheless!)
+    du “I do like hurting things…”
 
-    cc “Actually, I was interested in something else. I’m building a team and I need players. What say you to getting back in the game? Getting to feel the rush of it all one more time?”
+    cc “(They got the world record two seasons ago for most red cards earned in a single game. I need their ferocity on my team)”
 
-    sc “AHAHAHAHAHAHA”
+    du “N’you know what?! N’yive done some thinking and…”
 
-    sc “GOOD ONE!”
-
-    sc “(Wait why aren’t you laughing too?)”
-
-    sc “Oh fuck you’re serious.”
-
-    cc “Completely so.”
-
-    sc “Oh god, Hate to break it to you but sometimes it’s best to just let dreams die. Painfully and slowly. You get over it eventually!”
-
-    cc “Doesn’t seem like you’ve adjusted incredibly well to post Wizardball living. Don’t you want a chance to take back control of your life?”
-
-    sc “Hardly. Control sucks butt. I love living in the uncertainty of it all…”
-
-    cc “Well you more than anyone would probably have an intimate knowledge of just how uncertain and wild those games can get.”
-
-    cc “You’ve got talent. It would be awful for you not to use it.”
-
-    sc “You might have a point, but I still feel unsure about this.”
-
-    cc “I thought you loved uncertainty.”
-
-    sc “Will I be allowed to drink before games.”
-
-    cc “As much as you need.’
-
-    sc “Fuck it. Sign me up!”
-
-hide scylla
+    du “N’yi wanna do it! Get me on your team!”

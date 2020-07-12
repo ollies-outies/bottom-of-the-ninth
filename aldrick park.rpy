@@ -1,78 +1,62 @@
-﻿Define s = character(“Scylla”)
-Define cc = character(“Casey”)
+﻿Define al = character(“Aldric”)
+Define cc= character(“Casey”)
 
-Show cardscylla
-    cc “One of the factors that differentiates wizardball from your average everyday bloodsport is the chaos… the fluidity of it all.”
+Show cardaldric
 
-    cc “And no one quite brings that chaos and fluidity like the player known simply as Scylla.”
+    cc “In the game of wizardball, overconfidence can be deadly. Occasionally, when paired with the right player…
 
-    cc “No one truly knows just exactly how she broke into playing on the minor league circuit. Story goes she just showed up to the try outs in front of everyone and wrote her name in on the team wall as if she had already been accepted.”
+    cc “it can win you a game.”
 
-    cc “The manager was, quite obviously confused and frustrated by this act, and so to prove herself, she challenged the entire team to a match of wizardball, against only her.”
+    cc “Aldric Bohan has an ego almost as big as the sword he wields in battle. Luckily, he's got the skills to back that ego up.”
 
-    cc “She beat them 9-0 and to make a long story short, the manager was far less skeptical from that moment forward.”
+    cc “Ego aside he was top notch, and I knew I needed him.”
 
-    cc “Sadly, as with all great careers, something had to get in the way.”
+    cc “His sense of honor was one of his driving forces in life. If I played my cards right I could use it to steer him onto my team.”
 
-    cc “Scylla would go on week long drinking binges after matches, and once she started missing games because of it, she was let go from the team.”
+Hide cardaldric
+Show aldric
+Scene homefield
 
-    cc “I found her at the marketplace, currently in the process of being yelled at by the open air bar owner for running up quite the tab.”
 
-Hide cardscylla
+    al “HAIL FAIR CITIZEN.”
 
-Show scylla
-scene Market
+    cc “Hailing.”
 
-    sc “Hey you!”
+    al “And thank you for doing so! Do you know why I asked you to do such a thing?”
 
-    sc “Hate to impose on you but the asshole bartender over there has put me into a bit of a predicament.”
+menu:
 
-    sc “The good ol’ I may have not paid the exact amount of money I was supposed to, (Even though money is absolutely a social construct) and he is very pissed at me because of it.
+“I was about to slip on a banana peel and you were saving me from such an embarrassing, albeit comedic fate.”
+al “Close! But not quite…”
 
-    sc “Mind helping me out with a lil cash?”
+“You mistook me for a long lost lover and wanted to reconcile an old spark.”
+al “Oh wow um, not exactly that.”
 
-    cc “If I do would you mind talking for just a minute of your time afterwards?”
+“How about we skip these quirky dialogue options and get to the part where you tell me the real reason you stopped me.”
+al “To the point! I like that.”
 
-    sc “You’ve got a deal. I’m just grateful you paid. Absolute lifesaver!”
+after_menu:
 
-    cc “Well, I’m not nearly as much a lifesaver as I heard you used to be a gamesaver back in your wizardball days.”
+    al “The reason I stopped you is…”
 
-    sc “Oh, a fan of mine?”
+    al “I feel adventurers like you and me hardly take time to appreciate the stillness, the silence of it all.”
 
-    sc “Autographs are 15 dubloons per signing. With a 5 dubloon gratuity charge.”
+    al “As gratifying as slamming a battle ax into the head of a giant snake may be, it lacks that sort of beautifully melancholic air moments like this hold.”
 
-    sc “(I may not be a seafaring pirate anymore but I’m a pirate nonetheless!)
+    al “(I’m not gonna ask if you agree with me because who wouldn’t am I right?)”
 
-    cc “Actually, I was interested in something else. I’m building a team and I need players. What say you to getting back in the game? Getting to feel the rush of it all one more time?”
+    al “Anyways, you seemed in a hurry, so I thought you might enjoy a chance to appreciate this moment with me.”
 
-    sc “AHAHAHAHAHAHA”
+    cc “Hey about that hurry, might be something you would be interested in.”
 
-    sc “GOOD ONE!”
+    cc “I’m starting a team and I need players, good players. You interested?”
 
-    sc “(Wait why aren’t you laughing too?)”
+    al “I’m not so sure, I have quite a large backlog of heroic quests to perform.”
 
-    sc “Oh fuck you’re serious.”
+    cc “That's fine. I’m sure I’ll find someone else. Someone actually willing to win this.”
 
-    cc “Completely so.”
+    al “Say, that offer you made. I might reconsider.”
 
-    sc “Oh god, Hate to break it to you but sometimes it’s best to just let dreams die. Painfully and slowly. You get over it eventually!”
+    cc “(I’m not surprised.)”
 
-    cc “Doesn’t seem like you’ve adjusted incredibly well to post Wizardball living. Don’t you want a chance to take back control of your life?”
-
-    sc “Hardly. Control sucks butt. I love living in the uncertainty of it all…”
-
-    cc “Well you more than anyone would probably have an intimate knowledge of just how uncertain and wild those games can get.”
-
-    cc “You’ve got talent. It would be awful for you not to use it.”
-
-    sc “You might have a point, but I still feel unsure about this.”
-
-    cc “I thought you loved uncertainty.”
-
-    sc “Will I be allowed to drink before games.”
-
-    cc “As much as you need.’
-
-    sc “Fuck it. Sign me up!”
-
-hide scylla
+    al “Where do I sign up?”
