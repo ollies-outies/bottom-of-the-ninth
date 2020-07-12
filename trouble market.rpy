@@ -78,8 +78,8 @@ label trouble_A2:
     jump trouble_A3
 
 label trouble_A3:
-    C "I’m starting a new team, based here in Katabas. Calling ourselves the Comedians, because people seem to think it’s a joke. If you’re available, we’d love to have you play with us." 
-    "Trouble's eyes lit up, and he almost tripped, standing still. He hadn’t upped his footwork in the slightest, clearly."
+    C "I’m starting a new team, based here in Katabas. Calling ourselves the Comedians, due to uh... circumstances. Look, if you’re available, we’d love to have you play with us." 
+    "Trouble's eyes lit up, and he almost toppled over, standing still. He hadn’t upped his footwork in the slightest, clearly."
     # Show trouble Neutral
     T "Uh? Yeah I?? Guess???"
     # Show trouble Confused
