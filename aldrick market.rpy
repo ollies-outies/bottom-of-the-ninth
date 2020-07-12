@@ -41,3 +41,4 @@ after_menu:
     cc “Glad that’s finally sorted out. And hey…”
 
     cc “Welcome to the team, Aldric.”
+hide aldric
