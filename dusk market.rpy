@@ -8,7 +8,7 @@ Show carddusk
 
     cc “Delving into the arts of necromancy at a very young age, Dusk soon became quite accustomed with all things dead, and mostly deadly.”
 
-    cc “Necromancers were few and far between in the Wizardball minor league circuit, allowing dusk to make a name for their feline self out on the field.”
+    cc “Necromancers were few and far between in the Wizardball minor league circuit, allowing Dusk to make a name for their feline self out on the field.”
 
     cc “Unfortunately, skills in dealing with the dead don’t always translate into skills when dealing with the living.”
 
