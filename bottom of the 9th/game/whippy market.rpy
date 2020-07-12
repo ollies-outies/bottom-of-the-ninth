@@ -10,8 +10,8 @@ $ Magic += 1
 $ Might += 4
 $ Movement += 1
 
-    scene bg park
-    show whippy_card
+    scene bg market
+    show cardwhippy
 
     "Jordan Redslide. ''Whippy'', to friends and admirers."
     "This little birdy has a big secret. Namely, the kid's got an arcane reserve the size of the ocean."
@@ -21,7 +21,8 @@ $ Movement += 1
     "Or now, due to runes etched into his uniform, pure strength."
     "He's a powerhouse in the truest sense of the word..."
     
-    show whippy_panic
+    hide cardwhippy
+    show whippy
     
     "He's just also a bit... unpredictable."
     "I ran into him, after he had, seemingly singlehandedly, leveled a food stall."
@@ -37,7 +38,7 @@ $ Movement += 1
     menu: 
             "So I told him..."
 
-            "You're that demolishion crew I ordered, right?": 
+            "Oh, thank goodness! Someone broke it down!": 
              jump whippy_A1
 
             "Hey, it's okay. It's okay. Breathe. Breathe.": 
@@ -46,13 +47,13 @@ $ Movement += 1
 
     label whippy_A1:
     "He looked at me, now more confused than panicked."
-    c "To destroy my old stall, right? I talked to someone yesterday, but the reception was kinda hazy. I thought they said there'd be at least a ''third man'' coming to help."
-    c "I realize what she meant now. It's incredible, that you were able to do this by yourself!"
-    c "And here I was, worried I'd have to split the money three ways."
-    "I gave a chuckle. I hadn't lied that hard since grade school, but it was working. Whippy was calming down."
+    c "That old thing was a safety hazard. City said so. So, they were fining me to have it destroyed."
+    c "And here I was, worried I'd have to find someone to do it... When, clearly, you're all I needed! You're my hero, little fella."
+    c "Now, I can start my second buisness; Staring a Wizardball team!"
+    "I gave a chuckle. I hadn't lied that hard since grade school, but it was working. Whippy was calming down, and more importantly, buying it."
     c "Here, why don't you wait over there? I've got some quick paperwork, to finish up the ol' girl."
     "I point to a nearby bench, under a tree. Whippy hesitates, then nods and walks over."
-    "I quickly pull out my pen and paper and write a hastily written ''I O U x 1. STALL. SORRY, C.C.'' and place it on the rubble, before turning back to Whippy."
+    "I quickly pull out my pen and paper and write a hastily written ''I O U x 1. STALL. SORRY MY BAD, C.C.'' and place it on the rubble, before turning back to Whippy."
     jump whippy_A3
 
     label whippy_A2:
@@ -73,7 +74,7 @@ $ Movement += 1
     "I offerd him my hand."
     c "I'm starting a pro Wizardball team, here in town. If you'd like, I'd love to have you with us."
     w "You sure you want m-me? After everything?"
-    c "What, after showing me your skills, or after being a great player?" 
+    c "What, after showing me your skills, or after being a great player? I've seen you on the field, young man." 
     "He looked at me, slightly dumbfounded, and gingerly took my hand. I smiled, a cocky glint in my eye."
     c "Go ahead, I can take it."
     "He gave a glint back, and shook my hand, fully and wholeheartedly." 
