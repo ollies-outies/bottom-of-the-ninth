@@ -50,3 +50,6 @@ after_menu:
 cc “That aside, don’t you miss the excitement of the game? The feeling of absolutely trampling the enemy team on your way to victory.?”
 
 du “N’yi n’yam n’ya fan n’yof trampling… N’you know what? SIGN ME N’YUP”
+
+hide du
+return
