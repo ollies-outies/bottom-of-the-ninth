@@ -1,8 +1,8 @@
-    Define l = character(“Cileren”)
-    Define cc = character(“Casey”)
+Define l = character(“Cileren”)
+Define cc = character(“Casey”)
 
-    Scene bg market
-    Show cardcileren
+Scene bg market
+Show cardcileren
     
     cc “Could it be? It had to be…”
 
@@ -23,13 +23,13 @@
     cc “She stared missing games to hang out at parties. Eventually, she was kicked off the team.”
 
     cc “Maybe if I could convince her she still had what it takes, just maybe she’d be willing to join the team.”
-   hide cardcileran
+    hide cardcileran
 
-    Show cileran
+Show cileran
 
     l “WOA DAMN.”
 
-    show market
+show market
 
     l “sorry for bumping into you my dudester! You should be careful where you’re going!”
 
@@ -37,7 +37,7 @@
 
     l “Oh shit are you, you know... selling?
 
-    menu:
+menu:
 
     “Yes…”:
     l “Kickass! I’ve got a big party coming up tomorrow and I could really use a supplier.”
@@ -45,11 +45,11 @@
     “No…”:
     l “Oh of course. I get what you mean. Keeping it on the down-low so you don’t get caught dealing. Don’t worry. I’m totally not buying. Wink!
 
-    after_menu:
+after_menu:
 
     l “So, Whachu’ got on stock? Pre-rolls? A goon-sack maybe?”
 
-    menu:
+menu:
  
     “Uhhh, Yes…”:
     l “Fuckin rad! I’ll give you the address so you can-
@@ -60,7 +60,7 @@
     cc “What the fuck is a goon sack”:
     l “Who doesn’t know what a GOON SACK is?! Just  look it up or something. You know, you’re a really shitty drug dealer.
 
-    after_menu:
+ after_menu:
 
     cc “Okay let’s drop this. I’m not a drug dealer. I’m putting together a wizardball team to compete and I wanna know if you’re interested.”
 
@@ -72,6 +72,6 @@
 
     l  “Fuck yeah I’m down.”
 
-    Hide cileran
+Hide cileran
 
     “Cileran was… different, than the last time I’ve seen them play. Here’s hoping fate was right.”
