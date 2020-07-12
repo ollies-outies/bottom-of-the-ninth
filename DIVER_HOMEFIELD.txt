@@ -104,7 +104,8 @@
     di “Oh gosh well, if there's room for me…”
 
     di “I’m in!”
-
+hide diver
+return
 
 
 
