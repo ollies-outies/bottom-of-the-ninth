@@ -72,6 +72,6 @@
 
     di “Oh goodness... Alrighty I’m in!”
 
-    Cc
 
     hide diver
+    return
