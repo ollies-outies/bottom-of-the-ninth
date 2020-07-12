@@ -1,0 +1,77 @@
+    Define di = Character(“Diver”)
+    Define cc = Character(“Casey”)
+
+    show carddiver
+    
+    “The first thing that stuck out to me was the suit.”
+
+    “What was this person clunking around the market in that bulky thing for?”
+
+    “The Dictionary refers to a shot in the dark as ‘A chance taken when you have no information or knowledge about the subject, and therefore cannot possibly know what the outcome will be.”
+
+    “Sometimes… these shots wind up paying off.”
+
+    hide carddiver
+
+    Show diver
+
+    scene market
+
+
+    cc “Excuse me, but might you know of any fine wizardball players from around here that I may be able to acquire for the team I’m building.”
+
+    di “Oh goodness! Are you talking to me?.”
+
+    cc “Yes, you in the diving suit. Say, why exactly are you wearing that thing?
+
+    di “Gosh um, it’s kinda funny actually.”
+
+    di “Y’see, I was born in the fifth house of empty sorrow within the vast eldritch nothingness of the cosmos! 
+
+    cc “Excuse me what?”
+
+    di “Oh um sorry! I should explain better. Most mortals refer to me as an ‘Eldritch tentacle monster’... but I don’t really know what most of those words mean.”
+
+    di “So given the fact that no mortal creature can gaze upon my grim visage without going mad, I wear this suit! So I can live in the mortal world.
+
+    di “(It also helps cause I sometimes get a little nervous talking to new people, or any people for that matter)”
+
+    cc “Well allow me to make my acquaintance! Name’s Casey, and you are…?”
+
+    di “Oh um sorry for not introducing myself! I’m Y’gthangsogy’rislil”
+
+    di “But all my friends call me Diver!
+
+    cc “Pleased to meet you Diver. So like I asked earlier… know any skilled wizardball players?”
+
+    di “Wizardball players?! (Hey I’m one of those!).
+
+    di “Um, Yeah! Actually I play a little in the minor leagues.”
+
+    cc “Well then, wanna join my team?”
+
+    di “Oh shoot I’m not so sure about that. The last game I played my helmet came off by accident…
+
+    di “Half the audience was transported to a non euclidian nightmare dimension”
+
+    di “And- and the other half made fun of me for my tentacles!”
+
+    di “I’d be so embarrassed if something like that happens again, jeez…”
+
+    menu:
+
+    “Don’t worry! If anybody makes fun of you we can beat the living shit out of them, as a team!”:
+    di “R-really?! You’d do that for me? (I’ve never had someone promise to beat the living shit out of people for me!)
+
+    “What they say about you doesn’t matter. You’re a beautiful tentacle monster and you shouldn’t let anyone tell you otherwise.”:
+    di “Oh… oh my gosh. If you really think so, maybe I can play on the team!”
+
+    after_menu:
+
+    cc “Diver, I would love to have you play for us.”
+
+    di “Oh goodness... Alrighty I’m In!”
+
+    Cc
+
+    hide diver

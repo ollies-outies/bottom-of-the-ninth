@@ -1,0 +1,77 @@
+    Define l = character(“Cileren”)
+    Define cc = character(“Casey”)
+
+    Scene bg market
+    Show cardcileren
+    
+    cc “Could it be? It had to be…”
+
+    cc “It was the one and only Cileren Naezeros, the college wizardball star.”
+
+    cc “She was born into the upper-upper crust, and because of that her parents could afford the best wizardball tutors out there.”
+
+    cc “Her skills shined brightly in the college circuit, like a lightbulb…”
+
+    cc “A light bulb that was very”
+
+    cc “very”
+
+    cc “bright.”
+
+    cc “Sadly, the saccharine call of the frat lifestyle was too sweet for her to dismiss.”
+
+    cc “She stared missing games to hang out at parties. Eventually, she was kicked off the team.”
+
+    cc “Maybe if I could convince her she still had what it takes, just maybe she’d be willing to join the team.”
+   hide cardcileran
+
+    Show cileran
+
+    l “WOA DAMN.”
+
+    show market
+
+    l “sorry for bumping into you my dudester! You should be careful where you’re going!”
+
+    cc “ Actually, I was interested in making you an offer of sorts.”
+
+    l “Oh shit are you, you know... selling?
+
+    menu:
+
+    “Yes…”:
+    l “Kickass! I’ve got a big party coming up tomorrow and I could really use a supplier.”
+
+    “No…”:
+    l “Oh of course. I get what you mean. Keeping it on the down-low so you don’t get caught dealing. Don’t worry. I’m totally not buying. Wink!
+
+    after_menu:
+
+    l “So, Whachu’ got on stock? Pre-rolls? A goon-sack maybe?”
+
+    menu:
+ 
+    “Uhhh, Yes…”:
+    l “Fuckin rad! I’ll give you the address so you can-
+
+    “Wait a minute did you just say the word wink instead of actually winking?”:
+    l “‘Course I did broseph. I didn’t want anyone here to see me winking. Otherwise they might get suspicious. Wink.”
+
+    cc “What the fuck is a goon sack”:
+    l “Who doesn’t know what a GOON SACK is?! Just  look it up or something. You know, you’re a really shitty drug dealer.
+
+    after_menu:
+
+    cc “Okay let’s drop this. I’m not a drug dealer. I’m putting together a wizardball team to compete and I wanna know if you’re interested.”
+
+    l “And give up the FR@ LYFETM?! I couldn’t just betray my bros like that.”
+
+    cc “Don’t you wanna show them all how amazing a player you are.”
+
+    l “Damn Duderino why didn't you put it like that in the first place?!”
+
+    l  “Fuck yeah I’m down.”
+
+    Hide cileran
+
+    “Cileran was… different, than the last time I’ve seen them play. Here’s hoping fate was right.”

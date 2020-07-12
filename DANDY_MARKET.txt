@@ -1,0 +1,70 @@
+
+    Define da = Character(“Dandy”)
+    Define cc= Character (“Casey”)
+    Scene bg market
+    Show carddandy
+
+    cc “I’d recognize that finely pampered facial hair anywhere. Those follicles belonged to none other than the one and only Alouicious “Dandy” Dupris!
+
+    cc “In her heyday she was a legend in the minor league. Watching her play was truly something else”
+
+    cc ”She lived and breathed classic wizardball. But sadly, nothing stays classic forever.”
+
+    cc “To put it simply, the game changed and she couldn't keep up with it. All these new strategies. Droves of new players that each brought new abilities and skills to the table.”
+
+    cc “She was a giraffe, and the tree branches grew too tall for her to reach, and her giraffe neck never grew quite tall enough to get to them as time went on.
+
+    cc “But maybe… just maybe, I could get this giraffe some stilts.”
+
+    cc “Wait a minute what was I talking about?”
+
+    cc “Dandy! I knew I wanted Dandy for my team...”
+
+    Hide cardandy
+
+    da “BOLLOCKING BUTCHERSHOOK!”
+
+
+    scene market
+
+    Show dandy
+
+    da “Dropped all my groceries, I did!”
+
+    da “You there! Would you mind helping a washed up old lady pick up her groceries?”
+
+    cc “For a wizardball legend like you? No problem at all.”
+
+    da “Oh Goodness me! I’m surprised you recognized me. I haven't played in years!”
+
+    Menu:
+
+    “Of course! Anything for a celebrity like you.”:
+    da “Gad, I wouldn’t go that far, as jammy a player as I was...”
+
+    “Dropping groceries like this… Lost your touch old lady?”:
+    da “My word! Keep up with that talk and you’ll see me chuffed, and believe you me I can chuff up a storm”
+
+    after_menu:
+
+    da “Anywhomst… what’s a wizardball fan like yourself doing in this neck of the woods? This town hasn’t had a big game in ages”
+
+    cc “Looking to make a team, and I need someone with your skills to be on it. You in?
+
+    da “Me? Goodness goodie goddesses I haven’t played in years! As much as I miss it, with the way things have progressed is almost an entirely different game now. I hardly think I’d be able to begin to fit into a team nowadays.
+
+    menu:
+
+    “Don’t you wanna show em all you’ve still got it? That you’re not just a has-been collecting dust?”:
+    da “I say! you may have a mouth on you but you make a fair point…”
+
+    “Seeing you play is the reason I got into wizardball in the first place. I’m a little embarrassed to say it but I still have your poster up in my room.”:
+    da “Well you most definitely know how to flatter someone…”
+
+    After_menu: 
+
+    da ”You know what? I’ll keep in touch.”
+
+    “She hands me a card, with what I can assume her line is on. First chance I get, I’ll pen her the info about the game.”
+
+    “After Dandy…”
