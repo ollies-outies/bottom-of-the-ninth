@@ -60,3 +60,6 @@ after_menu:
     cc “(I’m not surprised.)”
 
     al “Where do I sign up?”
+
+hide aldric
+return
