@@ -19,10 +19,6 @@ define c = Character("Casey")
 label start:
 
     scene bg smoke
-
-    # This shows a character sprite. A placeholder is used, but you can
-    # replace it by adding a file named "eileen happy.png" to the images
-    # directory.
     
     "It was the 5th anniversary."
 
@@ -36,24 +32,27 @@ label start:
     "How horrible, to be somewhere in between."
 
     c " "
-    c "I realize that you probably can't hear this, V, but... this is for me."
+    c "I realize that you probably can't hear this, V, but... I mean it."
     c "I'm sorry."
     
-    "My name is Casey Conway Fisk. I'm a ex-professional ball player, living out in the boonies, in a little town called Katabas."
+    "My name is Casey Conway Fisk. I'm a ex-professional wizball player, living out in the boonies, in a little town called Katabas."
     "And I've got a story to tell."
  
-    scene bg katabisstadium
+    scene bg stadium
 
     "The name of the game was, and still is, Wizardball."
     "Everyone in the Trikingdom Area knows about it. Even some of the fools in the underworld know about it."
     "It's fast, unique, and has enough leniency in the rules that anything and anyone can work."
-    "'course, the few rules they have can't be broken, under any circumstances. Otherwise..."
-    "Well, otherwise your sponsors stop calling you, and you're forced to skip town, lay low for a while."
+    "'Course, the rules they actually do have can't be broken, under any circumstances. Otherwise..."
+    "Well, otherwise your sponsors stop calling you, and you're forced into house arrest for a few years."
     "I was the biggest star the field's ever seen, ya know. The mighty C.C., up on the mound. Had my face on quite a number of breakfast foods."
-    "But of course, the bigger you are, yada yada."
+    "But of course, the bigger you are, the harder you fall."
     "Maybe it's that desire to be big and important again, or maybe it's the nagging feeling in my heart since I was asked to leave."
-    "I still love the game, simply put. I love everything about it, from the feeling of dirt pulling at your feet, to the roar of the crowd as someone lands a Fireball."
+    "I still love the game, simply put. I love everything about it, from the feeling of dirt pulling at your feet, to the roar of the crowd as someone lands a Fire Bolt."
     "And as much as I tried, I couldn't live without it."
+    
+    scene bg smoke
+    
     "See, in those five years, I'd realized something. Something stronger than any one of us, something bigger."
     "Fate."
     "Fate's what brought me to the game in the first place. Fate's what put V in the wrong place, at the wrong time. Fate's the player, and we're all just pawns."
@@ -63,9 +62,11 @@ label start:
     "And, in this case, it's a pack of Coven brand ''Minor League's Up & Coming Rookie'' cards."
     "Complete, of course, with a stick of Gerblin Green Chewing Gum, which was as stale as a rock."
     "See, I couldn't play in the Major leagues. Board wouldn't let me. Still won't, in fact."
-    "But I could gather a team."
+    "But I could gather a team, and play Coach."
     "Hand picked, by none other than the swaying hand of fate, I could amass a group of players that were never given the chance to go big, and finally let 'em."
     "I was done worrying about the fall. I was done letting what could happen prevent me from focusing on what has happened."
+    
+    "I had a first game already scheduled, down in the underworld in Judecca. I had a teamname, and a lifetime worth of strategies. All I needed were the players to do it with."
     "Let's see what fate had up first." 
 
     scene bg market
