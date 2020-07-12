@@ -48,6 +48,7 @@ label PostMarket:
     "Just the cold, departed body of my friend, and a game stuck in stalemate."
     
     hide ordog
+    show casey
     
     "It was on this field. This same one."
     
@@ -56,6 +57,9 @@ label PostMarket:
     "And somehow, I keep getting pulled back here."
     "This is what I think fate's telling me. That's why I started the Comedians. To honor him, and to finally anchor me here. To live with what I did, and to move on."
     "I can't argue with where fate's guiding me. All I can do is adapt and thrive."
+   
+    hide casey
+    
     "And in order to do that, I have to meet..." 
 
     return
