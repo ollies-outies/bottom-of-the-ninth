@@ -30,10 +30,10 @@ Show cardaldric
     menu:
         "I finally interupted, loudly saying..."
         
-        "ADVENTURER, THERE'S A QUEST THAT NEEDS DOING, AND YOU'RE THE ONLY ONE WHO CAN DO IT!"
+        "ADVENTURER, THERE'S A QUEST THAT NEEDS DOING, AND YOU'RE THE ONLY ONE WHO CAN DO IT!":
         jump aldric_A1
         
-        "WOULD YOU PLEASE SHUT YOUR CHIZZLED JAW LINE UP, AND LET ME INTRODUCE MYSELF?"
+        "WOULD YOU PLEASE SHUT YOUR CHIZZLED JAW LINE UP, AND LET ME INTRODUCE MYSELF?":
         jump aldric_A1
         
         
