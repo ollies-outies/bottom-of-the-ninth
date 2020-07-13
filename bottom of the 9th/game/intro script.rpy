@@ -1,4 +1,4 @@
-﻿default HasAldrick = False
+﻿default HasAldric = False
 default HasCiliren = False
 default HasDandy = False
 default HasDiver = False
@@ -12,7 +12,7 @@ default HasWhippy = False
 default Magic = 0
 default Might = 0
 default Movement = 0
-default characterlist = ["Aldrick", "Ciliren", "Dandy", "Diver", "Dusk", "FatherRobin", "OckShaw", "Scylla", "Trouble", "Whippy"]
+default characterlist = ["Aldric", "Ciliren", "Dandy", "Diver", "Dusk", "FatherRobin", "OckShaw", "Scylla", "Trouble", "Whippy"]
 
 
 define c = Character("Casey")
