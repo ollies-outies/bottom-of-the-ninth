@@ -8,7 +8,7 @@ scene bg market
 Show cardscylla
 
     "One of the factors that differentiates Wizardball from your average everyday bloodsport is the chaos. The fluidity of it all. And no one shows that off better than Scylla."
-    "No one truly knows just exactly how she broke into playing on the Minor league circuit. Story goes she just showed up to the tryouts of the Capacian Breakerss and filled her name in, on the team wall as if she had already been accepted.
+    "No one truly knows just exactly how she broke into playing on the Minor league circuit. Story goes she just showed up to the tryouts of the Capacian Breakerss and filled her name in, on the team wall as if she had already been accepted."
     "Manager was pissed, obviously, but Scylla wasn't having it. Challenged the entire newbie gang to a game. No one else on her team, just her."
     "Course, you've heard of these kinds of stories. Singlehandedly showed them all up, ended before they got a single point. She moved so quick, threw so fast that it was like she didn't even need a team."
     "And that was the issue, as it turns out. She didn't. She was a garbage team player and a ball hog, who was constantly going on week-long drinking benders before and after matches."

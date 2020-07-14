@@ -146,7 +146,7 @@ menu:
     i "And the coach must BE a comedian themself, look at this team! Nothing but rookies, from all sorts of teams."
     i "There's gonna be a miracle in Hell if they take home the win, everyone, especially considering the lineup that the Tophets seem to have!"
     i "Vash Vanderquick, Rudy Equire, Thunder Rolling... And that's not even considering the floating apparition centerfield!"
-    i "Folks, I've got to be honest, I have NO idea who that is, but if it's on the Tophets' side, it's gotta be a force to be reckoned with. 
+    i "Folks, I've got to be honest, I have NO idea who that is, but if it's on the Tophets' side, it's gotta be a force to be reckoned with." 
     i "AND WITH THAT, BOTH TEAMS HAVE REACHED THEIR MARKS! THE GAME IS ON WHEN THE BALL IS CAST FIRST. WHO'S GOT THE COUNTER READY?"
     i "OH, AND WITHIN MOMENTS OF THE BALL GETTING LAUNCHED, ONE OF THE COMEDIANS HAS GRABBED IT! THEY'RE RUSHING TO THE GOAL, RECKLESS ABANDON FLOWING LIKE THE WIND IN THEIR EYES!"
     i "A formation of Tophets assemble to block the runner, they GET the pin, and th-"
@@ -278,7 +278,7 @@ menu:
     i "And the coach must BE a comedian themself, look at this team! Nothing but rookies, from all sorts of teams."
     i "There's gonna be a miracle in Hell if they take home the win, everyone, especially considering the lineup that the Tophets seem to have!"
     i "Devin Odinson, Laura McFarkus... and that's not even considering the floating apparition centerfield."
-    i "Folks, I've got to be honest, I have NO idea who that is, but if it's on the Tophets' side, it's gotta be a force to be reckoned with. 
+    i "Folks, I've got to be honest, I have NO idea who that is, but if it's on the Tophets' side, it's gotta be a force to be reckoned with." 
     i "AND WITH THAT, BOTH TEAMS HAVE REACHED THEIR MARKS! THE GAME IS ON WHEN THE BALL IS CAST FIRST. WHO'S GOT THE COUNTER READY?"
     i "THE BALL IS CAST, AND WITH A SWIPE THE COMEDIANS HAVE THE BALL TUCKED AND READY!"
     i "But the Tophets are closing in from all sides, sparks surging from their fingers as they do! A FIGHT'S A-BREWIN'!"

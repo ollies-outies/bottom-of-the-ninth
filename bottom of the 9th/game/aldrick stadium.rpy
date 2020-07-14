@@ -58,7 +58,7 @@ Show cardaldric
     "I was taken aback. Wanderlust was what defined adventurers, right behind bloodlust. But this was a side of Aldric that the papers seemed to neglect to mention."
     b "Anyways, you seemed worried, and worse for wear. I assumed you might enjoy a chance to appreciate this moment with me. If I am stopping you on your journey, then my apologies."
     c "Ah, it's no issue. You are stopping me, but not how you'd think."
-    "He looked confused, so I continued.
+    "He looked confused, so I continued."
     c "See, I'm on a quest. Putting together a pro-league team, right here in this stadium. Our first game's outta town, but after we win that, we'll be able to settle down, and bring glory back with us."
     "I figured he'd like that last part. Nothing gets an adventurers heart pumping quite like the promise of glory, I've found out."
     b "... Could I still galavant, from time to time?"
