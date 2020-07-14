@@ -17,13 +17,14 @@ Show cardaldric
     hide cardaldric
     show aldric
     "Or, maybe his better fate could make him find me."
-    b "Your hands! Oh, I’d recognize the hands of a future Wizardball player anywhere and my oh my do you have them, my dear friend! Have you considered playing? Age is not an issue, you know!"
+    b "Your hands! Oh, I’d recognize the hands of a future Wizardball player anywhere and my oh my, do you have them, my dear friend! Have you considered playing? Age is not an issue, you know!"
     "I would've liked to tear into him for calling me old, but that would imply I had a moment to speak."
     b "I know there's a new team that's starting here in town, I wonder if we can talk to their coach and see if they'd accept someone off the street! That's why I'm here, actually. Oh, friend, you'll love the game."
-    "He then proceeded to explain the rules of the game I played for the majority of the life to me."
-    b "Oh, and that's when Yurtles Law was introduced! See, due to a curse put on the concept of the game, each game has to have a shelled animal, or, animal adjacent being, present at all wizardball games, or else one of the players gets a sickly pox in a fortnight!"
-    "Yurtles Law made schoolyard games very worrying, growing up. It did cause the snail to become a very popular pet, though. I mean, I had one."
-    "But, rembering youth wasn't getting me closer to assembling a team, and Aldric was starting to switch topics."
+    "He then proceeded to explain the rules of the game I played for the majority of the life to me. I tried toning it out until I had an opportunity to talk, but it looked like it wasn't coming."
+   
+    b "... Oh, and that's when Yurtles Law was introduced! See, due to a curse put on the concept of the game, each game has to have a shelled animal, or, animal adjacent being, present at all wizardball games, or else one of the players gets a sickly pox in a fortnight!"
+    "I will admit, Yurtles Law made schoolyard games very worrying, growing up. It did cause the snail to become a very popular pet, though. I mean, I had one."
+    "But, rembering youth wasn't getting me closer to assembling a team, and Aldric was starting to do the unthinkable; switch topics."
     b "You know I love the smell of the market in the morning. Katabas is wonderful, especially this time of year. That reminds me of this one QUEST I went on to the southern Valleys, near Brauns? If you haven't been, it is just LOVELY..."
     "Kid clearly wanted to join, or at least check the option out. But how to brazenly broach the question?"
     
