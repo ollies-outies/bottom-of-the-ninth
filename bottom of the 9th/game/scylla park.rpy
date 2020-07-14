@@ -34,12 +34,12 @@ Show cardscylla
     "I sang back the final line as I walked up."
     
     "To the folks stuch ashore who weren't up to snuff!":
-    jump Scylla_a1
+    jump Scylla_b1
     
     "To the rivers, the mountains, high and wide enough!":
-    jump Scylla_a1
+    jump Scylla_b1
     
-    label Scylla_a1
+    label Scylla_b1
     "We both triumphantly finished, our voices echoing through the entire stadium."
     c "DRINK, HEARTIES, DRINK!"
     "She let out a laugh, that then faltered into a sigh. I sat next to her, on the cold tile."
