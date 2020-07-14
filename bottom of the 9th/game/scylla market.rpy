@@ -40,9 +40,9 @@ show scylla
     "She started to down the beer I had ordered for myself. I kept at it."
     c "You’ve got talent, Scylla. Talent that no one's seen for years, and if you don't get back in, they might never see again."
     c "I know it's difficult, but I know you miss it too. Believe me, I've been there."
-    "She thudded the drink, spilling it's precious liquid courage over the counter, stopping me in my tracks."
+    "She thudded the drink, spilling it's precious liquid courage over the counter, stopping me in my tracks. Her face was long, and angry."
     p "Oh, I'm sure you do. I'm sure you know how it feels to let down everyone, time and time again, to be the laughing stock of an entire league. To be the bottom of the barrel, in a league made entirely of the losers who couldn't go big."
-    p "Why should I trust you? Why do you CARE? Why do you suddenly show up, thinking you know who I am, how I feel?"
+    p "Why should I trust you? Why do you CARE? Why do you suddenly show up, thinking you know who I am, how I feel? Why the fuck do you think you can bring up what I left behind?"
     "I was caught off guard, and her questions hit home. But, this was what I needed. She opened her hard shell, for just a second. If I didn't land this, there'd be no way I could land it after. I'd need to tell her about something important."
     
     menu
@@ -61,26 +61,43 @@ show scylla
     c "And it was taken from me, because of something I did."
     "I took the flaggon she had slammed on the bar, and took a sip."
     c "I... I lost a friend. And in losing them, I lost everything else."
-    c "The game, the supporters, my team... My own family turned their nose at me."
-    c "You want to know why I care?"
+    c "The game, the supporters, my team... My own father turned his nose up at me."
+    jump scylla_a3
+   
+    
+    
+    label scylla_a2
+    "My mind went to my mother, and what I couldn't do for her. I refused to let that happen again."
+    c "Because I've lived in uncertainty before. It was my mother."
+    c "She was a brilliant mind, and a sorcereess like no one else. Revolutionized the field of modern connective magic, for the better."
+    c "And she came down with a case of Scarlet Plague."
+    "I took the flaggon she had slammed on the bar, and took a sip."
+    c "The entire time she was dying, my father was working non-stop, to try and save her. He was an artificer."
+    c "Every day, he'd come up with something. Some ancient potion recipe, or some blessed amulet. Something that was sure to work, this time, it had to work."
+    c "It never did."
+    c "Every day, we'd build up hope, only to have it come crashing down. Over, and over again. When she finally moved on, I remember thinking..."
+    c "At least it's finally over. At least we know that it's over, and we can stop."
+    p "Holy shit."
+    c "It radicalized me, Scylla. Fate's a bitch, and we're just trying to deal with it screwing us over.":
+    jump scylla_a3
+   
+    label scylla_a3
+    c "So you want to know why I care?"
     c "It's because I know a downward spiral better than anyone, and I refuse to let it happen to someone that I can do something about."
     c "You were a champion, Scylla. You still are a champion. And I am going to do everything in my power to make sure you remember that."
-    
+    "We sat in relative silence for a few moments. The rest of the patrons and the barkeeper kept their distance, nonchalantly doing other things, but were keeping their ears out for the response. And finally..."
+    p "... What're the details."
+    c "The first game's in a few days, down in Hell. We can talk salary privately, but it's not bad."
+    p "... Fuck it. But I'm letting you know, I'm not playing sober."
+    c "I'll have an open bar set up for you in the locker room."
+    "There was a cheer from the bar, and I set down the tankard I had ordered. Scylla looked at it for a moment, still morose, took a deep breath, and grabbed it, letting out a cheer as she did."
+    p "THE NEXT ROUNDS ON ME, GENTS!"
+    "There was another cheer, barkeeper included, who then sharped up, and started to fuss with her, as she downed the last of the tankard."
+    hide scylla
+    "I could still hear the carousing, as I looked at what was next."
     
 
  
 
-    cc “You’ve got talent. It would be awful for you not to use it.”
-
-    sc “You might have a point, but I still feel unsure about this.”
-
-    cc “I thought you loved uncertainty.”
-
-    sc “Will I be allowed to drink before games?”
-
-    cc “As much as you need.’
-
-    sc “Fuck it. Sign me up!”
-
-hide scylla
+  
 return
