@@ -51,8 +51,7 @@ Show cardaldric
     
     label alric_b3
     "He gestured to the stadium broadly, with both arms, his armor clanking as he did"
-    b "The reason that I stopped you, fellow adventurer, is this."
-   
+    b "The reason that I stopped you, fellow traveler, is this, right here."
     b "As adventurers, I feel like we hardly take time to appreciate the stillness, the silence of it all. The beauty that lies in what is at our front door."
     b "As gratifying as slamming a battleaxe into the head of a giant snake may be, it lacks that sort of beautifully melancholic air moments like this hold, standing on the threshold to something great."
     "I was taken aback. Wanderlust was what defined adventurers, right behind bloodlust. But this was a side of Aldric that the papers seemed to neglect to mention."
@@ -73,31 +72,6 @@ Show cardaldric
 
 
 
-after_menu:
 
-    al “The reason I stopped you is…”
-
-    al “I feel adventurers like you and me hardly take time to appreciate the stillness, the silence of it all.”
-
-    al “As gratifying as slamming a battleaxe into the head of a giant snake may be, it lacks that sort of beautifully melancholic air moments like this hold.”
-
-    al “(I’m not gonna ask if you agree with me because who wouldn’t am I right?)”
-
-    al “Anyways, you seemed in a hurry, so I thought you might enjoy a chance to appreciate this moment with me.”
-
-    cc “Hey, about that hurry... might be something you would be interested in.”
-
-    cc “I’m starting a team and I need players, good players. You interested?”
-
-    al “I’m not so sure, I have quite a large backlog of heroic quests to perform.”
-
-    cc “That's fine. I’m sure I’ll find someone else. Someone actually willing to win this.”
-
-    al “Say, that offer you made. I might reconsider.”
-
-    cc “(I’m not surprised.)”
-
-    al “Where do I sign up?”
-
-hide aldric
+    hide aldric
 return
