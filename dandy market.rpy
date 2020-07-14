@@ -41,7 +41,7 @@ Show carddandy
     f "Need, and not want?"
     "I shrugged, finally turning back around, to give her back her tote bag."
     c "It's a fate thing."
-    f "Well, Casey Conrad, I've got to let the cat out of the bag, I mus; I'm a jammy player. I've been jammy for years."
+    f "Well, Casey Conrad, I've got to let the cat out of the bag, I must; I'm a jammy player. I've been jammy for years."
     f "And as much as I miss it, with the way things have progressed, it's almost an entirely different game now. I hardly think I’d be able to begin to fit into a team nowadays."
     f "Fate'll just have to take a seat, and you'll just have to find another player, I'm sorry to say."
     "At first, I thought that was just it. My story was over, and I'd have to go back to hermitude. But then I saw the glint in her eye, as she turned away."
