@@ -1,15 +1,8 @@
-﻿# The script of the game goes in this file.
-
-# Declare characters used by this game. The color argument colorizes the
-# name of the character.
-
-define c = Character("Casey")
-define r = Character("Father Robin")
-
-# The game starts here.
+﻿
+# define c = Character("Casey")
+# define r = Character("Father Robin")
 
 label FatherRobinStadium:
-
     $ HasFatherRobin = True
 
     scene bg stadium

@@ -1,7 +1,8 @@
-﻿Define b = character("Aldric")
-Define c = character("Casey")
+﻿# Define b = character("Aldric")
+# Define c = character("Casey")
 
- $ HasAldric = True
+label AldricStadium:
+   $ HasAldric = True
 
 scene bg stadium
 

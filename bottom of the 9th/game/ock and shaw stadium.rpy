@@ -1,11 +1,9 @@
-﻿define c = Character("Casey")
-define o = Character("Ock")
-define a = Character("Ock and Shaw")
-define s = Character("Shaw")
+﻿# define c = Character("Casey")
+# define o = Character("Ock")
+# define a = Character("Ock and Shaw")
+# define s = Character("Shaw")
 
-
-label OckShawPark:
-
+label OckShawStadium:
     $ HasOckShaw = True
    
     scene bg stadium

@@ -1,6 +1,8 @@
-Define du = character(“Dusk”)
-Define cc = character(“Casey”)
+# Define du = character(“Dusk”)
+# Define cc = character(“Casey”)
 
+label DuskMarket:
+    $ HasDusk = True
 
 Show carddusk
 

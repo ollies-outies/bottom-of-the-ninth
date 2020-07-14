@@ -1,7 +1,8 @@
-Define p = character("Scylla")
-Define c = character("Casey")
+# Define p = character("Scylla")
+# Define c = character("Casey")
 
-$ HasScylla = True
+label ScyllaMarket
+    $ HasScylla = True
 
 scene bg market
 Show cardscylla

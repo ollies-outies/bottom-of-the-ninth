@@ -1,11 +1,8 @@
 ﻿
-define c = Character("Casey")
-define t = Character("Trouble Comings")
-
-
+# define c = Character("Casey")
+# define t = Character("Trouble Comings")
 
 label TroubleMarket:
-
     $ HasTrouble = True
 
     scene bg market

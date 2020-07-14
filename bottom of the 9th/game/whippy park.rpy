@@ -1,16 +1,8 @@
-﻿# The script of the game goes in this file.
+﻿
+# define c = Character("Casey")
+# define w = Character("Whippy")
 
-# Declare characters used by this game. The color argument colorizes the
-# name of the character.
-
-define c = Character("Casey")
-define w = Character("Whippy")
-
-
-
-label WhippyPark:
-
-
+label WhippyStadium:
     $ HasWhippy = True
 
     scene bg stadium1

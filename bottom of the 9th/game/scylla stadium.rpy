@@ -1,7 +1,8 @@
-﻿Define p = character("Scylla")
-Define c = character("Casey")
+﻿# Define p = character("Scylla")
+# Define c = character("Casey")
 
-$ HasScylla = True
+label ScyllaStadium:
+    $ HasScylla = True
 
 Show cardscylla
     

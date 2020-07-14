@@ -1,8 +1,7 @@
-﻿define c = ("Casey")
-define r = ("Father Robin")
+﻿# define c = ("Casey")
+# define r = ("Father Robin")
 
 label FatherRobinMarket:
-
     $ HasFatherRobin = True
 
     scene bg market

@@ -1,7 +1,8 @@
-﻿Define f = Character("Dandy")
-Define c = Character ("Casey")
+﻿# Define f = Character("Dandy")
+# Define c = Character ("Casey")
 
-$ HasDandy = True
+label DandyMarket:
+    $ HasDandy = True
 
 Scene bg market
 Show carddandy

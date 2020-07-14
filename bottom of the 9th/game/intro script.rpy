@@ -16,7 +16,16 @@ default characterlist = ["Aldric", "Ciliren", "Dandy", "Diver", "Dusk", "FatherR
 
 
 define c = Character("Casey")
-
+define b = Character("Aldric")
+define f = Character("Dandy")
+define du = Character(“Dusk”)
+define r = Character("Father Robin")
+define o = Character("Ock")
+define s = Character("Shaw")
+define a = Character("Ock and Shaw")
+define p = Character("Scylla")
+define t = Character("Trouble Comings")
+define w = Character("Whippy")
 
 label start:
 

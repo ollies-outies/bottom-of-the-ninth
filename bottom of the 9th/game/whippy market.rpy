@@ -1,10 +1,8 @@
-﻿define c = ("Casey")
-define w = ("Whippy")
+﻿# define c = ("Casey")
+# define w = ("Whippy")
 
 
 label WhippyMarket:
-
-
     $ HasWhippy = True
 
     scene bg market

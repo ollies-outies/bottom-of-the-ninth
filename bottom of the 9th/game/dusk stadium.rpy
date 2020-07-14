@@ -1,5 +1,8 @@
-Define du = character(“Dusk”)
-Define cc = character(“Casey”)
+# Define du = character(“Dusk”)
+# Define cc = character(“Casey”)
+
+label DuskStadium:
+    $ HasDusk = True
 
 scene du-card
 

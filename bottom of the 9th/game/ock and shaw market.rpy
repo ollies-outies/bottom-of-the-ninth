@@ -1,17 +1,10 @@
-﻿# The script of the game goes in this file.
-
-# Declare characters used by this game. The color argument colorizes the
-# name of the character.
-
-define c = Character("Casey")
-define o = Character("Ock")
-define s = Character("Shaw")
-define a = Character("Ock and Shaw")
-
-# The game starts here.
+﻿
+# define c = Character("Casey")
+# define o = Character("Ock")
+# define s = Character("Shaw")
+# define a = Character("Ock and Shaw")
 
 label OckShawMarket:
-
     $ HasOckShaw = True
 
     scene bg market

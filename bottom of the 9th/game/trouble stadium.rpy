@@ -1,11 +1,9 @@
 ﻿
 
-define c = Character("Casey")
-define t = Character("Trouble Commings")
+# define c = Character("Casey")
+# define t = Character("Trouble Commings")
 
-
-
-label TroublePark:
+label TroubleStadium:
 
     $ HasTrouble = True
 
