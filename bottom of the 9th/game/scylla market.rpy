@@ -33,17 +33,17 @@ show scylla
     p "Oh fuck, you're serious."
     "The ale finally arrived, served in big metal tankards. She grabbed for both of them, and started nursing the first."
     p "Look, I hate to break it to you but sometimes it’s best to just let dreams die. Painfully and slowly. You get over it eventually!"
-    "She slammed back the rest of the drink, and gave a whistful glare to the bottom of the mug, seeing her reflection, and more importantly, the lack of booze."
-    c "Looks like you've adapted just swimmingly to post-wizardball life. Don’t you want a chance to take back control of your life?"
+    "She shot back the rest of the drink, and gave a whistful glare to the bottom of the mug, seeing her reflection, and more importantly, the lack of booze."
+    c "Looks like you've adapted just swimmingly to post-wizardball living. Don’t you want a chance to take back control of your life?"
     p "Control is for chumps. Uncertainty, that's where it's at."
     c "Well you more than anyone would probably have an intimate knowledge of just how uncertain and wild those games can get."
     "She started to down the beer I had ordered for myself. I kept at it."
     c "You’ve got talent, Scylla. Talent that no one's seen for years, and if you don't get back in, they might never see again."
     c "I know it's difficult, but I know you miss it too. Believe me, I've been there."
-    "She thudded the drink, spilling it's precious liquid courage over the counter, stopping me in my tracks. Her face was long, and angry."
-    p "Oh, I'm sure you do. I'm sure you know how it feels to let down everyone, time and time again, to be the laughing stock of an entire league. To be the bottom of the barrel, in a league made entirely of the losers who couldn't go big."
+    "She slammed the mug down, spilling it's precious liquid courage over the counter, stopping me in my tracks. Her face was long, and angry."
+    p "Oh, I'm sure you do. I'm sure you know how it feels to let down everyone, time and time again, to be the laughing stock of an entire game. To be the bottom of the barrel, in a league made entirely of the losers who couldn't go big."
     p "Why should I trust you? Why do you CARE? Why do you suddenly show up, thinking you know who I am, how I feel? Why the fuck do you think you can bring up what I left behind?"
-    "I was caught off guard, and her questions hit home. But, this was what I needed. She opened her hard shell, for just a second. If I didn't land this, there'd be no way I could land it after. I'd need to tell her about something important."
+    "I was caught off guard, and her questions hit home. But, this was what I needed. She opened her shell, for just a second. If I didn't land this now, there'd be no way I could land it after. I'd need to tell her about something important."
     
     menu
     "So, I told her about..."
@@ -62,6 +62,9 @@ show scylla
     "I took the flaggon she had slammed on the bar, and took a sip."
     c "I... I lost a friend. And in losing them, I lost everything else."
     c "The game, the supporters, my team... My own father turned his nose up at me."
+    c "I was forced to stay a hermit for years, to punish me for what I did. For everything I caused."
+    c "And the worst part of it all, years later, is that I still don't feel like it was enough."
+    c "I still feel like shit, every day, and that will never go away, because there's no way to undo what I've done."
     jump scylla_a3
    
     
