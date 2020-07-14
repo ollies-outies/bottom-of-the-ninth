@@ -2,6 +2,8 @@
 Define f = Character("Dandy")
 Define c = Character ("Casey")
 
+$ HasDandy = True
+
 Scene bg market
 Show carddandy
 
