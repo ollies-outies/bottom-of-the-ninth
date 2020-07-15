@@ -101,8 +101,8 @@
     c "Names Casey, by the by."
     z "Oh, I'm Y’gthangsogy’rislil-Aiuevh'icn'kris-Mhymbrerc-Graodrross-Aiuectaiothr'endu-Abhaodhrexz-Ngiogr'gnish-Ctheg'itros-Iuvh'iolda-Oshyjh'thin."
     z "But my friends call me Diver!"
-    "I blinked, my ears slightly ringing."
-    c "It's a pleasure to meet you, Diver."
+    "I blinked, my ears slightly ringing. I'm fairly certain my nose was bleeding, as well."
+    c "It's... a pleasure to meet you, Diver."
     hide diver
     "After shaking that true name from my head, I had..."
     
