@@ -35,7 +35,7 @@ label AldricStadium:
     "He gave a hearty guffaw, and shook his head."
     b "Oh, that would have been humorous. You would have surely taken a tumble!"
     b "Ah, but at your apparent age, that would've resulted something significantly not funny."
-    b "No, it was something grander than just preventing your sudden descent, at the hands of a potassium container.":
+    b "No, it was something grander than just preventing your sudden descent, at the hands of a potassium container."
     jump aldric_b3
     
     label aldric_b2:
