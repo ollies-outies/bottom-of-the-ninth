@@ -17,7 +17,9 @@ default characterlist = ["Aldric", "Ciliren", "Dandy", "Diver", "Dusk", "FatherR
 
 define c = Character("Casey")
 define b = Character("Aldric")
+define l = Character("Cileren")
 define f = Character("Dandy")
+define z = Character("Diver")
 define du = Character("Dusk")
 define r = Character("Father Robin")
 define o = Character("Ock")
