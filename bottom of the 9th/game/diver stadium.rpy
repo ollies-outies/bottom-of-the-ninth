@@ -5,7 +5,7 @@ label DiverStadium:
     $ HasDiver = True
 
     show carddiver
-    
+    " "
     "The first thing that stuck out to me, was the suit."
     "Diver. I'd heard of them before. Some unthinkable horror, stuck inside some long forgotten diving suit, decided to come up and play."
     "I was intimidated, to say the least, trying to find them. I'd never interacted with them, and most games they were in ended up a bit non-euclidian."
