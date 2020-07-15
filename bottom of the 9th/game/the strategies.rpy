@@ -69,7 +69,7 @@ menu:
         jump strat4
 
     "The Dream":
-    jump strat5
+        jump strat5
 
 
     label strat1:

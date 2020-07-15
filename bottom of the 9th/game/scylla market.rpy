@@ -54,7 +54,7 @@ label ScyllaMarket:
         "V.":
             jump scylla_a1
    
-         "My mother.":
+        "My mother.":
             jump scylla_a2
     
     label scylla_a1:
