@@ -56,9 +56,51 @@ Show carddandy
     f "I guess, I'm just worried that the game's outgrown me, or I've outgrown the game. That my appeal'll stop, and I'll be replaced, by... by some..."
     "She gestures to the food stand."
     f "I don't want to be remembered as simply, what came before."
-    "She quieted down again, staring at her feet. I needed to tell her something, that would hopefully knock her out of this funk."
-    
+    "She had finally broken through, and I just sat there, not knowing what to say. I wish I had some words of wisdom, some pep talk that could sway her away from her thoghts. But, nothing was coming."
+    "So, I just changed the topic, and told her..."
+    c "I'm starting a Major League team based outta here, and I think you should be on it."
+    "She gave a tired smile, and looked at me."
+    f "Why do you think that, child? I'ven't played the game in an odd 20 years, and the last thing I was thinking about doing was playing again."
+    "I needed to convince her, once and for all, that she deserved to play."
     menu:
     
-    "So I told her about..."
+    "So, I asked her to join the team..."
+    
+    "For my sake":
+    jump dandy_b1
+    
+    "For her sake":
+    jump dandy_b2
+    
+    label dandy_b1
+    "I sighed, and got ready for an introspection of my own."
+    c "Growing up, it was you, and your love of the game that sparked mine."
+    c "And as I'm sure you know, a lifetime spent loving the game is a lifetime well spent."
+    c "I was forbidden from ever playing again, but fate's given me this chance to try it again, from a different angle."
+    c "And... As foolish as it is, I've been hoping that it all falls together."
+    c "That, this whole cockinany scheme pulls through. All of it, to..."
+    "I think to V, and my throat freezes up. I clear it."
+    c "To do right by someone.":
+    jump dandy_b3
+    
+    label dandy_b2
+    "I shifted myself on the bench, so I was looking directly at her."
+    c "Dandy, when I was 10, I saw you on the screen for the first time. I can recall the exact end score, each play by play, the entire game's been on loop in my mind, since I was in grade school."
+    c "To say that you inspired me is an understatement. You defined me."
+    c "You defined an entire generation, Alouicious Dupris."
+    c "So, please trust me when I say that you are nowhere near done. There's a hundred thousand kids out there, each locked to their screen, who've... who've only just seen this as a food stall."
+    c "There's gotta be someone, to tell them about back when it was still a fair, or else they'll never know."
+    c "And once they know... they might want to see, for themselves."
+    jump dandy_b3
+    
+    label dandy_b3
+    "I tried to think of more words, but stopped, turning to face the ceiling. Her gaze had never left the floor, but her expression changed."
+    "It went from something soft, something abandoned, to something determined. Something rigid, and prepared."
+    "She stood up from the bench, then, hands in fists. She wanted to say something, I could tell."
+    "Something, profound. Something that told me that everything would be better, now. Something that meant the start of something new, while remembering the old. Something, that signalled the creation of a new classic."
+    "What she finally decided to say, was"
+    f "Lets kick some ass."
+    "Which, I think worked even better."
+    hide dandy
+    "After Dandy, there was..."
     
