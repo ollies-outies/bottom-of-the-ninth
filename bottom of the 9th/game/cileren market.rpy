@@ -38,8 +38,10 @@ label CilerenMarket:
     "Cileren, in a voice that sounded practiced, said loudly,"
     l "Oh, of course! And neither of us dignified folk would ever be looking for any ''Drug'', in the first place. To suggest such a thing would be folly, of the highest regard! Oh ho ho ho!"
     "She stepped on my foot, when I wasn't laughing."
-    "I needed to play along, quick, so I said back..."
+
     menu:
+
+        "I needed to play along, quick, so I said back..."
     
         "Oh, of course not, sport! And that's the propper thing to say to any of those turkeys come at'cha!":
             jump cileren_a1
