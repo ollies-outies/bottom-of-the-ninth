@@ -3,10 +3,10 @@
 # Define c = character("Casey")
 
 label AldricMarket:
-   $ HasAldric = True
+    $ HasAldric = True
 
-scene bg market
-Show cardaldric
+    scene bg market
+    show cardaldric
 
     "Aldric Bohan. If you want to talk about someone favored by fate, then there's no one better than Aldric."
     "Naturally gifted athlete, traditionally attractive, and a member of Gallant Monthly's 25 under 25 list."

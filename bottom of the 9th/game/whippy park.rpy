@@ -5,7 +5,7 @@
 label WhippyStadium:
     $ HasWhippy = True
 
-    scene bg stadium1
+    scene bg stadium
 
     show whippycard
     "Jordan ''Whippy'' Redslide. The unsung hulk of the minor leagues. Depending on how you look at it, fate either loves or hates Whippy."

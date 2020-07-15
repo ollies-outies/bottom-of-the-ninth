@@ -2,11 +2,10 @@
 # Define c = character("Casey")
 
 label AldricStadium:
-   $ HasAldric = True
+    $ HasAldric = True
 
-scene bg stadium
-
-Show cardaldric
+    scene bg stadium
+    show cardaldric
 
     "Alric Bohan. The Trikingdom's favorite hero. And, at that point, it seemed like fate's favorite, too."
     "Even in the Minor Leagues, he was bigger than some of the Major players. Interviews, guest appearences, and most importantly to him, quests."
@@ -66,13 +65,5 @@ Show cardaldric
     b "Then tell me, brave coach of this team, where do I sign up?"
     "I grinned, and walked him through the process. And after we registered him, next up was..."
     
-    
- 
-   
-
-
-
-
-
     hide aldric
 return

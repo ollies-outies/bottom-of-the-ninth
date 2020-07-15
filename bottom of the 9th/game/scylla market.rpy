@@ -4,8 +4,8 @@
 label ScyllaMarket
     $ HasScylla = True
 
-scene bg market
-Show cardscylla
+    scene bg market
+    show cardscylla
 
     "One of the factors that differentiates Wizardball from your average everyday bloodsport is the chaos. The fluidity of it all. And no one shows that off better than Scylla."
     "No one truly knows just exactly how she broke into playing on the Minor league circuit. Story goes she just showed up to the tryouts of the Capacian Breakerss and filled her name in, on the team wall as if she had already been accepted."
@@ -14,8 +14,10 @@ Show cardscylla
     "And that was the issue, as it turns out. She didn't. She was a garbage team player and a ball hog, who was constantly going on week-long drinking benders before and after matches."
     "She'd get the results, when she'd actually turn up. But, after missing a championship game that would've sent the Breakers to stardom, she was found piss drunk in a ditch a few towns over. She was let go after that."
     "I didn't find her in a ditch, but it was damn close to looking like I might've. She was outdrinking an entire bar stall, and running quite a tab."
-hide cardscylla
-show scylla
+
+    hide cardscylla
+    show scylla
+
     p "And ANOTHER THING! Just because you might OWN the place doesn't mean you can treat me like this. That is RUDE! You hear me? RUDE!!"
     "Seems the bartender cut her off, 'cause he learned she didn't intend on footing the bill."
     p "Hey, hey you! In the hat."
@@ -99,9 +101,6 @@ show scylla
     "There was another cheer, barkeeper included, who then sharped up, and started to fuss with her, as she downed the last of the tankard."
     hide scylla
     "I could still hear the carousing, as I looked at what was next."
-    
-
- 
 
   
 return

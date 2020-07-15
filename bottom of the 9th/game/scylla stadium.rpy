@@ -4,7 +4,7 @@
 label ScyllaStadium:
     $ HasScylla = True
 
-Show cardscylla
+    show cardscylla
     
     "Wizardball's a game that's defined by it's fluidity, and no one shows that more than Scylla."
     "No one really knows where she came from. I heard it said that at a minor league tryout over in Capacia, someone knocked a ball into the coast, and she came out of the seafoam to give it back."
@@ -81,4 +81,4 @@ Show cardscylla
     hide scylla
     "After we cleared the area, there was..."
     
- 
+return

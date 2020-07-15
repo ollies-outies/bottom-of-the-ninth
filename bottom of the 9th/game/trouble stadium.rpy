@@ -7,7 +7,6 @@ label TroubleStadium:
 
     $ HasTrouble = True
 
-
     scene bg stadium
 
     # This shows a character sprite. A placeholder is used, but you can

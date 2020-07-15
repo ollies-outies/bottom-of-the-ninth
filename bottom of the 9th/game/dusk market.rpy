@@ -4,7 +4,7 @@
 label DuskMarket:
     $ HasDusk = True
 
-Show carddusk
+    show carddusk
 
     cc “They say curiosity killed the cat, but when it came to Dusk Darkness, curiosity made them more powerful than they ever could’ve imagined.”
 
@@ -16,11 +16,11 @@ Show carddusk
 
     cc “This was undoubtedly gonna be a tough one.”
 
-Hide carddusk
+    hide carddusk
 
-Show dusk
+    show dusk
 
-Scene market
+    scene market
 
 
     du “HEY! PUNKOSAURUS!”
@@ -33,15 +33,13 @@ Scene market
 
     menu:
 
-“I’ll give you some salmon if you hear me out.”:
-du “N’you tryna patronise me just cause N’yi’m fuzzy?! N’yi’ll have n’you know n’yim n’yalergic to salmon!”
-cc “I didn’t get a single word of that. Anyways, don’t you miss being able to pummel your enemies into the dust?”
+        “I’ll give you some salmon if you hear me out.”:
+            du “N’you tryna patronise me just cause N’yi’m fuzzy?! N’yi’ll have n’you know n’yim n’yalergic to salmon!”
+            cc “I didn’t get a single word of that. Anyways, don’t you miss being able to pummel your enemies into the dust?”
 
-cc “I’m starting a Wizardball team, you in? or are you out?”
-du “Well... what would be n’yin it for me?”
-cc “You’ll get to cause severe bodily harm to an enemy team member.”
-
-after_menu:
+        cc “I’m starting a Wizardball team, you in? or are you out?”
+            du “Well... what would be n’yin it for me?”
+            cc “You’ll get to cause severe bodily harm to an enemy team member.”
 
     du “I do like hurting things…”
 
