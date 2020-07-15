@@ -5,7 +5,7 @@
 
 label TheStrats:
 
-    scene bg demonstadium
+    scene bg hellstadium
     # show finalteam
 
     c "With all of these strategies, we need two people in the back, defending our goal post, no matter what."
