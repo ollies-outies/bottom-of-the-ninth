@@ -61,8 +61,9 @@ label CilerenStadium:
     l "I won't be late, man, pinky swear."
     c "Glad to hear it, kid. Keep vibing, yeah?"
     l "CAN DO, COACH."
-    hide cileran
+    hide cileren
     "She's a good kid, going through some shitty times. Honestly, aren't we all, though?"
     "After vibing for a bit, there was..."
+    
 
 return   
