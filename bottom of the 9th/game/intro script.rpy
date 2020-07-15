@@ -51,7 +51,7 @@ label start:
     "For some, they get busy living. For others, they get caught dying."
     "How horrible, to be somewhere in between."
     
-    show Casey
+    show casey
     
     c " "
     c "I realize that you probably can't hear this, V, but... I mean it."
