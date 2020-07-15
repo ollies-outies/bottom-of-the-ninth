@@ -96,7 +96,7 @@ label DiverStadium:
     c "I'm starting up a team, here. We've got a game down in hell coming up, and fittingly, a hell of a line up so far. We'd love to have you join us."
     "They looked at me, rather calmly, but I could tell from the squirming under the suit that they were excited about the idea."
     z "M-m-major league? A-are you sure you'd want me?"
-    c "100% possitive. There's no one like you in a million miles, kid."
+    c "100%% possitive. There's no one like you in a million miles, kid."
     z "Wow, I... I guess you're right."
     "I extended my hand."
     c "Names Casey, by the by."

@@ -60,6 +60,7 @@ label FatherRobinStadium:
             "No.": 
              jump robin_B1
 
+    label robin_B1:
     "He nodded, quietly and susinctly." 
     r "I... will join your team, Casey Conrad."
     c "I should also mention, first game IS in Hell. They're the only fools who'll take newcomers."
