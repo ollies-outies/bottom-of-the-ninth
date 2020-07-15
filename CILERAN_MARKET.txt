@@ -1,6 +1,7 @@
 Define l = character("Cileren")
 Define c = character("Casey")
 
+$ HasCileren = Yes
 Scene bg market
 Show cardcileren
     
@@ -81,6 +82,6 @@ Show cardcileren
     "She appearated a skateboard, and got on, flicking up deuces as she took off into the market."
     "I was kind of hurt she didn't remember me, but not surprised. We were both much older, after all. I don't remember my 1st grade teacher."
     "... Did I actually introduce myself, actually?"
-    "Huh. I aught to remember to do that, with..."
+    "Huh. I aught to remember to do that next time, with..."
     
    
