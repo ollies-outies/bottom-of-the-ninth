@@ -4,87 +4,55 @@
 label DandyStadium:
     $ HasDandy = True
 
-Scene bg market
+Scene bg stadium
 Show carddandy
 
-    "Dandy Dupris. I'd recognize that finely pampered facial hair anywhere."
-    "Aly Dupris got her start earlier than I did, and was a champion in her own right. Watching her play was truly something else. She lived and breathed classic wizardball."
-    "Unfortunately, what starts out classic and vintage, slowly just turns to out of date."
-    "Put it simply, game changed too fast, and she fell behind. New strategies. New rules. New players, that brough with them new abilities and skills."
-    "She was a giraffe, and the tree branches of wizardball grew too tall for her to reach."
-    "Maybe it's time we got this giraffe some stits."
-    c "... that was a bad one."
-    f "OH, BOLLOCKING BUTCHERSHOOK!"
+    "Alouicious Dupris. ''Dandy'', to her fans. So, I called her Dandy."
+    "Dandy was everything that made wizardball great, in it's hayday. A true sportswoman, she played fair, and always hit above the belt, so to say."
+    "But as time went on, she went from classic to tacky. New rules were added, that she didn't play around. New magic was discovered, that she didn't learn."
+    "New blood came into the game, and brought new skills and abilities, and she never adapted to it."
+    "Fundamentals, she knew, but it was what the game brought with time that made people think she was stagnant."
+    "Course, anyone who knew her would say that was a load of-"
+    f "POPPYCOCK!"
     
     hide carddandy
     show dandy
     
-    f "I done dropped my groceries, I did!"
-    "She was splayed out flat, in front of the produce stand. Something caught her foot, it had seemed. I rushed over to help her up."
-    c "Quite a fall there, miss."
-    f "Ah, yes, well, the old bones aren't quite as hobbadehoy as they once were, eh sprat?"
-    "She gave me a look up and down as I helped her back to her feet."
-    f "Oh, man alive! Casey Conrad, is that you, you rapscalion? I'd've been told you were colder than the grave by now!"
-    c "Hey, you're one to talk, madamme."
-    "Dandy is someone I had extreme respect for. Even if she wasn't in the game anymore, she still served as a mentor for an entire generation of new up & comers, myself included."
-    "So in a great many ways, I was sad to see her so down to earth. So simple, and so easily tripped."
-    "But if fate needed her, then fate needed her. I helped her pick up her belongings, as I tried to casually bring up the topic."
-    c "So... How's retirement treating you?"
-    f "So and so, if I do say so. I do miss the roar of the greasepaint, the smell of the crowd. But you'd know how that is, wouldn't you?"
-    c "Believe me, you have no idea. So what's this about dropping these groceries? You losing your touch, granny?"
-    f "Oh! Daggers, C.C.! You've wounded me, in ways that no one else can. Ireversable damage!"
-    f "... But you'd also know how THAT is, wouldn't you?"
-    "I stopped picking up the various apples and oranges, and just stood, back turned to her."
-    c "... I don't know what you're playing at, but I'm not a fan."
-    f "Likewise, ditto, and just the same, Casey. If you have something to say to me, then don't beat around the bush. I've a bridge game at 5 that I mustn't be late for."
-    "I should've known better than to play bullshit with Dandy. That was one thing she had on me; she knew the classics like the back of her hand."
-    c "I'm starting a team in Katabas, and I need you to play on it."
-    f "Need, and not want?"
-    "I shrugged, finally turning back around, to give her back her tote bag."
-    c "It's a fate thing."
-    f "Well, Casey Conrad, I've got to let the cat out of the bag, I mus; I'm a jammy player. I've been jammy for years."
-    f "And as much as I miss it, with the way things have progressed, it's almost an entirely different game now. I hardly think I’d be able to begin to fit into a team nowadays."
-    f "Fate'll just have to take a seat, and you'll just have to find another player, I'm sorry to say."
-    "At first, I thought that was just it. My story was over, and I'd have to go back to hermitude. But then I saw the glint in her eye, as she turned away."
-    "The dramatic turn. A classic move, executed simply perfectly. Yet again, I was taken to metaphorical school, and shown how to play the metaphorical game."
+    "I found her in the halls of the Katabas stadium, pounding on the bar of some conscession stand."
+    f "NO ONE IN THEIR RIGHT MIGHT WOULD SPEND THAT MUCH FOR A HOTTED DOG, BALLPARK OR NOT! WHY, I COULD BUY MY OWN MEAT GRINDER AND HOG ANUS FOR THAT PRICE!"
+    "No one was at the stall, so it seemed she was just yelling for the sake of being loud."
+    f "DO YOU COAT YOUR NACHOS IN GOLD? IS THAT WHY I'D HAVE TO TAKE OUT A MORGAGE TO BUY A BASKET?"
+    f "WHAT ABSOLUTE HORSE HOCKY!!"
+    "She knocked over a stack of large disposable cups, and started to stomp off."
+    "She then turned around, restacked the cups as they were, then turned back to continue her huff."
+    "Course, that's when she ran into me."
+    f "Oh my- Casey Conrad? Is that you? I'd've heard you took one last dirt nap, and shimmied off this mortal coil! But, ha! In the flesh, more or less!"
+    c "It's good to see you too, Dandy. You uh... looking to get some food?"
+    "She turned back to the stand, ashamed."
+    f "Well, ah, you see... I... How much did you see?"
+    c "Just the tail end. Speaking of which, I had no idea you knew the going price of hog anus. I've got to say, I'm impressed."
+    "She sighed, and made her way to a nearby bench, opposite from the stall. I took a seat next to her as she started."
+    f "It's just... Well, it's hard to put into words without sounding too crotchety, I suppose."
+    c "Go ahead, I won't judge."
+    f "... This whole stadium's changed so much. The trophies are so much bigger, now."
+    "She looked like she was going to continue, but she stopped herself. We sat in companionable silence for a moment, my mind thinking back to when I was a kid."
+    c "... This used to be a side show, right? This stall."
+    "She perked up when I mentioned it."
+    f "Ah! Ah! Yes, yes it was! Full of, ''Antiquities and Curiosities''!"
+    c "Right, right! When I was a kid, and I would watch games... Well, that was back when the game was still turn based, right? So, during those long charge rounds, I'd sneak out of the bleachers, and make my way down here."
+    f "Truth be told, whelp, so did I. Whenever I was benchwarming, I'd try to mosey down here, and grab a candy floss."
+    c "Oh, those were the best. And the uh... The Dancing Automaton? Was that was it was called?"
+    f "Got it in one! You could feed it change, and it would cut a rug like nothing else."
+    c "Didn't it gain sentience a few years in?"
+    f "Joined the league, iffin I recall correctly. Played for the New Throughfare Candlestick-makers."
+    c "Right, right. Good times."
+    "We were reduced back to silence, for a moment."
+    f "... I'm getting old, C.C.. Far too old for my liking."
+    f "I wouldn't mind the shakier joints, but it feels like everything else is getting younger."
+    f "Shinier, sleaker. Better off. And, in a sentimental way, I'm proud. I'm happy, even."
+    f "I just wish that I could still be a part of it."
+    "She sat for a moment."
+    f "I know I'm just a relic of a woman, now. Some novelty that people keep on their shelves, to oggle and gaze at, and to go ''How quaint!'' before moving on to the next curiosity."
+    f "I guess, I'm just worried that the game's outgrown me, or I've outgrown the game. That my appeal'll stop, and I'll be replaced, by some..."
+    "She gestures to the food stand."
     
-    menu:
-    "But what to say back?"
-    
-    "Don’t you wanna show em all you’ve still got it? That you’re not just some has-been collecting dust?":
-    jump dandy_a1
-    
-    "Seeing you play is the reason I got into Wizardball in the first place. I’m a little embarrassed to say it but I still have your poster up in my room.":
-    jump dandy_a2
-    
-    label dandy_a1
-    "She gave a laugh that filled the market."
-    f "Oh my WORD! Keep up with that talk and you’ll see me chuffed, and believe you me I can chuff up a storm!"
-    f "You think that just because you've said some rude, inspiring things to me, that I'll turn my entire life around, hm?"
-    f "That I'll drop all prior obligations, bridge club INCLUDED, to join your gang of cavorting rounders to play in the best sport known to sapient life?"
-    f "That I'd lose myself at the first available option to get back into the game?"
-    "She threw her tote bag to the floor, again."
-    f "IFFIN YOU DID, THEN YOU'D BE RIGHT, REASON BE DASHED!":
-    jump dandy_a3
-   
-    
-    label dandy_a2
-    "She gasped, dramatically, and blushed slighty"
-    f "Oh Casey! Do you mean that? Genuinely and truthfully, do you mean that?"
-    c "Genuinely and truthfully. You're everything wizardball was, and should be. You're charming, respectful, and a damn fine shot. It was hard to not look up to you, growing up."
-    f "Well... I... I never... Shucks... Oh, stars and garters... Misery me..."
-    "She was kicking around dirt, now, and looking down at the ground. Her face was getting redder."
-    c "Fate's an easy way to describe it, sure, but I would genuinely love the opportunity to be on the same team as you, ma'am."
-    "She threw her tote bag on the floor."
-    f "OH, THUNDER AND TOM WALKER, YOU'VE CONVINCED ME! BALDERDASH TO MY BRIDGE GAME!":
-    jump dandy_a3
-    
-    label dandy_a3
-    "I couldn't hide my grin."
-    f "So tell me then, coach. When's the first frolic?"
-    c "Few days, in hell. Do you need me to help you with your groceries again, old lady?"
-    "She scoffed, and with a kick, it was in the air, then on her arm. One clean, practiced motion."
-    f "No need, guttersnipe! No need."
-    "Giggling, she went on her way."
-    hide dandy
-    "After Dandy, there was..."
