@@ -103,6 +103,7 @@
     z "But my friends call me Diver!"
     "I blinked, my ears slightly ringing. I'm fairly certain my nose was bleeding, as well."
     c "It's... a pleasure to meet you, Diver."
+    "I'm fairly certain I divulged where and when we'd need them next, but my memory's fuzzy, to be honest."
     hide diver
     "After shaking that true name from my head, I had..."
     
