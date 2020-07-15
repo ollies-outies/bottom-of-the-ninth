@@ -1,11 +1,11 @@
-﻿Define f = Character("Dandy")
-Define c = Character ("Casey")
+﻿# Define f = Character("Dandy")
+# Define c = Character ("Casey")
 
 label DandyMarket:
     $ HasDandy = True
 
-Scene bg market
-Show carddandy
+    scene bg market
+    show carddandy
 
     "Dandy Dupris. I'd recognize that finely pampered facial hair anywhere."
     "Aly Dupris got her start earlier than I did, and was a champion in her own right. Watching her play was truly something else. She lived and breathed classic wizardball."
@@ -49,15 +49,15 @@ Show carddandy
     "The dramatic turn. A classic move, executed simply perfectly. Yet again, I was taken to metaphorical school, and shown how to play the metaphorical game."
     
     menu:
-    "But what to say back?"
+        "But what to say back?"
     
-    "Don’t you wanna show em all you’ve still got it? That you’re not just some has-been collecting dust?":
-    jump dandy_a1
+        "Don’t you wanna show em all you’ve still got it? That you’re not just some has-been collecting dust?":
+            jump dandy_a1
     
-    "Seeing you play is the reason I got into Wizardball in the first place. I’m a little embarrassed to say it but I still have your poster up in my room.":
-    jump dandy_a2
+        "Seeing you play is the reason I got into Wizardball in the first place. I’m a little embarrassed to say it but I still have your poster up in my room.":
+            jump dandy_a2
     
-    label dandy_a1
+    label dandy_a1:
     "She gave a laugh that filled the market."
     f "Oh my WORD! Keep up with that talk and you’ll see me chuffed, and believe you me I can chuff up a storm!"
     f "You think that just because you've said some rude, inspiring things to me, that I'll turn my entire life around, hm?"
@@ -68,7 +68,7 @@ Show carddandy
     jump dandy_a3
    
     
-    label dandy_a2
+    label dandy_a2:
     "She gasped, dramatically, and blushed slighty"
     f "Oh Casey! Do you mean that? Genuinely and truthfully, do you mean that?"
     c "Genuinely and truthfully. You're everything wizardball was, and should be. You're charming, respectful, and a damn fine shot. It was hard to not look up to you, growing up."
@@ -79,7 +79,7 @@ Show carddandy
     f "OH, THUNDER AND TOM WALKER, YOU'VE CONVINCED ME! BALDERDASH TO MY BRIDGE GAME!":
     jump dandy_a3
     
-    label dandy_a3
+    label dandy_a3:
     "I couldn't hide my grin."
     f "So tell me then, coach. When's the first frolic?"
     c "Few days, in hell. Do you need me to help you with your groceries again, old lady?"
@@ -88,3 +88,5 @@ Show carddandy
     "Giggling, she went on her way."
     hide dandy
     "After Dandy, there was..."
+
+return

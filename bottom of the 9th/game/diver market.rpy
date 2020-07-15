@@ -31,7 +31,7 @@ label DiverMarket:
     "I nodded again."
     c "This is some very specific verbage, you're using, pal."
     z "M-my therapist told me it makes understanding easier if I use words like that."
-    c "Ah. Well, still, allow me to make my acquaintance! Name’s Casey. And you are...?
+    c "Ah. Well, still, allow me to make my acquaintance! Name’s Casey. And you are...?"
     z "Oh, well, my name makes people's ears bleed if they hear it."
     z "B-but my friends call me Diver."
     c "Pleased to meet you, Diver. So; like I asked earlier, you wouldn't want to be in the Major Leagues of wizardball, would you?"

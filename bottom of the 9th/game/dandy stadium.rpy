@@ -4,8 +4,8 @@
 label DandyStadium:
     $ HasDandy = True
 
-Scene bg stadium
-Show carddandy
+    scene bg stadium
+    show carddandy
 
     "Alouicious Dupris. ''Dandy'', to her fans. So, I called her Dandy."
     "Dandy was everything that made wizardball great, in it's hayday. A true sportswoman, she played fair, and always hit above the belt, so to say."
@@ -64,15 +64,15 @@ Show carddandy
     "I needed to convince her, once and for all, that she deserved to play."
     menu:
     
-    "So, I asked her to join the team..."
+        "So, I asked her to join the team..."
     
-    "For my sake":
-    jump dandy_b1
+        "For my sake":
+            jump dandy_b1
     
-    "For her sake":
-    jump dandy_b2
+        "For her sake":
+            jump dandy_b2
     
-    label dandy_b1
+    label dandy_b1:
     "I sighed, and got ready for an introspection of my own."
     c "Growing up, it was you, and your love of the game that sparked mine."
     c "And as I'm sure you know, a lifetime spent loving the game is a lifetime well spent."
@@ -83,7 +83,7 @@ Show carddandy
     c "To do right by someone.":
     jump dandy_b3
     
-    label dandy_b2
+    label dandy_b2:
     "I shifted myself on the bench, so I was looking directly at her."
     c "Dandy, when I was 10, I saw you on the screen for the first time. I can recall the exact end score, each play by play, the entire game's been on loop in my mind, since I was in grade school."
     c "To say that you inspired me is an understatement. You defined me."
@@ -93,7 +93,7 @@ Show carddandy
     c "And once they know... they might want to see, for themselves."
     jump dandy_b3
     
-    label dandy_b3
+    label dandy_b3:
     "I tried to think of more words, but stopped, turning to face the ceiling. Her gaze had never left the floor, but her expression changed."
     "It went from something soft, something abandoned, to something determined. Something rigid, and prepared."
     "She stood up from the bench, then, hands in fists. She wanted to say something, I could tell."
@@ -104,3 +104,4 @@ Show carddandy
     hide dandy
     "After Dandy, there was..."
     
+return

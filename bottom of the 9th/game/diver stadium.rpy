@@ -71,7 +71,7 @@ label DiverStadium:
     z "I hear them calling me names, and they never invite me out with them when they celebrate."
     "I damn near broke the chair, I slammed my fist down so hard. Diver bolted up."
     c "That's bullshit! You're the MVP, they should be buying you dinner every day!"
-    c "What you need, pal, is a support system. And I think I know just where to get you one.":
+    c "What you need, pal, is a support system. And I think I know just where to get you one."
     jump diver_b3
     
     label diver_b2:
@@ -89,7 +89,7 @@ label DiverStadium:
     c "I hope you don't mind me saying, but that's bullshit."
     c "Teams are supposed to look out for each other, and be there when they need each other. And instead, here you are."
     c "Stuck with me, up in these bleachers."
-    c "That being said, actually, that does remind me.":
+    c "That being said, actually, that does remind me."
     jump diver_b3
     
     label diver_b3:

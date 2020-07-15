@@ -23,7 +23,7 @@ label CilerenMarket:
     l "...Selling?"
     c "I... What? No."
     l "Oh, cool, cool, for sure, for sure. I get what you mean."
-    "She leaned in for another whisper
+    "She leaned in for another whisper"
     l "Keeping it on the down-low so you don’t get caught dealing, I gotcha old timer. Don’t worry. I’m totally not buying. Wink!"
     l "So, Whachu’ got on stock? Pre-rolls? WMS? A goon-sack maybe?"
     c "... Did you just say the word ''wink'' instead of winking?"
