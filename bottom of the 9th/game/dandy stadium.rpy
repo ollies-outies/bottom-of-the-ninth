@@ -80,7 +80,7 @@ label DandyStadium:
     c "And... As foolish as it is, I've been hoping that it all falls together."
     c "That, this whole cockinany scheme pulls through. All of it, to..."
     "I think to V, and my throat freezes up. I clear it."
-    c "To do right by someone.":
+    c "To do right by someone."
     jump dandy_b3
     
     label dandy_b2:

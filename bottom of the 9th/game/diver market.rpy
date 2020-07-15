@@ -50,14 +50,14 @@ label DiverMarket:
         "Don't worry! If anybody makes fun of you we can beat the living shit out of them, as a team!":
             jump diver_a1
     
-        "What they say about you doesn’t matter. You’re a beautiful tentacle monster and you shouldn’t let anyone tell you otherwise."
+        "What they say about you doesn’t matter. You’re a beautiful tentacle monster and you shouldn’t let anyone tell you otherwise.":
             jump diver_a2
     
     label diver_a1:
     "They perked up, when I said that."
     z "R-really?! You would do that for me?!"
     c "Course! The whole team would. We look out for each other, you know?"
-    z "Wow... I’ve never had someone promise to beat the living shit out of people for me!":
+    z "Wow... I’ve never had someone promise to beat the living shit out of people for me!"
     jump diver_a3
     
     
@@ -66,7 +66,7 @@ label DiverMarket:
     z "Oh... Oh my gosh... I've never had someone tell me that before..."
     z "Do you really mean that?"
     c "I am saying this with 100% sincerity, that you are without out a doubt, the coolest, cutest, best tentacle monster in a diving suit that I've seen in my entire life."
-    z "Wow... I've never had someone say something that sincere to me!":
+    z "Wow... I've never had someone say something that sincere to me!"
     jump diver_a3
     
     label diver_a3:
@@ -76,7 +76,7 @@ label DiverMarket:
     z "Then yes! I'll do it! I'll join your team, coach!"
     c "Fantastic. I'll see you in a few days, in Hell Valley Stadium for our first game."
     z "See you then!"
-    Hide diver
+    hide diver
     "I snagged another croissant bite, as I turned to walk away."
     "Next up was..."
    

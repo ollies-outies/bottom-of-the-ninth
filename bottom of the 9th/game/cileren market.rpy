@@ -51,9 +51,9 @@ label CilerenMarket:
     l "Why, that's right coach! I'd never go after anything like that, not even once!"
     "I patted her on the back."
     c "That's right, champ. We're gonna get those chumps down at Hell Valley for sure!"
-    l "Oh, definetly, we're gonna do that thing that you just said."
+    l "Oh, definitely, we're gonna do that thing that you just said."
     c "In fact, I'm offering seats right now to watch us go and beat those fiends down in Hell! All you gotta do, is promise you'll say no to drugs."
-    "A few people walked up, saying things that'd fit perfectly in an after school special. The entire time, Cileren was glaring knives at me.":
+    "A few people walked up, saying things that'd fit perfectly in an after school special. The entire time, Cileren was glaring knives at me."
     jump cileren_a3
     
     label cileren_a2:

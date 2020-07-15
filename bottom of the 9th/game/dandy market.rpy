@@ -64,7 +64,7 @@ label DandyMarket:
     f "That I'll drop all prior obligations, bridge club INCLUDED, to join your gang of cavorting rounders to play in the best sport known to sapient life?"
     f "That I'd lose myself at the first available option to get back into the game?"
     "She threw her tote bag to the floor, again."
-    f "BECAUSE YOU'D BE RIGHT, CONSARN IT!":
+    f "BECAUSE YOU'D BE RIGHT, CONSARN IT!"
     jump dandy_a3
    
     
@@ -76,7 +76,7 @@ label DandyMarket:
     "She was kicking around dirt, now, and looking down at the ground. Her face was getting redder."
     c "Fate's an easy way to describe it, sure, but I would genuinely love the opportunity to be on the same team as you, ma'am."
     "She threw her tote bag on the floor."
-    f "OH, THUNDER AND TOM WALKER, YOU'VE CONVINCED ME! BALDERDASH TO MY BRIDGE GAME!":
+    f "OH, THUNDER AND TOM WALKER, YOU'VE CONVINCED ME! BALDERDASH TO MY BRIDGE GAME!"
     jump dandy_a3
     
     label dandy_a3:
