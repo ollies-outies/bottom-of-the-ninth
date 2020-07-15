@@ -52,24 +52,24 @@ label DoneSelection:
 
     c "You two're gonna play defense. You four're the offense. Now, listen up." 
 
-menu: 
+    menu: 
     
-    c "What we're gonna do is..."
+        c "What we're gonna do is..."
   
-    "The Maneuver.":
-        jump strat1
+        "The Maneuver.":
+            jump strat1
 
-    "The Scheme.":
-        jump strat2
+        "The Scheme.":
+            jump strat2
 
-    "The Plot":
-        jump strat3
+        "The Plot":
+            jump strat3
 
-    "The Technique":
-        jump strat4
+        "The Technique":
+            jump strat4
 
-    "The Dream":
-        jump strat5
+        "The Dream":
+            jump strat5
 
 
     label strat1:
@@ -94,7 +94,7 @@ menu:
     i "OH, ONE OF THE ROOKIES WITH AN INTERCEPTION! Grabs the ball RIGHT from Butch's grasp!"
     i "Wait, no! Butch is still holding the ball!"
     i "The Rookie just TORE BUTCH'S ARM OFF, AND IS TRAVELING WITH IT AS A MAKESHIFT SHIELD!"
-    i "A brutal maneuver, but technically allowed, after players finally were included in the list of "approved envronmental hazards".
+    i "A brutal maneuver, but technically allowed, after players finally were included in the list of 'approved envronmental hazards'."
     i "AND THE FIRST POINT GOES TO THE COMEDIANS, WITH A BRUTAL SWING! The rookie's thrown the arm to a child, who will no doubt hang it from their wall!"
     i "I think we all love little trophies from game day like that. I remember my first game, I-"
     i "AND WE'RE BACK! THE BALL IS THROWN, THE ROOKIE FROM THE COMEDIANS GETS THE BALL!"
@@ -128,7 +128,7 @@ menu:
 
     label strat2:
     c "Yeah, the Scheme."
-    c "Okay everyone, don't forget: the bleachers are technically legal playing ground, so long as legal playing ground is on them. 
+    c "Okay everyone, don't forget: the bleachers are technically legal playing ground, so long as legal playing ground is on them." 
     c "Kick some dirt up, see what you can do. You got this."
     "I watched them as they went into the field, the crowd so loud you could barely hear yourself think."
     "It was out of my hands, now. All I could do is watch them flourish, hope, and listen to the announcements."
@@ -198,7 +198,7 @@ menu:
     i "WHICH IS WHY THE TOPHETS GO FOR IT TOO! The hands now appear to be going for a Ro Sham Bo gambit, lets see if it pays off."
     i "OH AND COMEDIANS GET THE CRUSH WITH A ROCK! NOTHING BEATS ROCK, FOLKS! The ball goes to the Comedians, and then the lot of them..."
     i "Assume a cheer pyramid? Is this to try and throw the groove of the Tophets off? I've heard of charm builds, but none like th-HWHOAH!"
-    i "WITH A SONIC BOOM, THE BALL GOES STRAIGHT INTO THE TOPHETS' POST, LEAVING A DENT WHERE IT LANDS! I've heard of Magic Missiles, but this is RIDICULOUS!
+    i "WITH A SONIC BOOM, THE BALL GOES STRAIGHT INTO THE TOPHETS' POST, LEAVING A DENT WHERE IT LANDS! I've heard of Magic Missiles, but this is RIDICULOUS!"
     i "But the pyramid was a risky play! An Icy Patch directly under the two rookies playing land development causes them to go TOPPLING, LEAVING JUST THE GOALIES!"
     i "A Mirror Self is tried, to make the goal seem fully guarded, but balls don't care about illusions, folks! It soars directly on, getting the Tophets a point!"
     i "The ball is cast once again, and the receiver on the Tophets' end goes for it- but stops dead in his tracks, giggling!"
@@ -255,8 +255,8 @@ menu:
         i "SCORES, FOR THE COMEDIANS, THE ONLY SCORE THEY'D NEED, AND JUST LIKE THAT, THEY'VE SECURED THE GAME, FOLKS! YOU HEARD IT HERE FIRST, THESE COMEDIANS WON THEIR FIRST GAME WITH A GOD DAMN SUDDEN DEATH SHOT!"
         jump teamWin
     else:
-        i 'MISSES ENTIRELY!!! THE COMEDIANS LOSE, BUT WHAT A HELL OF A SHOW! WHAT A SHOW, FOLKS!"
-        jump team Loss
+        i "MISSES ENTIRELY!!! THE COMEDIANS LOSE, BUT WHAT A HELL OF A SHOW! WHAT A SHOW, FOLKS!"
+        jump teamLoss
 
     label strat5:
     c "Yeah. The Dream."
