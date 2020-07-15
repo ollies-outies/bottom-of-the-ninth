@@ -84,7 +84,7 @@ label ScyllaMarket:
     c "Every day, we'd build up hope, only to have it come crashing down. Over, and over again. When she finally moved on, I remember thinking..."
     c "At least it's finally over. At least we know that it's over, and we can stop."
     p "Holy shit."
-    c "It radicalized me, Scylla. Fate's a bitch, and we're just trying to deal with it screwing us over.":
+    c "It radicalized me, Scylla. Fate's a bitch, and we're just trying to deal with it screwing us over."
     jump scylla_a3
    
     label scylla_a3:
