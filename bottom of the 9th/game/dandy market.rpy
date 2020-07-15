@@ -1,5 +1,5 @@
-﻿# Define f = Character("Dandy")
-# Define c = Character ("Casey")
+﻿Define f = Character("Dandy")
+Define c = Character ("Casey")
 
 label DandyMarket:
     $ HasDandy = True
