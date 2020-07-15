@@ -32,7 +32,7 @@ label DiverStadium:
     z "W-well, I was born in the fifth house of empty sorrow within the vast eldritch nothingness of the cosmos."
     c "Of course. Classic."
     z "Both my parents are elder-gods, which is... r-really cool, and I love them very much."
-    z "ut it means the very sight of my be-tentacled self can drive mortals to insanity."
+    z "But, it means the very sight of my be-tentacled self can drive mortals to insanity."
     c "Not so cool."
     "They nodded."
     z "Normally, I wear my suit to help people be able to see, me, but..."
