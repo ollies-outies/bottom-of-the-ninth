@@ -20,9 +20,6 @@ label DuskMarket:
 
     show dusk
 
-    scene market
-
-
     du "HEY! PUNKOSAURUS!"
 
     du "N'you staring n'yat me or somethin'?!?"
@@ -35,11 +32,11 @@ label DuskMarket:
 
         "I'll give you some salmon if you hear me out.":
             du "N'you tryna patronise me just cause N'yi'm fuzzy?! N'yi'll have n'you know n'yim n'yalergic to salmon!"
-            cc "I didn't get a single word of that. Anyways, don't you miss being able to pummel your enemies into the dust?"
+            c "I didn't get a single word of that. Anyways, don't you miss being able to pummel your enemies into the dust?"
 
         "I'm starting a Wizardball team, you in? or are you out?":
             du "Well... what would be n'yin it for me?"
-            cc "You'll get to cause severe bodily harm to an enemy team member."
+            c "You'll get to cause severe bodily harm to an enemy team member."
 
     du "I do like hurting things…"
 

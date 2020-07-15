@@ -27,7 +27,7 @@ label ScyllaMarket:
     p "You wouldn't happen to be a generous benefactor that I could squeeze a few dubloons out of, would you?"
     "I sat down next to her at the bar."
     c "Not for free, at least. I've a proposition for you, regarding Wizardball."
-    p "Oh, let me guess, a fan? Well, autographs normally are fiveteen per signing, with a 50% gratuity charge, but I suppose I could make an exception, iffin you get me another drink."
+    p "Oh, let me guess, a fan? Well, autographs normally are fiveteen per signing, with a 50%% gratuity charge, but I suppose I could make an exception, iffin you get me another drink."
     "I flagged down the bartener, and signalled for 2 brews."
     c "Actually, I was interested in something else. I’m building a team, and I need players. What say you to getting back in the game? Getting to feel the rush of it all one more time?"
     "She damn near fell out of her seat laughing."
