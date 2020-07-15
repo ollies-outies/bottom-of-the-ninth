@@ -5,7 +5,6 @@
 label FatherRobinStadium:
     $ HasFatherRobin = True
 
-    scene bg stadium
     show cardrobin
    
     "Robin Fairweather. The size of a whale, with a heart as big as one, too. One of the best spell slingers in the minor leagues."

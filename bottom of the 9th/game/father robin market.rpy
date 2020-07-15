@@ -4,7 +4,6 @@
 label FatherRobinMarket:
     $ HasFatherRobin = True
 
-    scene bg market
     show cardrobin
 
     "Robin Fairweather. A mountain of a man, with a deeper knowledge of the internal workings of spellcasting that could put Merlin to shame."

@@ -3,7 +3,7 @@
 
 label CilerenMarket:
     $ HasCileren = True
-    scene bg market
+
     show cardcileren
     
     c "Oh, fates be damned. Cileren Naezeros, the nation's sweetheart."

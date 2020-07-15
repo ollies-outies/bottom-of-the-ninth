@@ -7,12 +7,6 @@ label TroubleStadium:
 
     $ HasTrouble = True
 
-    scene bg stadium
-
-    # This shows a character sprite. A placeholder is used, but you can
-    # replace it by adding a file named "eileen happy.png" to the images
-    # directory.
-
     show trouble_card
  
     "Trouble Commings. An ex-reciever for the Reinbachs, over in Joshua Tree."

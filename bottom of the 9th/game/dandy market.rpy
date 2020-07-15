@@ -4,7 +4,6 @@
 label DandyMarket:
     $ HasDandy = True
 
-    scene bg market
     show carddandy
 
     "Dandy Dupris. I'd recognize that finely pampered facial hair anywhere."

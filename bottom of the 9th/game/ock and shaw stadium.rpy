@@ -5,8 +5,7 @@
 
 label OckShawStadium:
     $ HasOckShaw = True
-   
-    scene bg stadium
+
     show cardock&shaw
     
     "Ock and Shaw. Two twins, but, legally, one player." 

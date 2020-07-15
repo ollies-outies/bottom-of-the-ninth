@@ -4,7 +4,6 @@
 label DiverMarket:
     $ HasDiver = True
 
-    scene bg market
     show carddiver
     
     "The first thing that stuck out to me, was the suit."

@@ -3,7 +3,7 @@
 
 label DiverStadium:
     $ HasDiver = True
-    scene bg stadium
+
     show carddiver
     
     "The first thing that stuck out to me, was the suit."

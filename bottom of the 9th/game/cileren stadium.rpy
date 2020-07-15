@@ -3,7 +3,7 @@
 
 label CilerenStadium:
     $ HasCileren = True
-    scene bg stadium
+
     show cardcileren
 
     "Oh, fates be praised. Cileren Naezeros."

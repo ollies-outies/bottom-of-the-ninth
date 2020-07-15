@@ -4,7 +4,6 @@
 label DandyStadium:
     $ HasDandy = True
 
-    scene bg stadium
     show carddandy
 
     "Alouicious Dupris. ''Dandy'', to her fans. So, I called her Dandy."

@@ -5,9 +5,8 @@
 label WhippyStadium:
     $ HasWhippy = True
 
-    scene bg stadium
-
     show whippycard
+
     "Jordan ''Whippy'' Redslide. The unsung hulk of the minor leagues. Depending on how you look at it, fate either loves or hates Whippy."
     "He was blessed from birth with an unusually high capacity for mana, which meant unusually high-potency spells. Love."
     "He was also blessed with as much spell control as a fish has lung capacity. Namely, zilch. Hate."
@@ -17,6 +16,7 @@ label WhippyStadium:
     "Which is why, when I found him practicing his swing on the field itself, I think I knew what was running through his mind."
      
     show whippy
+
     "There was a pile of broken bats next to him, and another pile around his ankles of broken granite wizballs."
     "We typically trained with granite. Overdoing it on weight and density makes it easier to handle the official marble ones in-game."
     "'course, the fact he was breaking them wasn't a good sign. I watched him take one from a bucket nearby, toss it up, and turn it to powder. He sighed a deep sigh."

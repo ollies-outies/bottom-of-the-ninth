@@ -11,11 +11,11 @@ menu:
         jump secondpick
 
 
-    "Ciliren. 2 Might, 2 Magic, 2 Movement" if HasCiliren == True:
+    "Cileren. 2 Might, 2 Magic, 2 Movement" if HasCiliren == True:
         $ Magic += 2
         $ Might += 2
         $ Movement += 2
-        $ HasCiliren = False
+        $ HasCileren = False
         jump secondpick
 
 
@@ -92,11 +92,11 @@ menu:
         $ HasAldric = False
         jump thirdpick
 
-    "Ciliren. 2 Might, 2 Magic, 2 Movement" if HasCiliren == True:
+    "Cileren. 2 Might, 2 Magic, 2 Movement" if HasCileren == True:
         $ Magic += 2
         $ Might += 2
         $ Movement += 2
-        $ HasCiliren = False
+        $ HasCileren = False
         jump thirdpick
 
     "Dandy. 2 Might, 1 Magic, 3 Movement" if HasDandy == True:
@@ -166,11 +166,11 @@ menu:
         $ HasAldric = False
         jump fourthpick
 
-    "Ciliren. 2 Might, 2 Magic, 2 Movement" if HasCiliren == True:
+    "Cileren. 2 Might, 2 Magic, 2 Movement" if HasCileren == True:
         $ Magic += 2
         $ Might += 2
         $ Movement += 2
-        $ HasCiliren = False
+        $ HasCileren = False
         jump fourthpick
 
     "Dandy. 2 Might, 1 Magic, 3 Movement" if HasDandy == True:
@@ -243,11 +243,11 @@ menu:
         jump DoneSelection
 
 
-    "Ciliren. 2 Might, 2 Magic, 2 Movement" if HasCiliren == True:
+    "Cileren. 2 Might, 2 Magic, 2 Movement" if HasCileren == True:
         $ Magic += 2
         $ Might += 2
         $ Movement += 2
-        $ HasCiliren = False
+        $ HasCileren = False
         jump DoneSelection
 
     "Dandy. 2 Might, 1 Magic, 3 Movement" if HasDandy == True:

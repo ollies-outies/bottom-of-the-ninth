@@ -4,7 +4,6 @@
 label AldricStadium:
     $ HasAldric = True
 
-    scene bg stadium
     show cardaldric
 
     "Alric Bohan. The Trikingdom's favorite hero. And, at that point, it seemed like fate's favorite, too."

@@ -5,7 +5,6 @@
 label WhippyMarket:
     $ HasWhippy = True
 
-    scene bg market
     show cardwhippy
 
     "Jordan Redslide. ''Whippy'', to friends and admirers."

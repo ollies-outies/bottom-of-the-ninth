@@ -4,7 +4,6 @@
 label ScyllaMarket:
     $ HasScylla = True
 
-    scene bg market
     show cardscylla
 
     "One of the factors that differentiates Wizardball from your average everyday bloodsport is the chaos. The fluidity of it all. And no one shows that off better than Scylla."

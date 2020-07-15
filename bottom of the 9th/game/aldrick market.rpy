@@ -5,7 +5,6 @@
 label AldricMarket:
     $ HasAldric = True
 
-    scene bg market
     show cardaldric
 
     "Aldric Bohan. If you want to talk about someone favored by fate, then there's no one better than Aldric."

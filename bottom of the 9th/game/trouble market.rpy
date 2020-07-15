@@ -5,9 +5,6 @@
 label TroubleMarket:
     $ HasTrouble = True
 
-    scene bg market
-
-
     show cardtrouble
 
     "Trouble Comings. A bright young upstart in the minor leagues. Used to play for the Reinbachs, over in Joshua Tree. Best shot in the game, and a damn fine receiver too. He had a bright future ahead of him, all things considered." 

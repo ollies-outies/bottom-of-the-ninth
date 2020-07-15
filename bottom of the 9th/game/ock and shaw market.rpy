@@ -7,7 +7,6 @@
 label OckShawMarket:
     $ HasOckShaw = True
 
-    scene bg market
     show cardock&shaw
 
     "Ock and Shaw. Siblings, of the highest caliber."
