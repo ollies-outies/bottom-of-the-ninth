@@ -75,7 +75,7 @@ label DiverStadium:
     jump diver_b3
     
     label diver_b2:
-    "They looked at thier hands, one glove missing."
+    "They looked at their hands, one glove missing."
     z "I... I suppose. I do love the game, and all."
     z "I just... their words still hurt, you know? And no matter how good I play, they're still going to look at me like I'm something weird, to be feared."
     z "Even my own team treats me weird."
