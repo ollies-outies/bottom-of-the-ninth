@@ -46,7 +46,7 @@ label AldricStadium:
     jump aldric_b3
     
        
-    label alric_b3:
+    label aldric_b3:
     "He gestured to the stadium broadly, with both arms, his armor clanking as he did"
     b "The reason that I stopped you, fellow traveler, is this, right here."
     b "As adventurers, I feel like we hardly take time to appreciate the stillness, the silence of it all. The beauty that lies in what is at our front door."
