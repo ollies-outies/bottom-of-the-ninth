@@ -50,7 +50,7 @@ label CilerenStadium:
     l "Yeah, man. Life can really be too much to handle for its own good, sometimes."
     l "Sometimes, I just need to vibe. And this place always reminds me of my days playing Wizardball. Most of my happiest memories are from back then, so... I vibe here."
     "I got partially up, enough so that I was looking at her."
-    c "Do you ever wissh you could go back to your Wizardball days?"
+    c "Do you ever wish you could go back to your Wizardball days?"
     l "Maybe. Like, a lil bit, on the DL, you know?"
     c "Well, maybe it's better to talk about this when you're sober, but I'm putting a team together. Major League. We could use a player with your skills."
     l "Bro... do you really mean that?"
