@@ -47,7 +47,7 @@ label WhippyMarket:
     "I gave a chuckle. I hadn't lied that hard since grade school, but it was working. Whippy was calming down, and more importantly, buying it."
     c "Here, why don't you wait over there? I've got some quick paperwork, to finish up the ol' girl."
     "I point to a nearby bench, under a tree. Whippy hesitates, then nods and walks over."
-    "I quickly pull out my pen and paper and write a hastily written ''I O U x 1. STALL. SORRY MY BAD, C.C.'' and place it on the rubble, before turning back to Whippy."
+    "I quickly pull out my pen and paper and write a hastily written ''IOU x 1. STALL. SORRY MY BAD, C.C.'' and place it on the rubble, before turning back to Whippy."
     jump whippy_A3
 
     label whippy_A2:
