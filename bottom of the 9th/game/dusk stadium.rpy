@@ -4,9 +4,7 @@
 label DuskStadium:
     $ HasDusk = True
 
-    scene du-card
-
-    show du
+    show carddusk
 
     c "They say curiosity killed the cat, but when it came to Dusk Darkness, curiosity made them more powerful than they ever could've imagined."
 

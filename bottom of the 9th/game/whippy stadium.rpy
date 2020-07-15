@@ -5,7 +5,7 @@
 label WhippyStadium:
     $ HasWhippy = True
 
-    show whippycard
+    show cardwhippy
 
     "Jordan ''Whippy'' Redslide. The unsung hulk of the minor leagues. Depending on how you look at it, fate either loves or hates Whippy."
     "He was blessed from birth with an unusually high capacity for mana, which meant unusually high-potency spells. Love."
@@ -15,6 +15,7 @@ label WhippyStadium:
     "I think that the prevailing idea that you have to choose between either hate or love is shortsighted. Whippy is living proof both can coexist."
     "Which is why, when I found him practicing his swing on the field itself, I think I knew what was running through his mind."
      
+    hide cardwhippy
     show whippy
 
     "There was a pile of broken bats next to him, and another pile around his ankles of broken granite wizballs."

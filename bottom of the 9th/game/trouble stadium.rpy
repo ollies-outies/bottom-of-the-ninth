@@ -7,7 +7,7 @@ label TroubleStadium:
 
     $ HasTrouble = True
 
-    show trouble_card
+    show cardtrouble
  
     "Trouble Commings. An ex-reciever for the Reinbachs, over in Joshua Tree."
     "Everyone knows he could've gone major. He was a brilliant shot, and a wiz with a sword, pun partially intended."
@@ -15,7 +15,8 @@ label TroubleStadium:
     "His parents up and bounced on him, his younger sister, and his two younger brothers, to pursue the adventuring life."
     "Leaving him in charge of not only the family bounty hunting buisness, but also three hungry children, and a list of debts longer than the span of a thousand wizardball fields."
     
-    show trouble_sad
+    hide cardtrouble
+    show trouble
 
     "So to see him here, lamenting the shitty deal that fate's decided to deal him... It only made sense."
     "He was sitting on the railing, looking into the field. No doubt, imagining himself running, ball tucked in one hand, blade in the other."
@@ -24,7 +25,7 @@ label TroubleStadium:
     "He damn near fell off his seat."
     "Never was a dexterous one, that Trouble Commings."
     
-    show trouble_surprised 
+    # show trouble_surprised 
 
     t "C-Casey Conrad??"
     t "I thought you had to retire after the whole uh-"
@@ -34,17 +35,17 @@ label TroubleStadium:
     c "... Kind of that second one, actually." 
     "Trouble actually did fall after that one. Towards me, thankfully, so he didn't have to climb up the wall to the stands."
     c "Let me explain, Trouble. See, I-"
-    show trouble_happy
+    # show trouble_happy
     t "YOU KNOW MY NAME?"
     c "'course, kid! You're one the best in the minor league! Hell, I prefer to watch Minor to Major. Way more creative strategies than what those egghead coaches think up."
     c "Anyway! I've decided to be an egghead coach. We're centralized right here in Katabas!"
     t "Uhh?! This is way too good to be true. What's the catch?"
     c "Our first game is in Hell, in less than a week."
-    show trouble_nervous
+    # show trouble_nervous
     t "AH. YEAH THAT'S A BIG ONE ISN'T IT."
     c "What's the matter, scared?"
     t "No, no, it's just..." 
-    show trouble_sad
+    # show trouble_sad
     "Trouble sighed, and sat back down on the railing, back to the field. He looked conflicted."
     t "I don't know. I finally get a good thing going with the hunting, and now I'm hooked right back in. I love the game, don't get me wrong, it's just..."
     t "I love my family more. And the idea of putting them at risk for a chance at glory, it feels weird." 
@@ -118,7 +119,7 @@ label TroubleStadium:
     t "... I can actualy think of a couple of wrong ways to ride a tricycle."
     c "Yeah, so can I. Pretend I said a good metaphor instead."
     "There's another beat. Both our eyes examine the homefield, the stands, empty, sure, but we could hear the cheering still. It echoed through our ears, both."
-    show Trouble_happy
+    # show Trouble_happy
     t "Yeah."
     c "Yeah?"
     t "I'll... I'll see you there, Coach."
