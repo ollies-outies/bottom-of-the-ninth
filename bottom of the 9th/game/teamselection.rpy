@@ -3,11 +3,11 @@ label TeamSelection:
 
 menu:
 
-    "Aldrick. 3 Might, 1 Magic, 2 Movement" if HasAldrick == True:
+    "Aldric. 3 Might, 1 Magic, 2 Movement" if HasAldric == True:
         $ Magic += 1
         $ Might += 3
         $ Movement += 2
-        $ HasAldrick = False
+        $ HasAldric = False
         jump secondpick
 
 
@@ -83,11 +83,13 @@ menu:
         jump secondpick
 
 label secondpick:
-    "Aldrick. 3 Might, 1 Magic, 2 Movement" if HasAldrick == True:
+menu:
+
+    "Aldric. 3 Might, 1 Magic, 2 Movement" if HasAldric == True:
         $ Magic += 1
         $ Might += 3
         $ Movement += 2
-        $ HasAldrick = False
+        $ HasAldric = False
         jump thirdpick
 
     "Ciliren. 2 Might, 2 Magic, 2 Movement" if HasCiliren == True:
@@ -155,12 +157,13 @@ label secondpick:
         jump thirdpick
 
 label thirdpick:
+menu:
 
-    "Aldrick. 3 Might, 1 Magic, 2 Movement" if HasAldrick == True:
+    "Aldric. 3 Might, 1 Magic, 2 Movement" if HasAldric == True:
         $ Magic += 1
         $ Might += 3
         $ Movement += 2
-        $ HasAldrick = False
+        $ HasAldric = False
         jump fourthpick
 
     "Ciliren. 2 Might, 2 Magic, 2 Movement" if HasCiliren == True:
@@ -231,12 +234,12 @@ label thirdpick:
         jump fourthpick
 
 label fourthpick:
-
-    "Aldrick. 3 Might, 1 Magic, 2 Movement" if HasAldrick == True:
+menu: 
+    "Aldric. 3 Might, 1 Magic, 2 Movement" if HasAldric == True:
         $ Magic += 1
         $ Might += 3
         $ Movement += 2
-        $ HasAldrick = False
+        $ HasAldric = False
         jump DoneSelection
 
 
