@@ -2,7 +2,7 @@
 # Define c = character("Casey")
 
 label CilerenMarket:
-    $ HasCileren = Yes
+    $ HasCileren = True
     scene bg market
     show cardcileren
     

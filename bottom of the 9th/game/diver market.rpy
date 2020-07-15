@@ -2,7 +2,7 @@
 # Define c = Character("Casey")
 
 label DiverMarket:
-    $ HasDiver = Yes
+    $ HasDiver = True
 
     scene bg market
     show carddiver

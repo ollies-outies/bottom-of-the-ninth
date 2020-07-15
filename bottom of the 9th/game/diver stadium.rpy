@@ -2,7 +2,7 @@
 # Define c = Character("Casey")
 
 label DiverStadium:
-    $ HasDiver = Yes
+    $ HasDiver = True
     scene bg stadium
     show carddiver
     
