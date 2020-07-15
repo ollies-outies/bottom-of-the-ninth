@@ -32,7 +32,7 @@ define v = Character("Victor")
 
 label start:
 
-    $ random.shuffle(characterlist)
+    $ renpy.random.shuffle(characterlist)
     $ encounter1 = characterlist[0] + "Market"
     $ encounter2 = characterlist[1] + "Market"
     $ encounter3 = characterlist[2] + "Market"
