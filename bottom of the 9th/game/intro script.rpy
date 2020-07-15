@@ -36,9 +36,9 @@ label start:
     $ encounter1 = characterlist[0] + "Market"
     $ encounter2 = characterlist[1] + "Market"
     $ encounter3 = characterlist[2] + "Market"
-    $ encounter4 = characterlist[3] + "Park"
-    $ encounter5 = characterlist[4] + "Park"
-    $ encounter6 = characterlist[5] + "Park"
+    $ encounter4 = characterlist[3] + "Stadium"
+    $ encounter5 = characterlist[4] + "Stadium"
+    $ encounter6 = characterlist[5] + "Stadium"
 
     scene bg smoke
     

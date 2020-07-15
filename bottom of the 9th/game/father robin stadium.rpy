@@ -42,7 +42,7 @@ label FatherRobinStadium:
     "He let the information sit for a moment, and then let out a hearty laugh."
     r "Oh, I should have expected! No way that C.C. Fisk would ever get off their grassy hill. I was a fool to think otherwise."
     c "Yeah, yeah. Yukk it up. It's only fitting, honestly. New team's called ''The Comedians''."
-    "He stopped laughing, then turned, serious and sudden.
+    "He stopped laughing, then turned, serious and sudden."
     r "You're here to ask me to join your team, aren't you?"
     c "... I gotta say, when you're right, you're right. You can stay in town most days, and have enough money to help the kids out."
     r "Casey Conway... are you a good person?"

@@ -57,16 +57,16 @@ menu:
     c "What we're gonna do is..."
   
     "The Maneuver.":
-    jump strat1
+        jump strat1
 
     "The Scheme.":
-    jump strat2
+        jump strat2
 
     "The Plot":
-    jump strat3
+        jump strat3
 
     "The Technique":
-    jump strat4
+        jump strat4
 
     "The Dream":
     jump strat5
