@@ -19,7 +19,7 @@ label ScyllaStadium:
     "And, I found her washed up in the Katabas stadium."
     "I heard her before I saw her. She was singing some sort of shanty. A drinking song, with the echo from the halls acting as her backing chorus."
     p "OOOOOOOHHHHHHHHHH!!"
-    P "TO STORMS THAT BE BREWIN AND BLOW THROUGH THE NIGHT,"
+    p "TO STORMS THAT BE BREWIN AND BLOW THROUGH THE NIGHT,"
     p "TO BEASTIES BELOW US THAT BRING US SUCH FRIGHT,"
     p "DRINK, HEARTIES, DRINK!"
     "It was a classic song, I'd heard before at the docks before. The workers would sing it right before the night was over, in celebration of going to the pub and spending the day's pay."
