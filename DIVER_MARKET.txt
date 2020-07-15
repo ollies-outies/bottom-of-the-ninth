@@ -1,77 +1,79 @@
-    Define di = Character(“Diver”)
-    Define cc = Character(“Casey”)
+    Define z = Character("Diver")
+    Define c = Character("Casey")
 
+    scene bg market
     show carddiver
     
-    “The first thing that stuck out to me was the suit.”
-
-    “What was this person clunking around the market in that bulky thing for?”
-
-    “The dictionary refers to a shot in the dark as ‘A chance taken when you have no information or knowledge about the subject, and therefore cannot possibly know what the outcome will be.”
-
-    “Sometimes… these shots wind up paying off.”
-
+    "The first thing that stuck out to me, was the suit."
+    "I'd heard about Diver before. Some fisherman scooped up something unknowable from the bottom of the ocean, off the Varicinian Coast."
+    "Damn near lost his mind, but the thing scuttled into a nearby bathosuit, and walked the fisherman through theraputic breathing exercizes."
+    "Since then, thing's been on land, trying to deal with society. And because of fate's funny hand, it ended up in the minor circuit."
+    
     hide carddiver
-
-    Show diver
-
-    scene market
-
-
-    cc “Excuse me, but might you know of any fine Wizardball players from around here that I may be able to acquire for the team I’m building.”
-
-    di “Oh goodness! Are you talking to me?.”
-
-    cc “Yes, you in the diving suit. Say, why exactly are you wearing that thing?"
-
-    di “Gosh um, it’s kinda funny actually.”
-
-    di “Y’see, I was born in the fifth house of empty sorrow within the vast eldritch nothingness of the cosmos!"
-
-    cc “Excuse me, what?”
-
-    di “Oh um sorry! I should explain better. Most mortals refer to me as an ‘Eldritch tentacle monster’... but I don’t really know what most of those words mean.”
-
-    di “So given the fact that no mortal creature can gaze upon my grim visage without going mad, I wear this suit! So I can live in the mortal world."
-
-    di “(It also helps cause I sometimes get a little nervous talking to new people, or any people for that matter.)”
-
-    cc “Well, allow me to make my acquaintance! Name’s Casey, and you are…?”
-
-    di “Oh um sorry for not introducing myself! I’m Y’gthangsogy’rislil.”
-
-    di “But all my friends call me Diver!"
-
-    cc “Pleased to meet you, Diver. So like I asked earlier… know any skilled Wizardball players?”
-
-    di “Wizardball players?! (Hey I’m one of those!)"
-
-    di “Um, yeah! Actually I play a little in the minor leagues.”
-
-    cc “Well then, wanna join my team?”
-
-    di “Oh shoot I’m not so sure about that. The last game I played my helmet came off by accident…"
-
-    di “Half the audience was transported to a non euclidian nightmare dimension.”
-
-    di “And- and the other half made fun of me for my tentacles!”
-
-    di “I’d be so embarrassed if something like that happens again, jeez…”
-
+    show diver
+    
+    "And, in the Katabas market square, trying out free samples of various pastries from a local bakery stall."
+    "I approached them, snagging a bitesized croissant as I did, and took a shot in the dark."  
+    c "Say, pal. You wouldn't want to be in the Major Leagues for Wizardball, would you?"
+    "They didn't react, until they noticed that the baker wasn't taking me up on the offer. Slowly, they turned to me, and, in a voice that I did not in any anticipate this monster having, said"
+    z "A-a-are you t-talking to me?"
+    "Like a 3th grader, reading a book report. I was stunned for a moment, and then eventually followed up with..."
+    c "Yep. I figure, a big strong body like that, you'd be a shue in, and I would know."
+    z "Oh, oh no, this isn't strong. Look!"
+    "They wiggled the entirity of their insides. While it seemed humanoid, there wasn't a bone in that entire suit."
+    z "I-it's an easy mistake to make, I think. S-see, I was born in fifth house of empty sorrow within the vast eternal last nothingness of the cosmos."
+    "I nodded."
+    c "Of course, that makes sense."
+    z "S-so given the fact that no mortal entity can fully comprehend my grim v-visage without going mad... Suit."
+    "I nodded again."
+    c "This is some very specific verbage, you're using, pal."
+    z "M-my therapist told me it makes understanding easier if I use words like that."
+    c "Ah. Well, still, allow me to make my acquaintance! Name’s Casey. And you are...?
+    z "Oh, well, my name makes people's ears bleed if they hear it."
+    z "B-but my friends call me Diver."
+    c "Pleased to meet you, Diver. So; like I asked earlier, you wouldn't want to be in the Major Leagues of wizardball, would you?"
+    "They wriggled, for a moment, then stopped."
+    z "O-oh, well, I mean... I'd love to, but I'm not so sure about... the safey of it."
+    c "How so, bud?"
+    z "Well, m-my last game, I was playing great. Blocked well, got a point in..."
+    z "B-but after one of their Handguards rushed me, they knocked my helmet off."
+    z "T-they're still trying to find the audience members that were sent to the 8th Non-euclidian Nightmare Zone."
+    z "A-and those that didn't get sent there made FUN of me, for my weird shaped head!"
+    z "I would be so embarrassed if something like that happens again..."
+    "I've been in those kinds of situations before. I think we all have."
     menu:
-
-    “Don’t worry! If anybody makes fun of you we can beat the living shit out of them, as a team!”:
-    di “R-really?! You’d do that for me? (I’ve never had someone promise to beat the living shit out of people for me!)"
-
-    “What they say about you doesn’t matter. You’re a beautiful tentacle monster and you shouldn’t let anyone tell you otherwise.”:
-    di “Oh… oh my gosh. If you really think so, maybe I can play on the team!”
-
-    after_menu:
-
-    cc “Diver, I would love to have you play for us.”
-
-    di “Oh goodness... Alrighty I’m in!”
-
-
-    hide diver
-    return
+    "And when I was that down in the dumps, what I wanted to hear was.."
+    
+    "Don't worry! If anybody makes fun of you we can beat the living shit out of them, as a team!":
+    jump diver_a1
+    
+    "What they say about you doesn’t matter. You’re a beautiful tentacle monster and you shouldn’t let anyone tell you otherwise."
+    jump diver_a2
+    
+    label diver_a1
+    "They perked up, when I said that."
+    z "R-really?! You would do that for me?!"
+    c "Course! The whole team would. We look out for each other, you know?"
+    z "Wow... I’ve never had someone promise to beat the living shit out of people for me!":
+    jump diver_a3
+    
+    
+    label diver_a2
+    "They did the closest appromimation to blushing, through a brass helmet, which was heating up two spots near where their cheeks would be, so that they shone a bright red."
+    z "Oh... Oh my gosh... I've never had someone tell me that before..."
+    z "Do you really mean that?"
+    c "I am saying this with 100% sincerity, that you are without out a doubt, the coolest, cutest, best tentacle monster in a diving suit that I've seen in my entire life."
+    z "Wow... I've never had someone say something that sincere to me!":
+    jump diver_a3
+    
+    label diver_a3
+    z "D-d'you really think I'm good enough for the team?"
+    c "I wouldn't be asking if you weren't. And if you're still worried about hurting someone, we'll get you a new suit, with a better latched helmet."
+    "They were wriggling non-stop, now."
+    z "Then yes! I'll do it! I'll join your team, coach!"
+    c "Fantastic. I'll see you in a few days, in Hell Valley Stadium for our first game."
+    z "See you then!"
+    Hide diver
+    "I snagged another croissant bite, as I turned to walk away."
+    "Next up was..."
+   
