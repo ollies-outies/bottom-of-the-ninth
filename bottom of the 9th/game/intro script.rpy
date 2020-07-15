@@ -26,6 +26,9 @@ define a = Character("Ock and Shaw")
 define p = Character("Scylla")
 define t = Character("Trouble Comings")
 define w = Character("Whippy")
+define i = Character("Bratherford Hatherford")
+define v = Character("Victor")
+
 
 label start:
 

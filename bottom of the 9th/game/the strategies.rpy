@@ -1,16 +1,12 @@
 ﻿
-define c = Character("Casey")
-define i = Character("Bratherford Hatherford")
-define v = Character("Victor")
-
+# define c = Character("Casey")
+# define i = Character("Bratherford Hatherford")
+# define v = Character("Victor")
 
 label TheStrats:
 
-
-
     scene bg demonstadium
-
-    show finalteam
+    # show finalteam
 
     c "With all of these strategies, we need two people in the back, defending our goal post, no matter what."
     c "What that means is that we should think about this in groups of four."
@@ -183,7 +179,7 @@ menu:
 
     label strat3:
     c "Yeah, the Plot."
-    c "Okay everyone, remember that if you hold hands and believe in the power of friendship, it's been proven to make your Lightning Bolts 80% more vicious. 
+    c "Okay everyone, remember that if you hold hands and believe in the power of friendship, it's been proven to make your Lightning Bolts 80% more vicious." 
     c "Kick ass, have fun, and take names!"
     "It was out of my hands, now. All I could do is watch them flourish, hope, and listen to the announcements."
     i "LADIES, GENTLEMEN, INDIVIDUALS OF ALL VARIETIES, ARE YOU READY TO CAAAAAST?"

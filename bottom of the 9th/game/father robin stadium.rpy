@@ -17,8 +17,8 @@ label FatherRobinStadium:
     "He was a noble man, in the truest sense of the word. I felt bad, seeing fate guide me to him."
     "That was, until I actually ran into him."
      
-     hide cardrobin
-     show robin
+    hide cardrobin
+    show robin
 
     "Robin himself wasn't doing too bad. He was looking at the trophies that lined the walls inside the stadium."
     "It was the gaggle of children, skin and bones, torn rags and sacks sewn lovingly to make clothes, running loose alongside him."
@@ -36,7 +36,7 @@ label FatherRobinStadium:
     r "They're making it through."
     r "And how've you been keeping, old timer?"
     c "Aside from finally stretching my legs? I'm pretty good. Got a new hobby, actually."
-    "He took a step back.
+    "He took a step back."
     r "The mighty Casey Conway Fisk, doing something other than Wizardball?"
     c "No, no, I didn't say that. For the first time this conversation, you missed. I'm coaching a pro-team now. Stationed up here in Katabas, actually. Same stadium."
     "He let the information sit for a moment, and then let out a hearty laugh."

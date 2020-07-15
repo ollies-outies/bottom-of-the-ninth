@@ -7,7 +7,6 @@ label OckShawStadium:
     $ HasOckShaw = True
    
     scene bg stadium
-
     show cardock&shaw
     
     "Ock and Shaw. Two twins, but, legally, one player." 
@@ -46,10 +45,10 @@ label OckShawStadium:
         c "The one who's taller is..."
 
         "Ock":
-        jump oands_B1
+            jump oands_B1
 
         "Shaw":
-        jump oands_B2
+            jump oands_B2
 
     label oands_B1:
     o "HA!" 
@@ -63,7 +62,7 @@ label OckShawStadium:
 
     label oands_B3:
     "The two swapped headbands, then took their trademark position, the previous green Headband wearer now on the bottom."
-    hied ock&shaw_off
+    hide ock&shaw_off
     show ock&shaw
     a "Thanks for that, pal. Solved this for sure."
     s "Yeah, at least until my next growth spurt."

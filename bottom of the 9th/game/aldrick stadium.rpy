@@ -25,20 +25,20 @@ label AldricStadium:
     "He turned and waited for an answer. I felt like I needed to humor him, so I said..."
     
     "Uh... I was was about to slip on a banana peel and you were saving me from such an embarrassing, albeit comedic fate?":
-    jump aldric_b1
+        jump aldric_b1
     
-    c "Uh... You mistook me for a long lost lover and wanted one last chance to reconcile an old spark?":
-    jump aldric_b2
+    "Uh... You mistook me for a long lost lover and wanted one last chance to reconcile an old spark?":
+        jump aldric_b2
     
     
-    label aldric_b1
+    label aldric_b1:
     "He gave a hearty guffaw, and shook his head."
     b "Oh, that would have been humorous. You would have surely taken a tumble!"
     b "Ah, but at your apparent age, that would've resulted something significantly not funny."
     b "No, it was something grander than just preventing your sudden descent, at the hands of a potassium container.":
     jump aldric_b3
     
-    label aldric_b2
+    label aldric_b2:
     "He gave a hearty chuckle, and wagged his finger."
     b "Ha! No, not that. You do resemble someone, that I once shared a night with in the Quintopelle Mountains, but alas."
     b "Even if you were them, our time has passed. While it was fun, it was not ment to be."
@@ -49,7 +49,7 @@ label AldricStadium:
     
     
     
-    label alric_b3
+    label alric_b3:
     "He gestured to the stadium broadly, with both arms, his armor clanking as he did"
     b "The reason that I stopped you, fellow traveler, is this, right here."
     b "As adventurers, I feel like we hardly take time to appreciate the stillness, the silence of it all. The beauty that lies in what is at our front door."

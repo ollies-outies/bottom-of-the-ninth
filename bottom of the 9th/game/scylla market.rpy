@@ -1,7 +1,7 @@
 # Define p = character("Scylla")
 # Define c = character("Casey")
 
-label ScyllaMarket
+label ScyllaMarket:
     $ HasScylla = True
 
     scene bg market
@@ -48,16 +48,16 @@ label ScyllaMarket
     p "Why should I trust you? Why do you CARE? Why do you suddenly show up, thinking you know who I am, how I feel? Why the fuck do you think you can bring up what I left behind?"
     "I was caught off guard, and her questions hit home. But, this was what I needed. She opened her shell, for just a second. If I didn't land this now, there'd be no way I could land it after. I'd need to tell her about something important."
     
-    menu
-    "So, I told her about..."
+    menu:
+        "So, I told her about..."
     
-    "V.":
-    jump scylla_a1
+        "V.":
+            jump scylla_a1
    
-    "My mother.":
-    jump scylla_a2
+         "My mother.":
+            jump scylla_a2
     
-    label scylla_a1
+    label scylla_a1:
     "It still hurt to talk about it, but I needed to let her in on what I was doing, or nothing would change. So, I gingerly approached the topic."
     c "Because I've been hurt too. I've fallen so far, I'm surprised I'm still standing."
     c "I was a pro-player. It was everything to me, Scylla. The game, it made me who I was."
@@ -72,7 +72,7 @@ label ScyllaMarket
    
     
     
-    label scylla_a2
+    label scylla_a2:
     "My mind went to my mother, and what I couldn't do for her. I refused to let that happen again."
     c "Because I've lived in uncertainty before. It was my mother."
     c "She was a brilliant mind, and a sorcereess like no one else. Revolutionized the field of modern connective magic, for the better."
@@ -87,7 +87,7 @@ label ScyllaMarket
     c "It radicalized me, Scylla. Fate's a bitch, and we're just trying to deal with it screwing us over.":
     jump scylla_a3
    
-    label scylla_a3
+    label scylla_a3:
     c "So you want to know why I care?"
     c "It's because I know a downward spiral better than anyone, and I refuse to let it happen to someone that I can do something about."
     c "You were a champion, Scylla. You still are a champion. And I am going to do everything in my power to make sure you remember that."
