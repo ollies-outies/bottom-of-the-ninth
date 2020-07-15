@@ -22,13 +22,13 @@ label AldricStadium:
     b "Tell me, citizen, do you know why I asked you to do such a thing?"
     
     menu:
-    "He turned and waited for an answer. I felt like I needed to humor him, so I said..."
+        "He turned and waited for an answer. I felt like I needed to humor him, so I said..."
     
-    "Uh... I was was about to slip on a banana peel and you were saving me from such an embarrassing, albeit comedic fate?":
-        jump aldric_b1
+        "Uh... I was was about to slip on a banana peel and you were saving me from such an embarrassing, albeit comedic fate?":
+            jump aldric_b1
     
-    "Uh... You mistook me for a long lost lover and wanted one last chance to reconcile an old spark?":
-        jump aldric_b2
+        "Uh... You mistook me for a long lost lover and wanted one last chance to reconcile an old spark?":
+            jump aldric_b2
     
     
     label aldric_b1:
@@ -45,10 +45,7 @@ label AldricStadium:
     b "And besides, you're not even them! You'd need to be at least 10 years younger, at least. No, that wasns't it."
     jump aldric_b3
     
-    
-    
-    
-    
+       
     label alric_b3:
     "He gestured to the stadium broadly, with both arms, his armor clanking as he did"
     b "The reason that I stopped you, fellow traveler, is this, right here."
