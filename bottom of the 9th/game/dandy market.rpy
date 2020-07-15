@@ -64,7 +64,7 @@ Show carddandy
     f "That I'll drop all prior obligations, bridge club INCLUDED, to join your gang of cavorting rounders to play in the best sport known to sapient life?"
     f "That I'd lose myself at the first available option to get back into the game?"
     "She threw her tote bag to the floor, again."
-    f "IFFIN YOU DID, THEN YOU'D BE RIGHT, REASON BE DASHED!":
+    f "BECAUSE YOU'D BE RIGHT, CONSARN IT!":
     jump dandy_a3
    
     
