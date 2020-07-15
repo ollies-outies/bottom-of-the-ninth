@@ -1,80 +1,67 @@
-Define l = character(“Cileren”)
-Define cc = character(“Casey”)
+Define l = character("Cileren")
+Define c = character("Casey")
+scene bg stadium
 Show cardcileren
+
+    "Oh, fates be praised. Cileren Naezeros."
+    "Cileren was a huge potential wizardball star, from the college circuit."
+    "She was born into a family with more money than most city states, and she was raised with the best wizardball tutors that money could buy."
+    "Myself included, actually."
+    "She was shaping up to be the next big name, but fell in with what is commonly known as ''The Wrong Crowd.''"
+    "Started missing games to be at parties, started ignoring tutilage, and kind of just fell from grace."
+    hide cardcileren
+    show cileren
+    "I found her in one of the dugouts in the stadium, partaking of a pipe of Old Toby."
+    c "Hey, pardon me kid, but you used to be Cileren Naezieros, right?"
+    l "Why, who wants to know? You a narc?"
+    c "Gods no. I promise, I just wanna talk, maybe make an offer."
+    l "Not a nark, huh? Wanna toke up to prove it? I, uh... Wouldn't mind having someone to talk to, right now."
     
-    cc “Could it be? It had to be…”
+    menu:
+    
+    "Nah, I don't smoke anymore.":
+    jump cileren_b1
+    
+    "Yeah, let me hit that.":
+    jump cileren_b2
+    
+    label cileren_b1
+    l "That's chill, man. Peer pressure is lame-ass anyway, you do you.":
+    jump cileren_b3
+    
+    label cileren_b2
+    "I took a drag. Smooth, sweet. Much better than I anticipated a college drop-out to have. But, that's money for you.":
+    jump cileren_b3
+    
+    label cileren_b3
+    "I found a spot in the dugout. It was the away teams, so it was a bit less than optimal, but it still had a nice bench, that I laid down on. Cileren was already sprawled out on the floor."
+    c "So, what're you doing here, kid? I thought you quit the game."
+    "Cileren took a long hit from her pipe, and blew out a ring of smoke."
+    l "Alrighty Brosephina, You ready for some real home grown moody existential hours shit?"
+    l "Sometimes, I’m not really all about that ''Fr@-Lyfe''TM. All the kickass parties and all-nighters... It can leave a bro kinda... overwhelmed, if you feel me. And anyways, most of the time I just do it so I’ll get into trouble."
+    l "Seems like the only way I can get my parents to notice me, but it's pretty draining. When I was playing, no matter how good I was doing, never got anything from them. The second I mess up, though, they're on me like icing on a cake."
+    c "... Shit, man. That's actually way heavier a revelation than I expected from this chat."
+    l "And we're still in it, bro. Shit can be fun, don't get me wrong, parties may still MEGA smack in the best ways possible, but it all can just get so..."
+    "She raises her hands, gesturing to nothing."
+    c "Exhausting?"
+    l "Yeah, man. Life can really be too much to handle for its own good, sometimes."
+    l "Sometimes, I just need to vibe. And this place always reminds me of my days playing Wizardball. Most of my happiest memories are from back then, so... I vibe here."
+    "I lay up, looking at her."
+    c "Do you ever wissh you could go back to your Wizardball days?"
+    l "Maybe. Like, a lil bit, on the DL, you know?"
+    c "Well, maybe it's better to talk about this when you're sober, but I'm putting a team together. Major League. We could use a player with your skills."
+    l "Bro... do you really mean that?"
+    c "Cross my heart. You in?"
+    l "Might just be the pipeweed talking, but I am so fucking down for this, bro."
+    c "Then welcome to the team, Cileren Naezeros."
+    "She laid up, and saluted me, which seemed odd, but I saluted back. I told her about the first game, where it was gonna be played, and what to bring."
+    l "I won't be late, man, pinky swear."
+    c "Glad to hear it, kid. Keep vibing, yeah?"
+    l "CAN DO, COACH."
+    hide cileran
+    "She's a good kid, going through some shitty times. Honestly, aren't we all, though?"
+    "After vibing for a bit, there was..."
+    
+    
 
-    cc “It was the one and only Cileren Naezeros, the college Wizardball star.”
 
-    cc “She was born into the upper-upper crust, and because of that her parents could afford the best Wizardball tutors out there.”
-
-    cc “Her skills shined brightly in the college circuit, like a lightbulb…”
-
-    cc “A light bulb that was very”
-
-    cc “very”
-
-    cc “bright.”
-
-    cc “Sadly, the saccharine call of the frat lifestyle was too sweet for her to dismiss.”
-
-    cc “She started missing games to hang out at parties. Eventually, she was kicked off the team.”
-
-    cc “Maybe if I could convince her she still had what it takes, just maybe she’d be willing to join the team.”
-
-hide cardcileren
-
-Show cileran
-
-    cc “Say, I don’t mean to intrude, but are you Cileren Naezieros?”
-
-    l “Why do you wanna know, dudester? You a narc?”
-
-    cc “God no. I promise, I just have an offer I’d like to make.”
-
-    l “Not a narc, huh? Wanna toke up to prove it? I may or may not just be looking for someone to talk to right now.”
-
-menu:
-
-    “Sure.”:
-    “I felt a cough coming on as I held in the drag but managed to supress it.”
-
-    “I don’t smoke…”:
-    l “Thats chill dude! Peer pressure is lame-ass, you do you."
-
-    cc “Thanks. Hey, I’m curious. What exactly are you hanging around this field for? I thought you quit playing.”
-
-    l “Alrighty Brosephina, You ready for some real home grown moody existential hours shit?”
-
-    l “Sometimes, I’m not really all about that Fr@-LyfeTM. All the kickass parties and all-nighters. It can leave a bro kinda overwhelmed if you feel me. And anyways most of     the time I just do it so I’ll get into trouble.”
-
-    l “Seems like the only way I can get my parents to notice me, but it's pretty draining.”
-
-    cc “Damn. That's actually way heavier a revelation than I expected from this chat.”
-
-    l “Yeah. Parties may smack-mega-hard in the best way possible, but it can all get so…"
-
-    l “Exhausting.”
-
-    l “Life really can be too much to handle for its own good sometimes.”
-
-    l “Sometimes I just need to vibe. And this place always reminds me of my days playing Wizardball. Most of my happiest memories are from this place so… I vibe here.”
-
-    cc “Do you ever wish you could go back to your Wizardball days?”
-
-    l “Maybe a ‘lil, on the DL you know?”
-
-    cc “Well, if you really do, I’m putting a team together, and we could really use a player with your skills.”
-
-    l “Broski… you really mean that?”
-
-    cc “Cross my heart. Welcome aboard, Cileran Naezieros.”
-
-    “Cileran gave a salute, which seemed odd, but I saluted back. I told her about the first game, and she promised to get there on time.”
-
-    “Concerning, mostly because time wasn’t an issue I brought up.”
-
-    “After Cileran… Hm… There was…”
-
-hide cileran
-return
