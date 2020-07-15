@@ -5,7 +5,7 @@ label DiverMarket:
     $ HasDiver = True
 
     show carddiver
-    
+    " "
     "The first thing that stuck out to me, was the suit."
     "I'd heard about Diver before. Some fisherman scooped up something unknowable from the bottom of the ocean, off the Varicinian Coast."
     "Damn near lost his mind, but the thing scuttled into a nearby bathosuit, and walked the fisherman through theraputic breathing exercizes."
