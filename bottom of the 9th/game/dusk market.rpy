@@ -86,7 +86,8 @@ label DuskMarket:
     c "O-kay that's not really how negotiating is supposed to work but uhhh..."
     c "What do you say to the prize money getting divided up equally, and I'll pay the tab on that post game dinner?"
     du "They don't have TABS n'yin the sewer idiot! But N'yi'm n'yin!"
-    c "Wonderful!
+    c "Wonderful! We'll be playing at Tophets Stadium in a few days. I'll keep you updated."
+    "They may have been stubborn as all hell but I was hoping that would be a price worth paying in the grand scheme of the game. Next up was..."
     
     hide dusk
     return
