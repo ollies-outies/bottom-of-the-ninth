@@ -18,7 +18,7 @@ label DuskMarket:
 
     du "HEY! PUNKOSAURUS!"
     du "N'you staring n'yat me or somethin'?!?"
-    c "My apologies, I simply recognized you. You're a Wizardball player, right? Used to play for the Danderville Scruff-Necks?"
+    c "Oh, uh... My apologies, I just recognized you. You're a Wizardball player, right? Used to play for the Danderville Scruff-Necks?"
     du "Maybe n'yi did! Maybe n'yi didn't! what's it to n'you!?"
 
     menu:
@@ -81,12 +81,12 @@ label DuskMarket:
     du "Consider n'yit colateral."
     c "Do you even know what that means, Dusk?"
     du "Well... no. But N'yi won't need to worry n'yabout that with n'yall the prize money n'yimma have!"
-    c "Howabout we negotiate this a lil' pardner."
-    du "N'ylright! How's 85% sound..."
+    c "How about we negotiate this a little, partner."
+    du "N'ylright! How's 85 percent sound..."
     c "O-kay that's not really how negotiating is supposed to work but uhhh..."
     c "What do you say to the prize money getting divided up equally, and I'll pay the tab on that post game dinner?"
     du "They don't have TABS n'yin the sewer idiot! But N'yi'm n'yin!"
-    c "Wonderful! We'll be playing at Tophets Stadium in a few days. I'll keep you updated."
+    c "Wonderful! We'll be playing at Hell Valley Stadium in a few days. I'll keep you updated."
     "They may have been stubborn as all hell but I was hoping that would be a price worth paying in the grand scheme of the game. Next up was..."
     
     hide dusk
