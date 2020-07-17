@@ -1,4 +1,4 @@
-# Define du = character("Dusk")
+# Define w = character("Dusk")
 # Define c = character("Casey")
 
 label DuskMarket:
@@ -16,10 +16,10 @@ label DuskMarket:
 
     show dusk
 
-    du "HEY! PUNKOSAURUS!"
-    du "N'you staring n'yat me or somethin'?!?"
+    w "HEY! PUNKOSAURUS!"
+    w "N'you staring n'yat me or somethin'?!?"
     c "Oh, uh... My apologies, I just recognized you. You're a Wizardball player, right? Used to play for the Danderville Scruff-Necks?"
-    du "Maybe n'yi did! Maybe n'yi didn't! what's it to n'you!?"
+    w "Maybe n'yi did! Maybe n'yi didn't! what's it to n'you!?"
 
     menu:
     
@@ -35,9 +35,9 @@ label DuskMarket:
             
         after_menu:
             
-    du "I do like hurting things…"
-    "(They got the world record two seasons ago for most red cards earned in a single game. I need their ferocity on my team.)"
-    du "But N'yi don't need to be n'yon n'ya wizardball team to do that!
+    w "I do like hurting things…"
+    "They got the world record two seasons ago for most red cards earned in a single game. I need their ferocity on my team."
+    w "But N'yi don't need to be n'yon n'ya wizardball team to do that!
     
     menu:
     
@@ -53,7 +53,7 @@ label DuskMarket:
       
       c "I'm frightened but admitantly a little impressed."
       
-      du "Purrcicely what N'yi was going for!"
+      w "Purrcicely what N'yi was going for!"
       
     menu: 
       
@@ -67,25 +67,25 @@ label DuskMarket:
     "This conversation was going nowhere faster than a gravy train."
     c "Work with me here. You don't want your claws going dull do you?"
     c "All time without practice is gonna put quite the damper on your skills."
-    du "N'you know what?! N'yive done some thinking and…"
-    du "N'yi wanna do it! Get me on your team!"
+    w "N'you know what?! N'yive done some thinking and…"
+    w "N'yi wanna do it! Get me on your team!"
     c "Alright!"
-    du "N'yon N'yone condition."
+    w "N'yon N'yone condition."
     c "Fuck."
-    du "N'yi get to be the team MASCOT! N'yincluding but not limited to: 50% n'yof n'yall team n'yearnings, t-shirts with me n'yon them doing something cool like breaking someones legs n'yor something, N'YAAAAAND, N'yif we win n'yi get to take the team to my favorite place to n'yeat n'yafterwords."
-    du "SPOILER: N'yIt's very cozy.
-    du "SPOILER-SPOILER: N'yit's the sewer.
+    w "N'yi get to be the team MASCOT! N'yincluding but not limited to: 50 percent n'yof n'yall team n'yearnings, t-shirts with me n'yon them doing something cool like breaking someones legs n'yor something, N'YAAAAAND, N'yif we win n'yi get to take the team to my favorite place to n'yeat n'yafterwords."
+    w "SPOILER: N'yit's very cozy.
+    w "SPOILER-SPOILER: N'yit's the sewer.
     c "So what you're putting down is if we do all that you'll play for the team?
-    du "Make n'yit 70% n'yof n'all n'yearnings n'yinstead n'yof 60 n'yand n'you got n'ya deal"
-    c "Now now, wait just a very long second! Why did you go all the way up to 70%?"
-    du "Consider n'yit colateral."
+    w "Make n'yit 70 percent n'yof n'all n'yearnings n'yinstead n'yof 60 n'yand n'you got n'ya deal"
+    c "Now now, wait just a very long second! Why did you go all the way up to 70?!"
+    w "Consider n'yit colateral."
     c "Do you even know what that means, Dusk?"
-    du "Well... no. But N'yi won't need to worry n'yabout that with n'yall the prize money n'yimma have!"
+    w "Well... no. But N'yi won't need to worry n'yabout that with n'yall the prize money n'yimma have!"
     c "How about we negotiate this a little, partner."
-    du "N'ylright! How's 85 percent sound..."
+    w "N'ylright! How's 85 percent sound..."
     c "O-kay that's not really how negotiating is supposed to work but uhhh..."
     c "What do you say to the prize money getting divided up equally, and I'll pay the tab on that post game dinner?"
-    du "They don't have TABS n'yin the sewer idiot! But N'yi'm n'yin!"
+    w "They don't have TABS n'yin the sewer idiot! But N'yi'm in!"
     c "Wonderful! We'll be playing at Hell Valley Stadium in a few days. I'll keep you updated."
     "They may have been stubborn as all hell but I was hoping that would be a price worth paying in the grand scheme of the game. Next up was..."
     
