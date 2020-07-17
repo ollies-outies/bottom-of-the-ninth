@@ -77,7 +77,7 @@ label DuskStadium:
     c 'I'm a Washup!"
     w "N'yI can't hear you!"
     c "I'M A WASHUP!"
-    w "N'YOU FUCKIN BET YOU ARE!"
+    w "N'YOU FUCKIN BET N'YOU ARE!"
     c "HELL YEAH I AM. I'M A WASHUP AND NOBODY CAN TELL ME OTHERWISE!"
     w "N'YAND WHAT N'IS THIS WASHUP GONNA DO?!"
     c "FORM THE BEST GODSDAMN WIZARDBALL TEAM EVER!"
