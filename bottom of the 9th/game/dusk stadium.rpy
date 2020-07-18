@@ -21,7 +21,7 @@ label DuskStadium:
     c "I beg your pardon but, what are you doing?"
     w "Watchin'..."
     "Their eyes sqinted with the intent of a predator staking out their prey from afar."
-    c "And... what might you be watching?
+    c "And... what might you be watching?"
     w "The GAME dummy! The n'yone that n'You're blocking my view n'yof!"
     c "But… There's no game going on right now."
     w "N'YI N'KNOW that! But what n'yif there WAS!?"
@@ -33,25 +33,25 @@ label DuskStadium:
     w "N'yand SECONDMOST, n'yor team n'yuniforms n'yare probably stinky!"
     menu:
 
-        "Why in the world is scent something that came to mind?"
-         jump dusk_B4 
+        "Why in the world is scent something that came to mind?":
+            jump dusk_B4 
       
 
         "You'd be missing out on all the fame and adoration of the roaring crowd if you didn't join.":
-         jump dusk_B5 
+            jump dusk_B5 
          
-    define dusk_B4:
+    label dusk_B4:
     w "Why n'yin the world n'yare n'you the dumbest wizardball coach who n'yever coached wizardball?! Dumb rock n'eating coach!"
     c "What are you basing any of these claims off of?"
     w "Nothing n'yin particular! just n'yusing the n'yold feline-n'yintuition"
-     jump dusk_B6
+    jump dusk_B6
     
-    define dusk_B5:
+    label dusk_B5:
     w "N'yi couldn't give n'ya rat's n'yass what n'ya crowd thought n'yof me."
     c "To be completely honest, I envy that."
     w "Very n'yunderstandable reaction!"
     
-    define dusk_B6:
+    label dusk_B6:
     c "Okay but that aside, don't you miss the excitement of the game? The feeling of absolutely trampling the enemy team on your way to victory?"
     w "N'yi n'yam n'ya fan n'yof trampling... buuuut, n'yi've got a nap scheduled for the nexy week n'yand a half so N'yi don't think N'yi'll be able to play for you."
     c "At this point I'm not even suprised."
@@ -62,7 +62,7 @@ label DuskStadium:
     "I hopped the seats and started making my way across the field in a huff"
     c "(I'm not a washup. I'm on the rebound for gods sakes! That cat has no idea what they're talking about."
     c "(I don't need them on my team. I'm gonna make a whole-ass team and were gonna win a whole-ass wizardball game.)"
-    c "(So why am I trying so hard to convince myself all this?)
+    c "(So why am I trying so hard to convince myself all this?)"
     "I hadn't realized it until now, but I had stopped walking through the field halfway through the field."
     w "Hey n'yare you gonna move cause n'you're kinda getting n'yin the way n'yof the game."
     "There was still no game in sight."
@@ -74,7 +74,7 @@ label DuskStadium:
     w "So... maybe n'owning n'yup to how n'you feel about n'yourself will help."
     c "I'm a washup."
     w "What was that?"
-    c 'I'm a Washup!"
+    c "I'm a Washup!"
     w "N'yI can't hear you!"
     c "I'M A WASHUP!"
     w "N'YOU FUCKIN BET N'YOU ARE!"
