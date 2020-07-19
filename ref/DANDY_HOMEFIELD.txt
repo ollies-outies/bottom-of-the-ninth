@@ -1,0 +1,87 @@
+Define da = Character(“Dandy”)
+Define cc= Character (“Casey”)
+show carddandy
+
+
+   cc “I’d recognize that finely pampered facial hair anywhere. Those follicles belonged to none other than the one and only Alouicious ''Dandy'' Dupris!"
+
+    cc “In her heyday she was a legend in the minor league. Watching her play was truly something else.”
+
+    cc ”She lived and breathed classic Wizardball. But sadly, nothing stays classic forever.”
+
+    cc “To put it simply, the game changed and she couldn't keep up with it. All these new strategies. Droves of new players that each brought new abilities and skills to the     table.”
+
+    cc “She was a giraffe, and the tree branches grew too tall for her to reach, and her giraffe neck never grew quite tall enough to get to them as time went on."
+
+    cc “But maybe… just maybe, I could get this giraffe some stilts.”
+
+    cc “Wait a minute what was I talking about?”
+
+    cc “Dandy! I knew I wanted Dandy for my team...”
+
+Hide cardandy
+
+Show dandy
+
+scene homefield
+
+    cc “Excuse me, ma’am, but might you be Dandy Dupris?”
+
+    da “Oh you startled me, little bugger! Do I know you?”
+
+menu:
+
+    “I’m just a huge fan. You’re a complete and utter legend out on the field!”:
+    da “Why I wouldn’tgdo that far, but I wasn’t the worst in the world. In my heyday I could butter the butt of a bee from 30 yards out.”
+
+    “I have a proposition of sorts. One that I hope will pique your interest.”:
+    da “Consider me piqued, youngling. But before we talk about that…”
+
+after_menu:
+
+    da “Did you really come all the way out here just to find crotchety ‘ol me?”
+
+menu:
+
+    “I’m starting a team, and I want YOU to play in it.”:
+    da “Oh, well I’m not so sure about that. I haven’t practiced in so long!”
+
+    “Want a chance to reclaim your glory days on the field? Name’s Casey. Stay in touch.”:
+    da “Well you definitely know how to pull off the whole mysterious-offer-thing, that's for sure.”
+
+after_menu:
+    da “I’m just not sure I have what it takes anymore...”
+
+    cc “I think we both know that's not at all true.”
+
+    da “It’s just, the game has changed so much, even just in the past few years.”
+
+    da “There’s just no place for someone my age.”
+
+menu:
+
+    “BOULDERDASH”
+    da “My word.”
+
+    “POPPYCOCK”
+    da “Goodness!”
+
+    “BULLSHIT”
+    da “Oh my um-”
+
+after_menu:
+
+    cc “You get out there on that field… players aren’t even gonna know what hit ‘em!”
+
+    cc “Of course the game has changed! And that means people won’t be expecting your classic strategies and playstyle. You would smash ‘em into next Saturday. I can             guarantee it.”
+
+    da “Honestly?”
+
+    cc “I’d only be saying this if I had complete and utter faith in you.”
+
+    cc “So what do you say old-timer? Wanna shake things up?”
+
+    da “I might be just crazy enough to take you up on that!”
+
+Hide dandy
+return

@@ -7,7 +7,7 @@
 label OckShawMarket:
     $ HasOckShaw = True
 
-    show cardock&shaw
+    show cardockshaw
 
     "Ock and Shaw. Siblings, of the highest caliber."
     "See, back in Aught Six, there was a massive hullabaloo about a Gorgon in the Major League."
@@ -18,8 +18,8 @@ label OckShawMarket:
     "Shaw, the running man, would control movement, while Ock, the arms, would be the one in charge of spell slinging and ball catching."
     "This was a terrifyingly effective strategy, when they worked together."
 
-    hide cardock&shaw
-    show ock&shaw_off
+    hide cardockshaw
+    show ockshaw apart
   
 
     "But back then, that was quite difficult to actually see."
@@ -116,11 +116,14 @@ label oands_A3:
     "I hate to admit it, but I had a hankering for eggs."
     "I thought about fate, how something greater than us, uncontrolable, seemingly controls our every whim, of an infinte question, and a few fairly stand out answers."
     "But in that moment, only one answer stood out, more than any others."
-    hide ock&shaw_off
-    show ock&shaw
+    
+    show ockshaw together
+
     " "
     a "We're in."
-    
+
+    hide ockshaw together
+
     "Let's see... Next was..."
 
     return
