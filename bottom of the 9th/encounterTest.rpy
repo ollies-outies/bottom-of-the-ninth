@@ -15,7 +15,7 @@ define w = Character("Whippy")
 define i = Character("Bratherford Hatherford")
 define v = Character("Victor")
 
-label start:
+label testing:
 
     scene bg market
     call AldricMarket
@@ -40,5 +40,7 @@ label start:
     call ScyllaStadium
     call TroubleStadium
     call WhippyStadium
+
+    call PostParkMonologue
 
 return
