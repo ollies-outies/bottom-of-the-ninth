@@ -9,7 +9,7 @@ label PostMarket:
 
     show casey
 
-    "Market was a big hit, it turned out. Lots of friendly faces, lots of new pals."
+    "A change of pace. Market was a big hit, it turned out. Lots of friendly faces, lots of new pals."
 
     "But fate still had it in for me, ya see? So I let fate guide my footfalls, for a while."
     "Let my mind wander, and had my body following after it."
@@ -46,6 +46,8 @@ label PostMarket:
     "An Arc of Death came out." 
     "No medics. No Greater Healing Touches."
     "Just the cold, departed body of my friend, and a game stuck in stalemate."
+    "They said the arc'd destroyed the soul. Revivals are just Raise Undead's if the soul's missing."
+    "They stripped me of anything I had, and forced me into Hermitude, to pay for my crimes. All for a crime I didn't mean to commit."
     
     hide ordog
     show casey
