@@ -64,7 +64,7 @@ label DiverMarket:
     "They did the closest appromimation to blushing, through a brass helmet, which was heating up two spots near where their cheeks would be, so that they shone a bright red."
     z "Oh... Oh my gosh... I've never had someone tell me that before..."
     z "Do you really mean that?"
-    c "I am saying this with 100% sincerity, that you are without out a doubt, the coolest, cutest, best tentacle monster in a diving suit that I've seen in my entire life."
+    c "I am saying this with 100 percent sincerity, that you are without out a doubt, the coolest, cutest, best tentacle monster in a diving suit that I've seen in my entire life."
     z "Wow... I've never had someone say something that sincere to me!"
     jump diver_a3
     
