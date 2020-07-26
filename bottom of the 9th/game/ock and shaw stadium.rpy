@@ -31,7 +31,7 @@ label OckShawStadium:
     "Ock doesn't want to be left in the dirt, arms, but no legs, and Shaw's the exact opposite."
     "I figured I ought to try my hand at helping."
     c "'scuse me, gents, I-"
-    "They stopped bickering to turn to me, and before I can make a suggestion, Shaw starts up."
+    "They stopped bickering to turn to me, and before I could make a suggestion, Shaw starts up."
     s "Oh thank the gods, an outside judge. This shit was going NOWHERE, we can agree there."
     o "You got me there."
     a "You got me there." 
@@ -61,22 +61,22 @@ label OckShawStadium:
     jump oands_B3
 
     label oands_B3:
-    "The two swapped headbands, then took their trademark position, the previous green Headband wearer now on the bottom."
+    "The two swapped headbands, then took their trademark position, the previous green headband wearer now on the bottom."
 
     show ockshaw together
 
     a "Thanks for that, pal. Solved this for sure."
     s "Yeah, at least until my next growth spurt."
     o "Oh! You think you're gonna get FED? After that RUDENESS?" 
-    "And just like that, they were bickering again. I... I thanked fate me and my sister weren't like this. I couldn't help but laugh."
+    "And just like that, they were bickering again. I... I thanked Fate that my sister and I weren't like this. I couldn't help but laugh."
     c "Oh, gods, you had me genuinely worried there. I heard that Ock had... No, Shaw was... One of you wanted to leave."
     a "Can you really not tell us apart?"
     c "... Can you?"
-    "We shared a thousand yard stare for a moment."
+    "We shared a thousand-yard stare for a moment."
     a "... I think I was Shaw, starting out."
     a "No, that was me! God, you would, huh?!"
     c "Hey, hey. Shut up for a second."
-    "They surprisingly do, rather quickly."
+    "They surprisingly did, and rather quickly."
     c "I approached you when I thought you were fighting 'cause I wanted to solve that sitch by offering you a place on the Katabas Comedians."
     "They let the offer sink in, then practically throw each other away, and strike dramatic poses."
 
@@ -99,3 +99,4 @@ label OckShawStadium:
     "Next up..."
 
     return
+

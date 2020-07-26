@@ -6,10 +6,10 @@ label DiverStadium:
 
     show carddiver
     " "
-    "The first thing that stuck out to me, was the suit."
+    "The first thing that stuck out to me was the suit."
     "Diver. I'd heard of them before. Some unthinkable horror, stuck inside some long forgotten diving suit, decided to come up and play."
-    "I was intimidated, to say the least, trying to find them. I'd never interacted with them, and most games they were in ended up a bit non-euclidian."
-    "But, rule's have changed. Ever since Yharnum's law, eldritch entities are actually more welcomed. Turns out, tentacles make for great slingers."
+    "I was intimidated, to say the least, trying to find them. I'd never interacted with them, and most games they were in ended up a bit non-euclidean."
+    "But, rules have changed. Ever since Yharnum's law, Eldritch entities are actually more welcomed. Turns out, tentacles make for great slingers."
     "So when I saw that dripping suit, standing along the rows of chairs, watching the field in the stadium..."
     hide carddiver
     show diver
@@ -17,15 +17,15 @@ label DiverStadium:
     c "Ah, pardon me, pal. Don’t mean to pry by asking this but... Wouldn't you get a better view of the, uh... nothing, if you had front row seats?"
     "They turned quick to me, and in a voice that was much lighter than what I had expected, said-"
     z "I-I'm sorry, are... you talking to me?"
-    c "... No, I'm talking to the other tenticle filled bathosuit up here."
+    c "... No, I'm talking to the other tentacle filled bathy-suit up here."
     "They actually turned to look for another one."
     c "Sorry, sorry. I was being sarcastic. Yeah, I'm talking to you, bud."
     z "Ah! W-well, I'm doing this for safety. I've gotta keep my distance, or-"
     "They must have realized I was standing next to them, and let out a scream I can still hear in my nightmares."
     z "P-p-p-pardon me!! You'd better get out of here as fast as you can!! If you don't you’ll probably just wind up getting hurt or something..."
-    "They clammed up futher, and I let out a laugh."
+    "They clammed up further, and I let out a laugh."
     c "You know, not to be rude or anything, but I hardly feel threatened right now."
-    "There as a moment, and they unfolded, looking up at me."
+    "There was a moment, and they unfolded, looking up at me."
     z "...Really?"
     c "Really really. Now, seriously. What are you doing up here?"
     "I sat down in the chair next to them, as they started to explain."
@@ -35,18 +35,18 @@ label DiverStadium:
     z "But, it means the very sight of my be-tentacled self can drive mortals to insanity."
     c "Not so cool."
     "They nodded."
-    z "Normally, I wear my suit to help people be able to see, me, but..."
+    z "Normally, I wear my suit to help people be able to see me, but..."
     "They sighed, or at least did something that looked like sighing."
-    z "I was playing a game of Wizardball today, back in the city, but a quarter through, my helemt got knocked off."
-    z "Half the other team were transported to the 8th Nowhere, which was embarrasing, and the other half made fun of me for my tentacles!"
-    c "Which, was more embarrasing."
-    "They nodded, rapidly. I sunk a little further in my seat, just thinking about what it took me in my hayday to instantly take out half of the enemy team."
-    "They did it accidentally, and were embarrased about it."
+    z "I was playing a game of Wizardball today, back in the city, but a quarter through, my helmet got knocked off."
+    z "Half the other team were transported to the 8th Nowhere, which was embarrassing, and the other half made fun of me for my tentacles!"
+    c "Which was more embarrassing."
+    "They nodded, rapidly. I sunk a little further in my seat, just thinking about what it took me in my heyday to instantly take out half of the enemy team."
+    "They did it accidentally, and were embarrassed about it."
     c "Jeez. Sounds like that really got to you."
     z "The worst part is, I had just started getting confident about my appearance."
     z "I would look in the mirror at that writhing mass of tentacles and actually feel happy. Like I had looks I could be proud of! Or-or at least be okay with. That would be enough. But then they went and tore it all down..."
     z "Son of a... gosh, people can just be so mean sometimes."
-    c "Amen to that, palomine. Amen to that."
+    c "Amen to that, pal o’mine. Amen to that."
     "They turned to me, insides wriggling as they did."
     z "Hey, you seem pretty cool. What would you have done in my shoes?"
     
@@ -56,7 +56,7 @@ label DiverStadium:
         "I'd beat the snot outta them, for thinkin' they had the right.":
             jump diver_b1
     
-        "I'd tone 'em out, focus on what actually mattered; the game.":
+        "I'd tone 'em out, focus on what actually mattered- the game.":
             jump diver_b2
     
     label diver_b1:
@@ -93,13 +93,13 @@ label DiverStadium:
     jump diver_b3
     
     label diver_b3:
-    c "I'm starting up a team, here. We've got a game down in hell coming up, and fittingly, a hell of a line up so far. We'd love to have you join us."
+    c "I'm starting up a team, here. We've got a game down in Hell coming up, and fittingly, a hell of a line up so far. We'd love to have you join us."
     "They looked at me, rather calmly, but I could tell from the squirming under the suit that they were excited about the idea."
     z "M-m-major league? A-are you sure you'd want me?"
-    c "100%% possitive. There's no one like you in a million miles, kid."
+    c "100 percent positive. There's no one like you in a million miles, kid."
     z "Wow, I... I guess you're right."
     "I extended my hand."
-    c "Names Casey, by the by."
+    c "Name’s Casey, by the by."
     z "Oh, I'm Y’gthangsogy’rislil-Aiuevh'icn'kris-Mhymbrerc-Graodrross-Aiuectaiothr'endu-Abhaodhrexz-Ngiogr'gnish-Ctheg'itros-Iuvh'iolda-Oshyjh'thin."
     z "But my friends call me Diver!"
     "I blinked, my ears slightly ringing. I'm fairly certain my nose was bleeding, as well."
@@ -108,3 +108,4 @@ label DiverStadium:
     "After shaking that true name from my head, I had..."
     
 return
+

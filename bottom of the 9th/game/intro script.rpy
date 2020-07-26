@@ -44,7 +44,7 @@ label start:
 
     scene bg smoke
     
-    "It was the 5th anniversary."
+    "It was the fifth anniversary."
     
    
     "It's been a hard few years since then, but I'd imagine it was harder for him."
@@ -56,16 +56,16 @@ label start:
     show casey
     
     c " "
-    c "I realize that you probably can't hear this, V, but... I mean it."
+    c "I realize that you probably can't hear this, Vic, but... I mean it."
     c "I'm sorry."
     
-    "My name is Casey Conway Fisk. I'm a ex-professional wizball player, living out in the boonies, in a little town called Katabas."
+    "My name is Casey Conway Fisk. I'm a ex-professional Wizardball player, living out in the boonies, in a little town called Katabas."
     "And I've got a story to tell."
  
     scene bg stadium
 
     "The name of the game was, and still is, Wizardball."
-    "Everyone in the Trikingdom Area knows about it. Even some of the fools in the underworld know about it."
+    "Everyone in the Tri-kingdom area knows about it. Even those damned fools in the underworld know about it."
     "It's fast, unique, and has enough leniency in the rules that anything and anyone can work."
     "'Course, the rules they actually do have can't be broken, under any circumstances. Otherwise..."
     "Well, otherwise your sponsors stop calling you, and you're forced into house arrest for a few years."
@@ -79,20 +79,20 @@ label start:
     
     "See, in those five years, I'd realized something. Something stronger than any one of us, something bigger."
     "Fate."
-    "Fate's what brought me to the game in the first place. Fate's what put V in the wrong place, at the wrong time. Fate's the player, and we're all just pawns."
+    "Fate's what brought me to the game in the first place. Fate's what put my best friend Vic in the wrong place, at the wrong time. Fate's the player, and we're all just pawns."
     "So... why fight it?"
-    "Fate'll bring what fate'll bring. All we can do is play with what's been given."
+    "Fate'll bring what Fate'll bring. All we can do is play with what's been given."
     "And, in this case, I've been given a pack of Coven brand ''Minor League's Up & Coming Rookie'' cards."
     "Complete, of course, with a stick of Gerblin Green Chewing Gum, which was as stale as a rock."
-    "Each one in a pack of 6, complete with assesment values of the 3 things that matter in wizardball; Might, Magic, and Movement."
-    "Aside from the pack being a wonderful collectors item, and coming with what can arguably be described as a piece of candy, it also shows what the next big team might be. Wizardball is played in teams of six, of course."
-    "See, I couldn't play on the field. Board wouldn't let me. Still won't, in fact."
+    "Each card in a pack of 6 comes complete with assessment values of the 3 things that matter in Wizardball- Might, Magic, and Movement."
+    "Aside from the pack being a wonderful collector’s item, and coming with what can arguably be described as a piece of candy, it also shows what the next big team might be. Wizardball is played in teams of six, of course – just like a pack of Coven Cards."
+    "See, I could no longer play on the field. The game’s Executive Board wouldn't let me. Still won't, in fact."
     "But I could gather a team, and play Coach, from the backlines."
-    "Hand picked, by none other than the swaying hand of fate, I could amass a group of players that were never given the chance to go big, and finally let 'em."
+    "Hand picked, by none other than the swaying hand of Fate, I could amass a group of players that were never given the chance to go big, and finally let 'em."
     "I was done worrying about the fall. I was done letting what could happen prevent me from focusing on what has happened."
     
-    "I had a first game already scheduled, down in the underworld in Judecca. I had a teamname, and a lifetime worth of strategies. All I needed were the players to do it with."
-    "Let's see what fate had up first." 
+    "I had a first game already scheduled, down in the underworld in Judecca. I had a team name, The Comedians, and a lifetime worth of strategies. All I needed were the players to do it with."
+    "Let's see what Fate had up her sleeve first." 
     
     hide casey
     

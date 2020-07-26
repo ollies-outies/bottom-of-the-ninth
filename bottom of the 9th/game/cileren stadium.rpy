@@ -6,19 +6,19 @@ label CilerenStadium:
 
     show cardcileren
 
-    "Oh, fates be praised. Cileren Naezeros."
-    "Cileren was a huge potential wizardball star, from the college circuit."
-    "She was born into a family with more money than most city states, and she was raised with the best wizardball tutors that money could buy."
+    "Oh, Fates be praised. Cileren Naezieros."
+    "Cileren was a huge potential Wizardball star, from the college circuit."
+    "She was born into a family with more money than most city states, and she was raised with the best Wizardball tutors that money could buy."
     "Myself included, actually."
     "She was shaping up to be the next big name, but fell in with what is commonly known as ''The Wrong Crowd.''"
-    "Started missing games to be at parties, started ignoring tutilage, and kind of just fell from grace."
+    "Started missing games to be at parties, started ignoring tutelage, and kind of just fell from grace."
     hide cardcileren
     show cileren
     "I found her in one of the dugouts in the stadium, partaking of a pipe of Old Toby."
     c "Hey, pardon me kid, but you used to be Cileren Naezieros, right?"
     l "Why, who wants to know? You a narc?"
     c "Gods no. I promise, I just wanna talk, maybe make an offer."
-    l "Not a nark, huh? Wanna toke up to prove it? I, uh... Wouldn't mind having someone to talk to, right now."
+    l "Not a narc, huh? Wanna toke up to prove it? I, uh... Wouldn't mind having someone to talk to, right now."
     
     menu:
     
@@ -62,8 +62,9 @@ label CilerenStadium:
     c "Glad to hear it, kid. Keep vibing, yeah?"
     l "CAN DO, COACH."
     hide cileren
-    "She's a good kid, going through some shitty times. Honestly, aren't we all, though?"
+    "She's a good kid, going through some shitty times. Honestly, aren't we all, though? A little hurt she didn’t even recognize me. Damn elves and their reverse-dog-years aging process. I guess even though she looks the same as when I knew her, I’m... older."
     "After vibing for a bit, there was..."
     
 
 return   
+

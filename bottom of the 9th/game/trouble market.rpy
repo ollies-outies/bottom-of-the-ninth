@@ -11,13 +11,13 @@ label TroubleMarket:
     "Except for one nagging issue, that is. See, Trouble had a massive debt to pay, thanks to his mom and pop bouncing out of he and his three siblings' lives the first chance they got."
     "Left poor Trouble to foot the bill of two lifetimes' worth of gambling and drinking, plus three hungry mouths to feed."
     "So, he did what any responsible person would do in that situation: Quit his passion, to continue the business his folks left behind."
-    "Which just so happens to be based primarily in the hunting of men."
+    "A family business which just so happens to be based primarily in the hunting of men."
 
     hide cardtrouble
     show trouble
 
     t "God damn it! Which way did she go?"
-    "I ran into him in the middle of a hunt, ya see. Some fool had made the mistake of pissing off the wrong person with the right amount of cash, which left a target on their back, the size of a barnyard door. "
+    "I ran into him in the middle of a bounty hunt, ya see. Some fool had made the mistake of pissing off the wrong person with the right amount of cash, which left a target on their back, the size of a barnyard door. "
     "And, as I previously mentioned, Trouble was a great shot. "
     "Issue was, Trouble was never the quickest kid in the park. Meaning anyone more fleet-footed than him could be out and away, just like that. "
     "What he needed was a Team. What he got was an entree plate of bad luck with a side order of bullshit. "
@@ -27,7 +27,7 @@ label TroubleMarket:
    
     "Trouble gave me a look over, not quite sure what I meant, before realizing who was offering their service."
    
-    t "Casey Conway?! I thought you’d curled up and died somewhere! Oh, d-uh... no offence."
+    t "Casey Conrad?! I thought you’d curled up and died somewhere! Oh, d-uh... no offence."
     c "Well, I did move permanently into this backwater, so... you’re half right."  
 
 menu: 
@@ -54,7 +54,7 @@ label trouble_A2:
     "He ruffled his brow, and gave me a curious look."
     t "Some of us gotta work to live, pal. Not all of us have boxes of cereal with our faces on them."
     "I raised my hands, shaking my head, giving a slight laugh."
-    c "You know, I told my manager that brand deal was a bad play, but he insisted. No one wants clam flavored cereal, endorcement or not!" 
+    c "You know, I told my manager that brand deal was a bad play, but he insisted. No one wants clam flavored cereal, endorsement or not!" 
     c "Worst part of it all is that I got none of the residuals. It all goes to my old team."
     c "Which, reminds me."
     jump trouble_A3
@@ -68,7 +68,7 @@ label trouble_A3:
     t "... wait, is it paid?" 
     c "It is paid, yes. Quite well, actually."
     
-    t "Then yeah!? I’d- well I would need to finish this first, but I still want to play on your team after, can we do that? God, I’m sorry this is important, and we already signed a contract for this, so I would need to finish the hunt before I had any free time, and I don’t think that I can just leave on this, and oh god what am I gonna tell Strife I’m so sorry this is all just so much all of a sudden, I’m babbling and I’m just-"
+    t "Then yeah! I’d- well I would need to finish this first, but I still want to play on your team after, can we do that? God, I’m sorry this is important, and we already signed a contract for this, so I would need to finish the hunt before I had any free time, and I don’t think that I can just leave on this, and oh god what am I gonna tell Strife I’m so sorry this is all just so much all of a sudden, I’m babbling and I’m just-"
     c "Kid." 
     
     "Trouble stops." 
@@ -78,7 +78,7 @@ label trouble_A3:
     t "Hell yeah!! Hell!! Yeah!!!"
     "We talked strategy for a moment. It feels good to be working out the metaphorical strategic muscles before the big game."
     "Fate is a big decider in everything, but it’s strategies that make fate manageable."
-    "'Course, that doesn’t mean that fate can’t just occasionally give you a boon, like, say, the target tripping in a nearby alleyway, making a racket and alerting you and your new companion that they are 1. prone and 2. Extremely nearby."
+    "'Course, that doesn’t mean that fate can’t just occasionally give you a boon, like, say, the target tripping in a nearby alleyway, making a racket and alerting you and your new companion that they are 1. Prone and 2. Extremely nearby."
     "Without talking, Trouble leapt at them."
     "There was a small skirmish, but Trouble handily defeated the foe, finishing by tying them up. He then quickly popped back out."
     t "Hey, I’m gonna handle this, but where should I meet up with you?"
@@ -99,3 +99,4 @@ label trouble_A3:
     "After that, of course..."
 
     return
+

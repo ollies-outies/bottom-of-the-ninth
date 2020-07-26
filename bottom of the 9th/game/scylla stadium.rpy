@@ -6,20 +6,20 @@ label ScyllaStadium:
 
     show cardscylla
     
-    "Wizardball's a game that's defined by it's fluidity, and no one shows that more than Scylla."
+    "Wizardball's a game that's defined by its fluidity, and no one shows that more than Scylla."
     "No one really knows where she came from. I heard it said that at a minor league tryout over in Capacia, someone knocked a ball into the coast, and she came out of the seafoam to give it back."
-    "No matter where she came from, all that mattered was that she was a master when it came to followthrough. Could run circles around everyone, and could singlehandedly win games, if given the chance."
+    "No matter where she came from, all that mattered was that she was a master when it came to follow-through. Could run circles around everyone, and could singlehandedly win games, if given the chance."
     "That was her issue, actually. She'd always play as if her team didn't exist, hogging the ball and intercepting passes."
-    "That, and her love for liquid courage. It was notorious, that she never had a sober game. These two things eventually got too much to handdle, and they kicked her from the team."
+    "That, and her love for liquid courage. It was notorious, that she never had a sober game. These two things eventually got too much to handle, and they kicked her from her team."
     "She's been drifting from place to place since."
     
     hide cardscylla
     show scylla
     
     "And, I found her washed up in the Katabas stadium."
-    "I heard her before I saw her. She was singing some sort of shanty. A drinking song, with the echo from the halls acting as her backing chorus."
+    "I heard her before I saw her. She was singing some sort of sea-shanty. A drinking song, with the echo from the halls acting as her backing chorus."
     p "OOOOOOOHHHHHHHHHH!!"
-    p "TO STORMS THAT BE BREWIN AND BLOW THROUGH THE NIGHT,"
+    p "TO STORMS THAT BE BREWIN’ AND BLOW THROUGH THE NIGHT,"
     p "TO BEASTIES BELOW US THAT BRING US SUCH FRIGHT,"
     p "DRINK, HEARTIES, DRINK!"
     "It was a classic song, I'd heard before at the docks before. The workers would sing it right before the night was over, in celebration of going to the pub and spending the day's pay."
@@ -27,14 +27,14 @@ label ScyllaStadium:
     p "LETS DRINK TO ONE, NOW, AND LET'S DRINK TO ALL!"
     p "DRINK, HEARTIES, DRINK!"
     "I finally turned the corner to find her. She was sitting on the floor, under the display stands with a bottle of scrumpy in one hand, singing to the trophy cases."
-    p "TO THE THE WAVES WE RIDE BE THEM CALM OR ROUGH..."
+    p "TO THE THE WAVES WE RIDE, BE THEM CALM OR BE ROUGH..."
     
     
     
     menu:
         "I sang back the final line as I walked up."
     
-        "To the folks stuch ashore who weren't up to snuff!":
+        "To the folks stuck ashore who just weren't up to snuff!":
             jump Scylla_b1
     
         "To the rivers, the mountains, high and wide enough!":
@@ -50,13 +50,13 @@ label ScyllaStadium:
     p "No, no. Only on days that end in Y. I've a packed schedule, otherwise."
     c "I can tell."
     "Her eyes drifted to the trophies."
-    p "You know, I could've been big. I could've been the next Casey Conway."
-    p "But instead, I'm here, drowing my sorrows."
+    p "You know, I could've been big. I could've been the next Casey Conrad."
+    p "But instead, I'm here, drowning my sorrows."
     "She laughed, but it was forced."
-    c "It seems a bit dreary, if it were me."
+    c "It seems a bit dreary, if you ask me."
     p "Yeah, I would agree, iffin that didn't require me to admit to the fact that this is probably an unhealthy coping mechanism."
     p "One that leaves me in a deeper pit than I started in when I wasn’t liquored up yet."
-    p "And FUCK confronting that beast am I right? I got enough problems as it is right now."
+    p "And FUCK confronting that beast, am I right? I got enough problems as it is right now."
     p "Like... I can't find my bottle, for one."
     "I passed it back to her, her face lighting up when she got it back."
     p "How about you? What's got you on the floor? Are you also lamenting what could've been?"
@@ -66,7 +66,7 @@ label ScyllaStadium:
     p "Someone famous said that, I think."
     c "... Can't believe I'm saying this, but you make a good point."
     "We sat on the floor for a bit longer, looking up at the trophies. I had forgotten how those pieces of scrap metal made me feel, until I was face to face with them again."
-    "All that pride, all that comrodery..."
+    "All that pride, all that camaraderie..."
     "Everything the game had meant to me, all of those feelings were stuck in those trophies. In those happy memories, of accomplishment."
     "Even if this goes ass over teakettle, what's happened still happened, for the better and for the worse."
     " "
@@ -76,7 +76,7 @@ label ScyllaStadium:
     p "At this point that sounds pretty tempting, I won't lie, if just for the opportunity to meet some new drinking buddies."
     p "But, do you really think that I'm the right pick?"
     c "The most honest answer I can give you is this: who the hell knows?"
-    "She laughed, and stood off the ground."
+    "She laughed, and stood up shakily from the ground."
     p "Now that's what I like to hear. Put me down for a spot."
     hide scylla
     "After we cleared the area, there was..."

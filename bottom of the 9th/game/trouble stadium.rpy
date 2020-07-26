@@ -9,11 +9,11 @@ label TroubleStadium:
 
     show cardtrouble
  
-    "Trouble Commings. An ex-reciever for the Reinbachs, over in Joshua Tree."
+    "Trouble Comings. An ex-reciever for the Reinbachs, over in Joshua Tree."
     "Everyone knows he could've gone major. He was a brilliant shot, and a wiz with a sword, pun partially intended."
-    "Issue is, trouble comes often for Trouble Commings."
+    "Issue is, trouble comes often for Trouble Comings."
     "His parents up and bounced on him, his younger sister, and his two younger brothers, to pursue the adventuring life."
-    "Leaving him in charge of not only the family bounty hunting buisness, but also three hungry children, and a list of debts longer than the span of a thousand wizardball fields."
+    "Leaving him in charge of not only the family bounty hunting business, but also three hungry children, and a list of debts longer than the span of a thousand Wizardball fields."
     
     hide cardtrouble
     show trouble
@@ -23,33 +23,33 @@ label TroubleStadium:
     "'course, when I snuck up behind him and asked him,"
     c "Do you wanna join my new team, kid?"
     "He damn near fell off his seat."
-    "Never was a dexterous one, that Trouble Commings."
+    "Never was a dexterous one, that Trouble Comings."
     
     # show trouble_surprised 
 
     t "C-Casey Conrad??"
     t "I thought you had to retire after the whole uh-"
     c "I did, kid. But fate seems to want me back in the game."
-    "Casey made a face. Concerned, but curious."
+    "Trouble made a face. Concerned, but curious."
     t "Are you joining the minor league...? Or playing in, like, a secret underground ring?"
     c "... Kind of that second one, actually." 
     "Trouble actually did fall after that one. Towards me, thankfully, so he didn't have to climb up the wall to the stands."
     c "Let me explain, Trouble. See, I-"
     # show trouble_happy
     t "YOU KNOW MY NAME?"
-    c "'course, kid! You're one the best in the minor league! Hell, I prefer to watch Minor to Major. Way more creative strategies than what those egghead coaches think up."
+    c "'course, kid! You're one of the best in the Minor League! Hell, I prefer to watch minor to major. Way more creative strategies than what those egghead coaches think up."
     c "Anyway! I've decided to be an egghead coach. We're centralized right here in Katabas!"
     t "Uhh?! This is way too good to be true. What's the catch?"
     c "Our first game is in Hell, in less than a week."
     # show trouble_nervous
-    t "AH. YEAH THAT'S A BIG ONE ISN'T IT."
-    c "What's the matter, scared?"
+    t "AH. Yeah, that’s a big catch, isn’t it?"
+    c "Why, are you scared?"
     t "No, no, it's just..." 
     # show trouble_sad
     "Trouble sighed, and sat back down on the railing, back to the field. He looked conflicted."
-    t "I don't know. I finally get a good thing going with the hunting, and now I'm hooked right back in. I love the game, don't get me wrong, it's just..."
+    t "I don't know. I finally get a good thing going with the bounty hunting, and now I'm hooked right back in. I love the game, don't get me wrong, it's just..."
     t "I love my family more. And the idea of putting them at risk for a chance at glory, it feels weird." 
-    "Kid had a point. Joining the Major Leagues meant having that as your Full Time Job, and dropped everything else. It was part of the process of registration."
+    "Kid had a point. Joining the Major Leagues meant having that as your Full Time Job, and dropping everything else. It was part of the process of registration."
     "I sat next to him, facing towards the field, my legs over the railing."
     c "Kid, I'm not gonna make you choose. I wanted to put the option there, if you wanted to take it. I understand putting family before personal gain. I can relate."
     "He looked up, confused."
@@ -69,12 +69,12 @@ label TroubleStadium:
     c "'course, this was before the advancements we've made in medicinal magic, and at the time, it was uncurable."
     "He turned his head to listen as I continued, staring down at the field." 
     c "She was hooked up to gods only know how many tubes, pumping this that and another. We had healers making house calls around the clock."
-    c "And my dad, he was an artifact guy, see? He turned to his work, dedicating all of his time to finding something that would make her better."
+    c "And my dad, he was an artifact guy, see? He turned to his work, certain that he could find something there to heal her."
     c "Never could."
-    c "I still remember how she looked when she finally passed. The worst part was that the thing wasn't contagious, so we all could standby and watch."
+    c "I still remember how she looked when she finally passed. The worst part was that the thing wasn't contagious, so we all could stand by and watch."
     c "She had a stare that went for a thousand miles, and a smile, when she left."
     c "I'm glad, at least, she was able to go with her family by her side."
-    c "But... that dedication my dad had. He threw everything else aside, even his own buisness, to try and save her."
+    c "But... that dedication my dad had. He threw everything else aside, even his own business, to try and save her."
     c "... But he couldn't."
     "I wiped my eyes, and caught my breath. I'm glad I was facing away from Trouble, but I think he saw the mask slip anyway."
     jump trouble_b3
@@ -112,12 +112,12 @@ label TroubleStadium:
     c "But failure is always an option, Trouble. That's the thing. You could fail your job now."
     c "Some target might be too tough to handle, and you..."
     "An uncomfortable beat."
-    c "... Lets stick with fail. You fail." 
+    c "... Let’s stick with fail. You fail." 
     c "The risk is still there, either path you take."
     c "So, I would go for the one that makes you happy."
     c "And there's no way you've forgotten. Wizardball's like a tricycle. No wrong way to do it."
-    t "... I can actualy think of a couple of wrong ways to ride a tricycle."
-    c "Yeah, so can I. Pretend I said a good metaphor instead."
+    t "... I can actually think of a couple of wrong ways to ride a tricycle."
+    c "Yeah, so can I. Pretend I came up with a good metaphor instead."
     "There's another beat. Both our eyes examine the homefield, the stands, empty, sure, but we could hear the cheering still. It echoed through our ears, both."
     # show Trouble_happy
     t "Yeah."
@@ -127,3 +127,4 @@ label TroubleStadium:
     c "Glad to hear it."
 
     return
+

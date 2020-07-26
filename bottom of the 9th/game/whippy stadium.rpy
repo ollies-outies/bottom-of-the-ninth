@@ -7,11 +7,11 @@ label WhippyStadium:
 
     show cardwhippy
 
-    "Jordan ''Whippy'' Redslide. The unsung hulk of the minor leagues. Depending on how you look at it, fate either loves or hates Whippy."
+    "Jordan ''Whippy'' Redslide. The unsung hulk of the minor leagues. Depending on how you look at it, Fate either loves or hates Whippy."
     "He was blessed from birth with an unusually high capacity for mana, which meant unusually high-potency spells. Love."
     "He was also blessed with as much spell control as a fish has lung capacity. Namely, zilch. Hate."
-    "When he was found by the minor leagues, his high energy levels meant he was able to swing with the big boys, with little to no actual muscle density. Love."
-    "He's too strong, to the point of leveling buildings by brushing into them, and destroying arms with high fives. Hate."
+    "When he was found by the Minor League, his high energy levels meant he was able to swing with the big boys, with little to no actual muscle density. Love."
+    "He's too strong, to the point of leveling buildings by brushing into them, and breaking folks’ arms with his high fives. Hate."
     "I think that the prevailing idea that you have to choose between either hate or love is shortsighted. Whippy is living proof both can coexist."
     "Which is why, when I found him practicing his swing on the field itself, I think I knew what was running through his mind."
      
@@ -36,7 +36,7 @@ label WhippyStadium:
     c "Kid, when you're only using one hand, it's all the bat's weight, and none of your control that you bring with your arms. The forces add together, but with none of the benefits."
     c "I want you to try to hit the ball with the butt of the bat. I'm gonna throw it low, okay? Keep the rest of it unmoving, and try to hit the ball I throw with the butt, alright?"
     "Whippy grumbled, but took his position. I threw, and he hit it square on, a ball that's been clocked at 102 MpH, with something the size of a bottlecap."
-    "It exploded, nonetheless, but that precision is exactly what I was looking for on the Comedians. I chucked a bit."
+    "It exploded, nonetheless, but that precision is exactly what I was looking for on the Comedians. I chuckled a bit."
     c "Hey, nice hit! Okay, one more thing, then I promise I'll be out of your feathers."
     w "... Alright. What?"
     c "I want you to do that exact same swing. I'm gonna pitch it high, but still act like you were hitting low, okay? The exact motion."
@@ -54,10 +54,10 @@ label WhippyStadium:
     "What else could I say? The kid said please."
     c "Alright, sport, you're on the team. We'll meet up with the others at Hell Valley Stadium in a few days."
     "He stood in silence, before breaking out into sweat. I didn't know birds could sweat."
-    w "T-te-t-t-TEAM?"
+    w "T-t-t-t-TEAM?"
     c "Yeah, of course. The best way to learn is to play, and with arms like yours, we need to do that where there's medics on standby."
     c "Welcome to the Major League, kid."
-    "I turned arond again, to walk back indoors, when he shouted one last thing."
+    "I turned around again, to walk back indoors, when he shouted one last thing."
     w "HEY!"
     w "DO I KNOW YOU FROM SOMEWHERE?"
     menu: 
@@ -77,3 +77,4 @@ label WhippyStadium:
     "And, how much I enjoyed teaching someone a new way how to play."
 
     return
+

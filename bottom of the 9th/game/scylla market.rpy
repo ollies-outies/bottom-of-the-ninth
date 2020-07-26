@@ -1,4 +1,4 @@
-# Define p = character("Scylla")
+﻿# Define p = character("Scylla")
 # Define c = character("Casey")
 
 label ScyllaMarket:
@@ -7,7 +7,7 @@ label ScyllaMarket:
     show cardscylla
 
     "One of the factors that differentiates Wizardball from your average everyday bloodsport is the chaos. The fluidity of it all. And no one shows that off better than Scylla."
-    "No one truly knows just exactly how she broke into playing on the Minor league circuit. Story goes she just showed up to the tryouts of the Capacian Breakerss and filled her name in, on the team wall as if she had already been accepted."
+    "No one truly knows just exactly how she broke into playing on the Minor League circuit. Story goes she just showed up to the tryouts of the Capacian Breakers and filled her name in, on the team wall as if she had already been accepted."
     "Manager was pissed, obviously, but Scylla wasn't having it. Challenged the entire newbie gang to a game. No one else on her team, just her."
     "Course, you've heard of these kinds of stories. Singlehandedly showed them all up, ended before they got a single point. She moved so quick, threw so fast that it was like she didn't even need a team."
     "And that was the issue, as it turns out. She didn't. She was a garbage team player and a ball hog, who was constantly going on week-long drinking benders before and after matches."
@@ -26,8 +26,8 @@ label ScyllaMarket:
     p "You wouldn't happen to be a generous benefactor that I could squeeze a few dubloons out of, would you?"
     "I sat down next to her at the bar."
     c "Not for free, at least. I've a proposition for you, regarding Wizardball."
-    p "Oh, let me guess, a fan? Well, autographs normally are fiveteen per signing, with a 50%% gratuity charge, but I suppose I could make an exception, iffin you get me another drink."
-    "I flagged down the bartener, and signalled for 2 brews."
+    p "Oh, let me guess, a fan? Well, autographs normally are eleventeen per signing, with a fifty percent gratuity charge, but I suppose I could make an exception, iffin you get me another drink."
+    "I flagged down the bartender, and signaled for 2 brews."
     c "Actually, I was interested in something else. I’m building a team, and I need players. What say you to getting back in the game? Getting to feel the rush of it all one more time?"
     "She damn near fell out of her seat laughing."
     p "HA! HAHAHA! OH, oh, gods above, that got me."
@@ -35,14 +35,14 @@ label ScyllaMarket:
     p "Oh fuck, you're serious."
     "The ale finally arrived, served in big metal tankards. She grabbed for both of them, and started nursing the first."
     p "Look, I hate to break it to you but sometimes it’s best to just let dreams die. Painfully and slowly. You get over it eventually!"
-    "She shot back the rest of the drink, and gave a whistful glare to the bottom of the mug, seeing her reflection, and more importantly, the lack of booze."
-    c "Looks like you've adapted just swimmingly to post-wizardball living. Don’t you want a chance to take back control of your life?"
+    "She shot back the rest of the drink, and gave a wistful glare to the bottom of the mug, seeing her reflection, and more importantly, the lack of suds."
+    c "Looks like you've adapted just swimmingly to post-wizardball living. Don’t you want a chance to take control of your life back?"
     p "Control is for chumps. Uncertainty, that's where it's at."
     c "Well you more than anyone would probably have an intimate knowledge of just how uncertain and wild those games can get."
     "She started to down the beer I had ordered for myself. I kept at it."
     c "You’ve got talent, Scylla. Talent that no one's seen for years, and if you don't get back in, they might never see again."
-    c "I know it's difficult, but I know you miss it too. Believe me, I've been there."
-    "She slammed the mug down, spilling it's precious liquid courage over the counter, stopping me in my tracks. Her face was long, and angry."
+    c "I know it's tough, but I know you miss it too. Believe me, I've been there."
+    "She slammed the mug down, spilling its precious liquid courage over the counter, stopping me in my tracks. Her face was long, and angry."
     p "Oh, I'm sure you do. I'm sure you know how it feels to let down everyone, time and time again, to be the laughing stock of an entire game. To be the bottom of the barrel, in a league made entirely of the losers who couldn't go big."
     p "Why should I trust you? Why do you CARE? Why do you suddenly show up, thinking you know who I am, how I feel? Why the fuck do you think you can bring up what I left behind?"
     "I was caught off guard, and her questions hit home. But, this was what I needed. She opened her shell, for just a second. If I didn't land this now, there'd be no way I could land it after. I'd need to tell her about something important."
@@ -61,7 +61,7 @@ label ScyllaMarket:
     c "Because I've been hurt too. I've fallen so far, I'm surprised I'm still standing."
     c "I was a pro-player. It was everything to me, Scylla. The game, it made me who I was."
     c "And it was taken from me, because of something I did."
-    "I took the flaggon she had slammed on the bar, and took a sip."
+    "I took the flagon she had slammed on the bar, and took a sip."
     c "I... I lost a friend. And in losing them, I lost everything else."
     c "The game, the supporters, my team... My own father turned his nose up at me."
     c "I was forced to stay a hermit for years, to punish me for what I did. For everything I caused."
@@ -74,9 +74,9 @@ label ScyllaMarket:
     label scylla_a2:
     "My mind went to my mother, and what I couldn't do for her. I refused to let that happen again."
     c "Because I've lived in uncertainty before. It was my mother."
-    c "She was a brilliant mind, and a sorcereess like no one else. Revolutionized the field of modern connective magic, for the better."
-    c "And she came down with a case of Scarlet Plague."
-    "I took the flaggon she had slammed on the bar, and took a sip."
+    c "She was a brilliant mind, and a sorceress like no one else. Revolutionized the field of modern connective magic, for the better."
+    c "And she came down with the Scarlet Plague."
+    "I took the flagon she had slammed on the bar, and took a sip."
     c "The entire time she was dying, my father was working non-stop, to try and save her. He was an artificer."
     c "Every day, he'd come up with something. Some ancient potion recipe, or some blessed amulet. Something that was sure to work, this time, it had to work."
     c "It never did."
@@ -96,10 +96,11 @@ label ScyllaMarket:
     p "... Fuck it. But I'm letting you know, I'm not playing sober."
     c "I'll have an open bar set up for you in the locker room."
     "There was a cheer from the bar, and I set down the tankard I had ordered. Scylla looked at it for a moment, still morose, took a deep breath, and grabbed it, letting out a cheer as she did."
-    p "THE NEXT ROUNDS ON ME, GENTS!"
+    p "THE NEXT ROUND’S ON ME, GENTS!"
     "There was another cheer, barkeeper included, who then sharped up, and started to fuss with her, as she downed the last of the tankard."
     hide scylla
     "I could still hear the carousing, as I looked at what was next."
 
   
 return
+

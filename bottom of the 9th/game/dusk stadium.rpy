@@ -1,4 +1,4 @@
-# Define y = character("Dusk")
+﻿# Define y = character("Dusk")
 # Define c = character("Casey")
 
 label DuskStadium:
@@ -16,24 +16,28 @@ label DuskStadium:
     
     show dusk
     
-    y "N'YOUT OF THE WAY N'YUMBSKULL"
-    "I found her sitting, front row, looking out at the empty wizardball field."
+    y "N'YOUT OF THE WAY, N'YUMBSKULL!"
+    "I found them sitting, front row, looking out at the empty Wizardball field."
     c "I beg your pardon but, what are you doing?"
     y "Watchin'..."
-    "Their eyes sqinted with the intent of a predator staking out their prey from afar."
+    "Their eyes squinted with the intent of a predator staking out their prey from afar."
     c "And... what might you be watching?"
-    y "The GAME dummy! The n'yone that n'You're blocking my view n'yof!"
+    y "The GAME, dummy! The n'yone that you're blocking my view n'yof!"
     c "But… There's no game going on right now."
-    y "N'YI N'KNOW that! But what n'yif there WAS!?"
+    y "Uhm, YEAH, n'yi know that? But what if there WAS!?"
     y "Then n'youd be the piss-baby-spinach-brain blocking it!"
     c "...I mean you're technically not wrong but-"
-    c "Wait what the fuck am I talking about? Look, wanna join my Wizardball team?"
-    y "Why n'yin the world would N'yi do n'ya thing like THAT?!"
-    y "FIRSTMOST, N'yi havent played n'yin like two n'years."
-    y "N'yand SECONDMOST, n'yor team n'yuniforms n'yare probably stinky!"
+    y "COURSE I'M N'YOT WRONG! N'yow beat it!"
+    "They sat deeper in their seat, and tried to look around me. This was going well so far."
+    c "Listen, my name is Casey Conrad Fisk, and I’m forming a pro Wizball team. I came here to recruit you. So, you wanna join up?"
+    y "Why, in n'ya world would I DO somethin' like THAT?!"
+    y "FIRSTMOST, I'ven't played in like, two years."
+    y "N'yand SECONDMOST, n'yor team uniforms are probably stinky!"
+    "I waited for a thirdmost that never came. They sat, intently staring at me, waiting for a rebuttal."
     menu:
-
-        "Why in the world is scent something that came to mind?":
+       "So, I feebly said..."
+ 
+        "Why in the world is scent something that came to mind? We can clean things, you know.":
             jump dusk_B4 
       
 
@@ -41,65 +45,70 @@ label DuskStadium:
             jump dusk_B5 
          
     label dusk_B4:
-    y "Why n'yin the world n'yare n'you the dumbest wizardball coach who n'yever coached wizardball?! Dumb rock n'eating coach!"
-    c "What are you basing any of these claims off of?"
-    y "Nothing n'yin particular! just n'yusing the n'yold feline-n'yintuition"
+    y "Why in nya world're you, the dumbest Wizardball coach who ever coached Wizardball, huh?! You moronic, rock-eatin' coach!"
+    y "Do you have n'yany idea how supremely sensitive and exacting a feline’s sense of smell is? Do you? Of course not, n’you brainless mound of steaming worm dung."
+    c "Right, sure, but what are you basing the assumption on?"
+    y "Oh, jeez, I dunno, maybe th'team's coach, who n'yapproached me smelling like, n'and I repeat myself, A BRAINLESS MOUND OF STEAMING WORM DUNG."
     jump dusk_B6
     
     label dusk_B5:
-    y "N'yi couldn't give n'ya rat's n'yass what n'ya crowd thought n'yof me."
-    c "To be completely honest, I envy that."
-    y "Very n'yunderstandable reaction!"
+    y "N'yi couldn't give a rat's ass what the crowd thought of me."
+    c "I seriously doubt that. We all say we don’t need the roar of the cheering fans, but you must admit, every cat loves to be loved."
+    y "N’you got that back-assward, chump! N’yeveryone wants to be a cat. N’yain’t you ever heard that before, or are n'ya just a n'yimrod?"
     
     label dusk_B6:
-    c "Okay but that aside, don't you miss the excitement of the game? The feeling of absolutely trampling the enemy team on your way to victory?"
-    y "N'yi n'yam n'ya fan n'yof trampling... buuuut, n'yi've got a nap scheduled for the nexy week n'yand a half so N'yi don't think N'yi'll be able to play for you."
-    c "At this point I'm not even suprised."
-    y "N'yawwww, n'yif N'yi were n'yas washed n'yup n'yas n'you n'yi would feel the n'yexact same way!"
-    c "Hey now. I'm the one taking the initiative to put a team together."
-    y "N'yit's N'YOKAY! N'you don't need to make n'yexcuses for n'yorself."
-    c "I don't even know why I'm here talking to you. You can call me all you want but I have a team and I'm gonna build it!"
-    "I hopped the seats and started making my way across the field in a huff"
-    "I'm not a washup. I'm on the rebound for gods sakes! That cat has no idea what they're talking about."
-    "I don't need them on my team. I'm gonna make a whole-ass team and were gonna win a whole-ass wizardball game."
-    "So why am I trying so hard to convince myself all this?"
-    "I hadn't realized it until now, but I had stopped walking through the field halfway through the field."
-    y "Hey n'yare you gonna move cause n'you're kinda getting n'yin the way n'yof the game."
-    "There was still no game in sight."
-    c "I really am just grasping at something I don't have am I?"
-    y "N'yi mean thats one way of putting n'yit... but that's n'yot necisarily n'ya bad thing!"
-    y "N'yadmitting n'ya situation is the first step n'yin dealing with it."
-    y "N'yits hard n'yowning n'yup to things, but n'yit will really help n'you n'yin the long run."
-    y "N'yi read that from the back n'yof a book someone threw n'yinto the garbage bin!"
-    y "So... maybe n'owning n'yup to how n'you feel about n'yourself will help."
-    c "I'm a washup."
-    y "What was that?"
-    c "I'm a Washup!"
-    y "N'yI can't hear you!"
-    c "I'M A WASHUP!"
-    y "N'YOU FUCKIN BET N'YOU ARE!"
-    c "HELL YEAH I AM. I'M A WASHUP AND NOBODY CAN TELL ME OTHERWISE!"
-    y "N'YAND WHAT N'IS THIS WASHUP GONNA DO?!"
-    c "FORM THE BEST GODSDAMN WIZARDBALL TEAM EVER!"
+    c "Fine, fine, but that aside, don't you miss the excitement of the game? The feeling of absolutely trampling the enemy team on your way to victory?"
+    y "N'yi am a fan of trampling them fools, what n’yeed trampling... buuuut, n'yI've got a nap scheduled for the n'yext, oh I dunno... year and a half so... n'yi don't think I'll be able to fit n'your little team n’yinto my schedule."
+    "I sighed, and put my hand to my face, rubbing my temples."
+    c "You know, at this point I'm not even surprised."
+    y "N’y’know, if n'yi were as washed-up as you, n'yi would feel the exact same way!"
+    c "Hey now. I'm the one taking the initiative to put a team together. The Katabas Comedians."
+    y "Hey, don’t you fret! N'you don't need to make excuses for yourself, n'yow."
+    c "I don't even know why I'm here talking to you. This is going nowhere, and fast."
+    "I knew that I needed to get them on the team, or else whatever Fate's plan was would fall apart, but my gods, it couldn't've been worse than this, and it was starting to get to me."
+    "I hopped the fence, and started to walk the field, desperate at an attempt to calm down somewhat, before diving headfirst back into Dusktown."
+    y "HEY! WASHUP! N'YOU GONN'YA MOVE OR WHAT? N'YOU'RE GETTIN' IN TH'WAY N'YOF THE GAME, HERE!"
+    "That one hit harder than the other insults, for whatever reason. Maybe it was because an empty field was preferred viewing to one with me on it, or the fact that I had some deeply repressed feelings being back on the green that Dusk brought forward, but either way..."
+    "I turned around, ready to lay into them, but nothing came out."
+    "No witty retort, no denial. Just... nothing."
+    "I wasn't a washup. I was making a whole-ass team, guided by the strongest Force in the world, and we were gonna change the face of Wizardball."
+    "But it wasn't that, was it? That wasn't the goal. There was no conquest to overcome. There wasn't a dragon to slay. There was no quest, no fanfare."
+    "Just a sad, lonely attempt at bringing something back that I missed."
+    c "...I really am just grasping at something I don't have, aren't I? Just a... A greedy old bastard, not ready to give up glory."
+    y "Hey, n'you said it, n'yot me."
+    "I looked at the ground, avoiding Dusk's gaze."
+    y "Which, n'yisn't to say, that that's a bad thing, necessarily."
+    y "It's hard ownin'yup to somethin', let alone somethin' of that particular m'yagnitude."
+    y "Wantin' somethin' you don't got is the first step in'yobtainin' that purrticular somethin'."
+    y "And ackn'yoliging your shortcomings is the only way to overcome 'em, I say."
+    y "So... Maybe you ownin'yup to how n'your feeling about this'll help you more than'nything else."
+    "Shocked isn't the right word. I was surprised, and a bit taken aback by how astute Dusk was. The words that I had wanted to say to Dusk when I first turned made their way forward, much stranger and different than what I expected."
+    c "I.. I’m a washup."
+    y "Hnm? What was that?"
+    c "I'm a washup!"
+    y "N'you bet your ass you are!"
+    c "HELL YEAH I AM. I'M A WASHUP!"
+    y "N'YAND WHAT N'IS THIS TIRED OLD WASHUP GONNA DO?!"
+    c "FORM THE BEST GODS-BE-DAMNED TEAM EVER!"
     y "N'YAND WHAT N'YARE THEY GONNA DO WITH THAT TEAM?!"
-    c "WIN SOME WIZARDBALL!"
-    y "WASH-UP! WASH-UP! WASH-UP!"
-    "I breathed a sigh of sweet relief after my outcry."
-    c "Wow, you're right that was... cathardic."
-    y "N'yi made n'yup my mind like 5 minuets n'yago by the way!"
+    c "WIN SOME GODS-BE-DAMNED WIZARDBALL!"
+    "I breathed a sigh of sweet relief after my outcry. The words still rich on my tongue, echoing through the stadium. I'd thought them before, sure, but it was this moment I wanted them realized."
+    c "Shit... you were right. That was... cathartic."
+    y "Good. Oh, and for n'your information, n’yI made up my mind about 5 minutes ago."
     c "What are you talking about?"
-    y "The TEAM dummy! N'yi wanted to play n'yon n'yit from the moment n'you pitched n'yit to me."
-    "I wasn't even mad. I laghed a little at the absurd awfulness of it and then asked..."
-    c "If you already wanted to play, why did you act so opposed to it?"
-    y "BECAUSE n'yi could tell n'you were down in the dumps n'yand needed n'ya little help to get n'yout n'yof that."
-    "I racked my brain for some witty retort but in this moment I didn't need one. I just sighed and took my revalations in."
+    y "The team, n’you thundering simpleminded cretin! N'yI wanted to play on'yer team from the moment n'you actually pitched it to me."
+    "I wasn't even mad. I laughed a little at the absurd awfulness of it and then asked..."
+    c "If you already wanted to play, why did you give me such a damned hard time?"
+    y "N’I'll let you decide if it was because n'yI could tell th'you were down in the dumps'nd n'yeeded a little help, or because n'yI like to create problems to see how they eventually resolve themselves. Like fire, for n'yinstance."
+    "I wracked my brain for some clever retort but in this moment, I just sighed and took in my revelations."
     c "Welcome to the team, Dusk"
-    "I filled them in on the details, and after some promises of logo alterations and alternative forms of payment, namely corpses, they promised to meet me at the stadium."
+    "I filled them in on the details, and after some promises of logo alterations and alternative forms of payment, namely any corpses accumulated, they promised to meet me at the stadium."
 
     hide dusk
 
-    "That was one obligation done. Here's hoping fate knew what it was doing. Next up, was..."
+    "That was one obligation done. Here's hoping Fate knew what it was doing. Next up, was..."
 
 
 return
+
 

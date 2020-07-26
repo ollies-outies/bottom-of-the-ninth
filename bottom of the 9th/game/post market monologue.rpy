@@ -11,10 +11,10 @@ label PostMarket:
 
     "A change of pace. Market was a big hit, it turned out. Lots of friendly faces, lots of new pals."
 
-    "But fate still had it in for me, ya see? So I let fate guide my footfalls, for a while."
+    "But Fate still had it in for me, ya see? So I let Fate guide my footfalls, for a while."
     "Let my mind wander, and had my body following after it."
     "I thought about where I was now. How this whole thing was coming together."
-    "The Comedians. That's what V always said he wanted his team to be called. I never got V's mind, but I still loved hearing about it."
+    "The Comedians. That's what Vic always said he wanted his team to be called. I never got V's mind, but I still loved hearing about it."
     "Figured I ought to pay respects, judging by what I did."
     "It still hurts to think about that day, just five years ago."
     "I was getting older, ya know. Not as spry and magic as I was in my prime."
@@ -31,23 +31,23 @@ label PostMarket:
     show ordog
 
     "A demon, notorious around the underworld circut. Purveyer of the best stimulants in the game."
-    "And, as fate would have it, we shared a dinner table after some victorious game. I don't even recall what for."
-    "He offered me a potion. Superior Mana, he called it. Said to boost your slots, and fill your meters, satisfaction Guaranteed."
-    "And like a fool, I took it."
+    "And, as Fate would have it, we shared a dinner table after some victorious game. I don't even recall what for."
+    "He offered me a potion. Superior Mana, he called it. Said to boost your slots, and refill your meters, Satisfaction Guaranteed."
+    "And like a fool, I took it. Planned to use it my very next game."
     "See, my issue wasn't needing to refill. My capacity was just getting lower."
     "So when my dumb ass drank it..."
-    "I surged."
-    "Wizardball encourages stimulants. It's part of the fun, seeing just how crazy far you can take something."
+    "I Surged."
+    "Look, Wizardball encourages stimulants. It's part of the fun, seeing just how crazy far you can take something."
     "They even encourage injury! There's a full staff of healers waiting by the sidelines to rush to people who had their arms ripped off, or their guts spilled..."
     "Regeneration spells are amazing, and can fix almost anything."
     "But they can't fix death."
-    "After downing the pot, I turned to Victor. My teammate, Victor, who I had been through over twenty years of hardships with..."
+    "After downing the pot, I was ready to play. First pass of the game, I turned to Victor. My teammate, Victor, my best friend, who I had been through over twenty years of triumphs and hardships with..."
     "And instead of a Fire Ball for a pass..."
     "An Arc of Death came out." 
     "No medics. No Greater Healing Touches."
     "Just the cold, departed body of my friend, and a game stuck in stalemate."
-    "They said the arc'd destroyed the soul. Revivals are just Raise Undead's if the soul's missing."
-    "They stripped me of anything I had, and forced me into Hermitude, to pay for my crimes. All for a crime I didn't mean to commit."
+    "They said the arc'd destroyed the soul. Revivals are just Raise Undead's if the soul's missing. Not only that, they’re illegal. No soul – no revive."
+    "They stripped me of everything I had, banned me from the game for life, and forced me into Hermitude, to pay for my crime. A crime I didn't mean to commit."
     
     hide ordog
     show casey
@@ -57,8 +57,8 @@ label PostMarket:
     scene bg stadium
 
     "And somehow, I keep getting pulled back here."
-    "This is what I think fate's telling me. That's why I started the Comedians. To honor him, and to finally anchor me here. To live with what I did, and to move on."
-    "I can't argue with where fate's guiding me. All I can do is adapt and thrive."
+    "This is what I think Fate's telling me. That's why I started the Comedians. To honor him, and to finally anchor me here. To live with what I did, and to move on."
+    "I can't argue with where Fate's guiding me. All I can do is adapt and thrive."
    
     hide casey
     
@@ -71,3 +71,4 @@ label PostMarket:
     $ renpy.call(encounter6)
 
     jump PostParkMonologue
+
