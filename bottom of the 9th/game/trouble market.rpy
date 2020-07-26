@@ -36,7 +36,7 @@ menu:
             "You look like you need help, Comings.": 
              jump trouble_A1
 
-            "Carrying on the family legacy, are ya know?": 
+            "Carrying on the family legacy, are ya now?": 
              jump trouble_A2
 
 label trouble_A1:
