@@ -1,6 +1,6 @@
 ﻿
-define c = Character("Casey")
-define q = Character("Ordog")
+# define c = Character("Casey")
+# define q = Character("Ordog")
 
 label PostParkMonologue:
 

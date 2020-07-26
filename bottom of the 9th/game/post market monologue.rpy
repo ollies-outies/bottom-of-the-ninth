@@ -1,6 +1,4 @@
 ﻿
-define c = Character("C")
-
 label PostMarket:
 
 
