@@ -8,7 +8,7 @@ label DiverMarket:
     " "
     "The first thing that stuck out to me was the suit."
     "I'd heard about Diver before. Some fisherman scooped up something unknowable from the bottom of the ocean, off the Varicinian Coast."
-    "Damn near lost his mind, but the thing scuttled into a nearby bathy-suit, and walked the fisherman through therapeutic breathing exercises."
+    "Damn near lost his mind, but the thing scuttled into a nearby bathosuit, and walked the fisherman through therapeutic breathing exercises."
     "Since then, thing's been on land, trying to deal with society. And because of Fate's funny hand, it ended up in the minor circuit."
     
     hide carddiver
