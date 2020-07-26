@@ -20,7 +20,7 @@ label TroubleStadium:
 
     "So to see him here, lamenting the shitty deal that fate's decided to deal him... It only made sense."
     "He was sitting on the railing, looking into the field. No doubt, imagining himself running, ball tucked in one hand, blade in the other."
-    "'course, when I snuck up behind him and asked him,"
+    "'Course, when I snuck up behind him and asked him,"
     c "Do you wanna join my new team, kid?"
     "He damn near fell off his seat."
     "Never was a dexterous one, that Trouble Comings."
@@ -37,7 +37,7 @@ label TroubleStadium:
     c "Let me explain, Trouble. See, I-"
     # show trouble_happy
     t "YOU KNOW MY NAME?"
-    c "'course, kid! You're one of the best in the Minor League! Hell, I prefer to watch minor to major. Way more creative strategies than what those egghead coaches think up."
+    c "'Course, kid! You're one of the best in the Minor League! Hell, I prefer to watch minor to major. Way more creative strategies than what those egghead coaches think up."
     c "Anyway! I've decided to be an egghead coach. We're centralized right here in Katabas!"
     t "Uhh?! This is way too good to be true. What's the catch?"
     c "Our first game is in Hell, in less than a week."
