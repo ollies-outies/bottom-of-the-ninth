@@ -26,7 +26,7 @@ label AldricMarket:
     "I will admit, Yurtle’s Law made schoolyard games very worrying, growing up. It did cause the snail to become a very popular pet, though. I mean, I had one."
     "But, remembering youth wasn't getting me closer to assembling a team, and Aldric was starting to do the unthinkable; switch topics."
     b "You know, I love the smell of the market in the morning. Katabas is wonderful, especially this time of year. That reminds me of this one QUEST I went on to the southern Valleys, near Brauns? If you haven't been, it is just LOVELY..."
-    "Obviously Aldric wanted to join the team, or at least check the option out. But how to subtly ease the conversation back to the topic?”
+    "Obviously Aldric wanted to join the team, or at least check the option out. But how to subtly ease the conversation back to the topic?"
     
     menu:
         "I finally interrupted, loudly saying..."

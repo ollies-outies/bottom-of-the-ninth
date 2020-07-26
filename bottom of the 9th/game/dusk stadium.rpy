@@ -35,7 +35,7 @@ label DuskStadium:
     y "N'yand SECONDMOST, n'yor team uniforms are probably stinky!"
     "I waited for a thirdmost that never came. They sat, intently staring at me, waiting for a rebuttal."
     menu:
-       "So, I feebly said..."
+        "So, I feebly said..."
  
         "Why in the world is scent something that came to mind? We can clean things, you know.":
             jump dusk_B4 

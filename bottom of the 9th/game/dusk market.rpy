@@ -78,7 +78,7 @@ label DuskMarket:
     c "Have I seriously still not introduced myself?! Casey Conrad Fisk. Coach of the Katabas Comedians. Look, what'll it take to get you on the team? I'd really rather not have another deranged necromancer on the streets, especially when I can do something about it."
     "They turned around for a moment, and muttered to themselves, for a bit. I probably could have listened in, but I was preoccupied with thinking about how painful paper cuts in your stomach would be. Eventually, they turned back around, with a small list prepared."
     y "N'alright, got my demands. They are limited to n'yot just the following, but include, at BARE MINIMUM!"
-    y "1. I get to be the team MASCOT! Including but once again, n'yot limited to: 50 percent of all team merchandise earnings, t-shirts with me onn'em doing something cool like, breaking someone’s legs'r something, commemorative Dusk smoke lighters to celebrate me, and, uh... 
+    y "1. I get to be the team MASCOT! Including but once again, n'yot limited to: 50 percent of all team merchandise earnings, t-shirts with me onn'em doing something cool like, breaking someone’s legs'r something, commemorative Dusk smoke lighters to celebrate me, and, uh..."
     y "Oh yeah, and if we win, then'ya gotta let me take the team to my favorite place to get grub t'eat n'yafterwards."
     y "SPOILER: it's very cozy."
     y "SPOILER-SPOILER: it's the sewer."
