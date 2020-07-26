@@ -42,7 +42,7 @@ label DuskMarket:
     y "Purrcicely what n’yI was going for!"
     "They stood proudly, and smugly, and more importantly, expectantly. Was this a joke? Was that a joke?"
     menu: 
-    "I realized I should do something, so I..."
+          "I realized I should do something, so I..."
   
           "Laughed.":
               jump dusk_B1

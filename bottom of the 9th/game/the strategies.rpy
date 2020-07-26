@@ -54,21 +54,21 @@ label DoneSelection:
 
     menu: 
     
-        c "What we're gonna do is..."
-  
-        "The Maneuver.":
+        c "What we're gonna do is...\n\nMight: [Might] \nMagic: [Magic] \nMovement: [Movement]"
+
+        "The Maneuver (10 Might)":
             jump strat1
 
-        "The Scheme.":
+        "The Scheme (10 Movement)":
             jump strat2
 
-        "The Plot":
+        "The Plot (10 Magic)":
             jump strat3
 
-        "The Technique":
+        "The Technique (6 Might 6 Magic 6 Movement)":
             jump strat4
 
-        "The Dream":
+        "The Dream (24 Total)":
             jump strat5
 
 
