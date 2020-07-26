@@ -125,6 +125,8 @@ label TroubleStadium:
     t "I'll... I'll see you there, Coach."
     "I smiled."
     c "Glad to hear it."
+    hide trouble
+    "We parted ways, after a bit longer, him to do what might be his last hunt of his life, and me, to find..."
 
     return
 
