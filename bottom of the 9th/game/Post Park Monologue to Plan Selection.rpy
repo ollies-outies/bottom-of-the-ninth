@@ -12,7 +12,7 @@ label PostParkMonologue:
     "I had a team now, or at least the bare bones needed to call it one. They hadn't met yet, but I knew they were gonna be flawless."
     "But then, the question remained: was I?"
     "I put this whole farce together because I am still grief-stricken for a life-altering fuckup I made."
-    "Because I lost control, for just a second, and killed a man that I considered family. Like I said, life-altering fuckup."
+    "Because I lost control, for just a second, and killed a man that I considered family."
     "I'm tired. I'm old. I'm angry, and sad, and I don't know if that'll be enough."
     
     scene bg hellmarket
