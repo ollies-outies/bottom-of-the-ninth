@@ -71,6 +71,7 @@ label WhippyStadium:
     
     label whippy_B1:
     "I gave my answer, and waited for a response that never came."
+    hide whippy
     "Whatever Whippy was thinking was enough. And what I was thinking..."
     "Was how much I enjoyed getting back on the field."
     "Everything about it."
