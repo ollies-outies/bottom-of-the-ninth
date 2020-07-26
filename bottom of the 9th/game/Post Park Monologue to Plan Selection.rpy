@@ -7,7 +7,8 @@ label PostParkMonologue:
     scene bg stadium
 
     show casey
-
+    
+    "No one. Unless, that is, Fate wants Gerblin Green to play for me."
     "It always feels good to go back to your old stomping grounds. Regardless of the circumstances."
     "I had a team now, or at least the bare bones needed to call it one. They hadn't met yet, but I knew they were gonna be flawless."
     "But then, the question remained: was I?"
