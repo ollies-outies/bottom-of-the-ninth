@@ -57,7 +57,7 @@ label start:
     show casey
     
     c " "
-    c "I realize that you probably can't hear this, Vic, but... I mean it."
+    c "I realize that you probably can't hear this, V, but... I mean it."
     c "I'm sorry."
     
     "My name is Casey Conway Fisk. I'm a ex-professional Wizardball player, living out in the boonies, in a little town called Katabas."
@@ -73,7 +73,7 @@ label start:
     "I was the biggest star the field's ever seen, ya know. The mighty C.C., up on the mound. Had my face on quite a number of breakfast foods."
     "But of course, the bigger you are, the harder you fall."
     "Maybe it's that desire to be big and important again, or maybe it's the nagging feeling in my heart since I was asked to leave."
-    "I still love the game, simply put. I love everything about it, from the feeling of dirt pulling at your feet, to the roar of the crowd as someone lands a Fire Bolt."
+    "I still love the game, simply put. I love everything about it, from the feeling of dirt pulling at your feet, to the roar of the crowd as someone lands a Lightning Bolt."
     "And as much as I tried, I couldn't live without it."
     
     scene bg smoke
@@ -86,7 +86,7 @@ label start:
     "And, in this case, I've been given a pack of Coven brand ''Minor League's Up & Coming Rookie'' cards."
     "Complete, of course, with a stick of Gerblin Green Chewing Gum, which was as stale as a rock."
     "Each card in a pack of 6 comes complete with assessment values of the 3 things that matter in Wizardball- Might, Magic, and Movement."
-    "Aside from the pack being a wonderful collector’s item, and coming with what can arguably be described as a piece of candy, it also shows what the next big team might be. Wizardball is played in teams of six, of course – just like a pack of Coven Cards."
+    "Aside from the pack being a wonderful collector’s item, and coming with what can arguably be described as a piece of candy, it also shows what the next big team might be. Wizardball is played in teams of six, of course."
     "See, I could no longer play on the field. The game’s Executive Board wouldn't let me. Still won't, in fact."
     "But I could gather a team, and play Coach, from the backlines."
     "Hand picked, by none other than the swaying hand of Fate, I could amass a group of players that were never given the chance to go big, and finally let 'em."
