@@ -179,7 +179,7 @@ label DoneSelection:
 
     label strat3:
     c "Yeah, the Plot."
-    c "Okay everyone, remember that if you hold hands and believe in the power of friendship, it's been proven to make your Lightning Bolts 80% more vicious." 
+    c "Okay everyone, remember that if you hold hands and believe in the power of friendship, it's been proven to make your Lightning Bolts 80 percent more vicious." 
     c "Kick ass, have fun, and take names!"
     "It was out of my hands, now. All I could do is watch them flourish, hope, and listen to the announcements."
     i "DISTINGUISHED VIEWERS, FROM ALL CORNERS OF THE WORLD, ARE YOU READY TO CAAAAST?"
@@ -251,12 +251,17 @@ label DoneSelection:
     i "Such a risky maneuver, and on their first game?! This is something even VETERANS are scared to do!"
     i "AND AT 0/0??!"
     i "The ball is fired to the U.C.F., who lines it up...! The Tophets are coming from every angle, charging like a pack of wild animals, but they're too late! The ball is cast, and...!"
-    if Magic >= 6 && Might >= 6 && Movement >=6:
-        i "SCORES, FOR THE COMEDIANS, THE ONLY SCORE THEY'D NEED, AND JUST LIKE THAT, THEY'VE SECURED THE GAME, FOLKS! YOU HEARD IT HERE FIRST, THESE COMEDIANS WON THEIR FIRST GAME WITH A GOD DAMN SUDDEN DEATH SHOT!"
-        jump teamWin
-    else:
+    if Magic < 6:
+        jump s4loss
+    elif Might < 6:
+        jump s4loss
+    elif Movement < 6:
+        label s4loss:
         i "MISSES ENTIRELY!!! THE COMEDIANS LOSE, BUT WHAT A HELL OF A SHOW! WHAT A SHOW, FOLKS!"
         jump teamLoss
+    else:
+        i "SCORES, FOR THE COMEDIANS, THE ONLY SCORE THEY'D NEED, AND JUST LIKE THAT, THEY'VE SECURED THE GAME, FOLKS! YOU HEARD IT HERE FIRST, THESE COMEDIANS WON THEIR FIRST GAME WITH A GOD DAMN SUDDEN DEATH SHOT!"
+        jump teamWin
 
     label strat5:
     c "Yeah. The Dream."
